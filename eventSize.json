@@ -3,3298 +3,3298 @@
         {
             "events": 400,
             "label": "generalTracks",
-            "size_uncom": 629865.0,
-            "size_compr": 208109.0,
+            "size_uncom": 240.27442932128906,
+            "size_compr": 79.38728332519531,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "particleFlow",
-            "size_uncom": 730943.0,
-            "size_compr": 114302.0,
+            "size_uncom": 278.83262634277344,
+            "size_compr": 43.602752685546875,
             "type": "recoPFCandidates"
         },
         {
             "events": 400,
             "label": "genParticles",
-            "size_uncom": 356199.0,
-            "size_compr": 30946.2,
+            "size_uncom": 135.87913513183594,
+            "size_compr": 11.805038452148438,
             "type": "recoGenParticles"
         },
         {
             "events": 400,
             "label": "hltTriggerSummaryAOD",
-            "size_uncom": 74657.9,
-            "size_compr": 21476.6,
+            "size_uncom": 28.479728698730465,
+            "size_compr": 8.192672729492188,
             "type": "triggerTriggerEvent"
         },
         {
             "events": 400,
             "label": "trackExtrapolator",
-            "size_uncom": 42524.5,
-            "size_compr": 13366.5,
+            "size_uncom": 16.22180938720703,
+            "size_compr": 5.098915100097656,
             "type": "recoTrackExtrapolations"
         },
         {
             "events": 400,
             "label": "hltScoutingTrackPacker",
-            "size_uncom": 25452.0,
-            "size_compr": 11677.9,
+            "size_uncom": 9.70916748046875,
+            "size_compr": 4.454765319824219,
             "type": "Run3ScoutingTracks"
         },
         {
             "events": 400,
             "label": "ak4PFJets",
-            "size_uncom": 59512.0,
-            "size_compr": 10517.6,
+            "size_uncom": 22.7020263671875,
+            "size_compr": 4.01214599609375,
             "type": "recoPFJets"
         },
         {
             "events": 400,
             "label": "addPileupInfo",
-            "size_uncom": 26325.8,
-            "size_compr": 8591.95,
+            "size_uncom": 10.042495727539062,
+            "size_compr": 3.2775688171386723,
             "type": "PileupSummaryInfos"
         },
         {
             "events": 400,
             "label": "dedxHarmonic2",
-            "size_uncom": 25997.6,
-            "size_compr": 8098.82,
+            "size_uncom": 9.91729736328125,
+            "size_compr": 3.0894546508789062,
             "type": "recoDeDxDataedmValueMap"
         },
         {
             "events": 400,
             "label": "dedxPixelHarmonic2",
-            "size_uncom": 26009.0,
-            "size_compr": 8002.07,
+            "size_uncom": 9.921646118164062,
+            "size_compr": 3.0525474548339844,
             "type": "recoDeDxDataedmValueMap"
         },
         {
             "events": 400,
             "label": "ak4PFJetsCHS",
-            "size_uncom": 41073.1,
-            "size_compr": 7911.68,
+            "size_uncom": 15.668144226074219,
+            "size_compr": 3.01806640625,
             "type": "recoPFJets"
         },
         {
             "events": 400,
             "label": "hltScoutingPFPacker",
-            "size_uncom": 23163.3,
-            "size_compr": 6979.22,
+            "size_uncom": 8.836097717285156,
+            "size_compr": 2.6623611450195312,
             "type": "Run3ScoutingParticles"
         },
         {
             "events": 400,
             "label": "generalTracksMVAValues",
-            "size_uncom": 8623.7,
-            "size_compr": 6817.28,
+            "size_uncom": 3.2896804809570317,
+            "size_compr": 2.6005859375,
             "type": "floats"
         },
         {
             "events": 400,
             "label": "hltGtStage2ObjectMap",
-            "size_uncom": 72573.7,
-            "size_compr": 6695.29,
+            "size_uncom": 27.684669494628906,
+            "size_compr": 2.5540504455566406,
             "type": "GlobalObjectMapRecord"
         },
         {
             "events": 400,
             "label": "muons",
-            "size_uncom": 15432.5,
-            "size_compr": 6633.14,
+            "size_uncom": 5.887031555175781,
+            "size_compr": 2.5303421020507812,
             "type": "recoMuons"
         },
         {
             "events": 400,
             "label": "reducedEcalRecHitsEB",
-            "size_uncom": 14531.1,
-            "size_compr": 6598.44,
+            "size_uncom": 5.543174743652344,
+            "size_compr": 2.5171051025390625,
             "type": "EcalRecHitsSorted"
         },
         {
             "events": 400,
             "label": "offlinePrimaryVertices",
-            "size_uncom": 51349.1,
-            "size_compr": 6349.66,
+            "size_uncom": 19.58812713623047,
+            "size_compr": 2.4222030639648438,
             "type": "recoVertexs"
         },
         {
             "events": 400,
             "label": "offlinePrimaryVerticesWithBS",
-            "size_uncom": 51353.3,
-            "size_compr": 6246.88,
+            "size_uncom": 19.58972930908203,
+            "size_compr": 2.38299560546875,
             "type": "recoVertexs"
         },
         {
             "events": 400,
             "label": "ak4CaloJets",
-            "size_uncom": 27389.6,
-            "size_compr": 6134.98,
+            "size_uncom": 10.44830322265625,
+            "size_compr": 2.3403091430664062,
             "type": "recoCaloJets"
         },
         {
             "events": 400,
             "label": "reducedEcalRecHitsEE",
-            "size_uncom": 12207.2,
-            "size_compr": 6131.23,
+            "size_uncom": 4.65667724609375,
+            "size_compr": 2.338878631591797,
             "type": "EcalRecHitsSorted"
         },
         {
             "events": 400,
             "label": "cscSegments",
-            "size_uncom": 11381.6,
-            "size_compr": 6010.7,
+            "size_uncom": 4.34173583984375,
+            "size_compr": 2.2929000854492188,
             "type": "CSCDetIdCSCSegmentsOwnedRangeMap"
         },
         {
             "events": 400,
             "label": "multi5x5SuperClustersmulti5x5EndcapBasicClusters",
-            "size_uncom": 19245.4,
-            "size_compr": 5703.69,
+            "size_uncom": 7.341537475585938,
+            "size_compr": 2.1757850646972656,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "conversionStepTracks",
-            "size_uncom": 15164.2,
-            "size_compr": 5421.48,
+            "size_uncom": 5.7846832275390625,
+            "size_compr": 2.0681304931640625,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "lowPtGsfElectrons",
-            "size_uncom": 10498.5,
-            "size_compr": 4785.5,
+            "size_uncom": 4.004859924316406,
+            "size_compr": 1.8255233764648438,
             "type": "recoGsfElectrons"
         },
         {
             "events": 400,
             "label": "hpsPFTauProducer",
-            "size_uncom": 23002.4,
-            "size_compr": 4206.96,
+            "size_uncom": 8.77471923828125,
+            "size_compr": 1.604827880859375,
             "type": "recoPFTaus"
         },
         {
             "events": 400,
             "label": "particleFlowTmpPtrs",
-            "size_uncom": 81382.7,
-            "size_compr": 4002.18,
+            "size_uncom": 31.04503631591797,
+            "size_compr": 1.5267105102539062,
             "type": "recoPFCandidateedmFwdPtrs"
         },
         {
             "events": 400,
             "label": "particleFlowPtrs",
-            "size_uncom": 81370.5,
-            "size_compr": 3989.94,
+            "size_uncom": 31.040382385253906,
+            "size_compr": 1.5220413208007812,
             "type": "recoPFCandidateedmFwdPtrs"
         },
         {
             "events": 400,
             "label": "allConversions",
-            "size_uncom": 13205.9,
-            "size_compr": 3418.58,
+            "size_uncom": 5.037651062011719,
+            "size_compr": 1.3040847778320312,
             "type": "recoConversions"
         },
         {
             "events": 400,
             "label": "displacedStandAloneMuons",
-            "size_uncom": 7384.58,
-            "size_compr": 3242.18,
+            "size_uncom": 2.8169937133789062,
+            "size_compr": 1.2367935180664062,
             "type": "TrackingRecHitsOwned"
         },
         {
             "events": 400,
             "label": "reducedHcalRecHitshbhereco",
-            "size_uncom": 5653.07,
-            "size_compr": 3233.22,
+            "size_uncom": 2.156475067138672,
+            "size_compr": 1.2333755493164062,
             "type": "HBHERecHitsSorted"
         },
         {
             "events": 400,
             "label": "ak4JetID",
-            "size_uncom": 7972.69,
-            "size_compr": 3207.33,
+            "size_uncom": 3.041339874267578,
+            "size_compr": 1.2234992980957031,
             "type": "recoJetIDedmValueMap"
         },
         {
             "events": 400,
             "label": "dedxHitInfo",
-            "size_uncom": 7684.07,
-            "size_compr": 3167.18,
+            "size_uncom": 2.9312400817871094,
+            "size_compr": 1.2081832885742188,
             "type": "recoDeDxHitInfos"
         },
         {
             "events": 400,
             "label": "lowPtGsfElectronSuperClusters",
-            "size_uncom": 7516.69,
-            "size_compr": 3096.37,
+            "size_uncom": 2.867389678955078,
+            "size_compr": 1.1811714172363281,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "refittedStandAloneMuons",
-            "size_uncom": 6890.98,
-            "size_compr": 3037.18,
+            "size_uncom": 2.6287002563476562,
+            "size_compr": 1.1585922241210938,
             "type": "TrackingRecHitsOwned"
         },
         {
             "events": 400,
             "label": "standAloneMuons",
-            "size_uncom": 6890.34,
-            "size_compr": 3034.8,
+            "size_uncom": 2.6284561157226562,
+            "size_compr": 1.157684326171875,
             "type": "TrackingRecHitsOwned"
         },
         {
             "events": 400,
             "label": "reducedEcalRecHitsES",
-            "size_uncom": 7134.56,
-            "size_compr": 2899.95,
+            "size_uncom": 2.72161865234375,
+            "size_compr": 1.1062431335449219,
             "type": "EcalRecHitsSorted"
         },
         {
             "events": 400,
             "label": "hltScoutingEgammaPacker",
-            "size_uncom": 34101.8,
-            "size_compr": 2571.01,
+            "size_uncom": 13.008804321289064,
+            "size_compr": 0.9807624816894532,
             "type": "Run3ScoutingPhotons"
         },
         {
             "events": 400,
             "label": "correctedMulti5x5SuperClustersWithPreshower",
-            "size_uncom": 9278.26,
-            "size_compr": 2532.3,
+            "size_uncom": 3.5393753051757812,
+            "size_compr": 0.9659957885742189,
             "type": "recoSuperClusters"
         },
         {
             "events": 400,
             "label": "ak4JetTracksAssociatorAtVertexPF",
-            "size_uncom": 9046.92,
-            "size_compr": 2490.21,
+            "size_uncom": 3.4511260986328125,
+            "size_compr": 0.9499397277832031,
             "type": "recoJetedmRefToBaseProdrecoTracksrecoTrackrecoTracksTorecoTrackedmrefhelperFindUsingAdvanceedmRefVectorsAssociationVector"
         },
         {
             "events": 400,
             "label": "JetPlusTrackZSPCorJetAntiKt4",
-            "size_uncom": 18049.7,
-            "size_compr": 2345.76,
+            "size_uncom": 6.885414123535156,
+            "size_compr": 0.8948364257812501,
             "type": "recoJPTJets"
         },
         {
             "events": 400,
             "label": "hpsPFTauTransverseImpactParametersPFTauTIP",
-            "size_uncom": 5844.9,
-            "size_compr": 2311.57,
+            "size_uncom": 2.2296524047851562,
+            "size_compr": 0.8817939758300782,
             "type": "recoPFTauTransverseImpactParameters"
         },
         {
             "events": 400,
             "label": "hybridSuperClustershybridBarrelBasicClusters",
-            "size_uncom": 11062.5,
-            "size_compr": 2237.69,
+            "size_uncom": 4.220008850097656,
+            "size_compr": 0.8536109924316406,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "multi5x5SuperClustersWithPreshowerpreshowerYClusters",
-            "size_uncom": 12005.1,
-            "size_compr": 2154.07,
+            "size_uncom": 4.579582214355469,
+            "size_compr": 0.8217124938964845,
             "type": "recoPreshowerClusters"
         },
         {
             "events": 400,
             "label": "multi5x5SuperClustersWithPreshowerpreshowerXClusters",
-            "size_uncom": 11217.2,
-            "size_compr": 2073.89,
+            "size_uncom": 4.279022216796875,
+            "size_compr": 0.7911262512207031,
             "type": "recoPreshowerClusters"
         },
         {
             "events": 400,
             "label": "ak8GenJets",
-            "size_uncom": 9755.61,
-            "size_compr": 2045.86,
+            "size_uncom": 3.7214698791503906,
+            "size_compr": 0.7804336547851562,
             "type": "recoGenJets"
         },
         {
             "events": 400,
             "label": "ak8GenJetsNoNu",
-            "size_uncom": 9661.24,
-            "size_compr": 2020.58,
+            "size_uncom": 3.6854705810546875,
+            "size_compr": 0.7707901000976562,
             "type": "recoGenJets"
         },
         {
             "events": 400,
             "label": "displacedGlobalMuons",
-            "size_uncom": 5041.28,
-            "size_compr": 1829.04,
+            "size_uncom": 1.923095703125,
+            "size_compr": 0.697723388671875,
             "type": "TrackingRecHitsOwned"
         },
         {
             "events": 400,
             "label": "photons",
-            "size_uncom": 3306.84,
-            "size_compr": 1808.01,
+            "size_uncom": 1.2614593505859375,
+            "size_compr": 0.6897010803222656,
             "type": "recoPhotons"
         },
         {
             "events": 400,
             "label": "gedPhotons",
-            "size_uncom": 3190.8,
-            "size_compr": 1756.62,
+            "size_uncom": 1.217193603515625,
+            "size_compr": 0.6700973510742188,
             "type": "recoPhotons"
         },
         {
             "events": 400,
             "label": "gedGsfElectrons",
-            "size_uncom": 3378.6,
-            "size_compr": 1751.0,
+            "size_uncom": 1.2888336181640625,
+            "size_compr": 0.6679534912109375,
             "type": "recoGsfElectrons"
         },
         {
             "events": 400,
             "label": "ak4JetExtender",
-            "size_uncom": 3753.62,
-            "size_compr": 1685.72,
+            "size_uncom": 1.4318923950195312,
+            "size_compr": 0.6430511474609375,
             "type": "recoJetedmRefToBaseProdTorecoJetExtendedAssociationJetExtendedDatasAssociationVector"
         },
         {
             "events": 400,
             "label": "ak4GenJets",
-            "size_uncom": 7389.43,
-            "size_compr": 1651.04,
+            "size_uncom": 2.8188438415527344,
+            "size_compr": 0.62982177734375,
             "type": "recoGenJets"
         },
         {
             "events": 400,
             "label": "ak4GenJetsNoNu",
-            "size_uncom": 7242.59,
-            "size_compr": 1615.39,
+            "size_uncom": 2.762828826904297,
+            "size_compr": 0.6162223815917969,
             "type": "recoGenJets"
         },
         {
             "events": 400,
             "label": "ak4JetTracksAssociatorAtVertex",
-            "size_uncom": 5557.33,
-            "size_compr": 1520.82,
+            "size_uncom": 2.119953155517578,
+            "size_compr": 0.5801467895507812,
             "type": "recoJetedmRefToBaseProdrecoTracksrecoTrackrecoTracksTorecoTrackedmrefhelperFindUsingAdvanceedmRefVectorsAssociationVector"
         },
         {
             "events": 400,
             "label": "inclusiveSecondaryVertices",
-            "size_uncom": 5796.65,
-            "size_compr": 1517.68,
+            "size_uncom": 2.2112464904785156,
+            "size_compr": 0.578948974609375,
             "type": "recoVertexs"
         },
         {
             "events": 400,
             "label": "offlinePrimaryVerticesWithBS",
-            "size_uncom": 6238.65,
-            "size_compr": 1485.81,
+            "size_uncom": 2.3798561096191406,
+            "size_compr": 0.5667915344238281,
             "type": "recoVertexsedmAssociation"
         },
         {
             "events": 400,
             "label": "offlinePrimaryVertices",
-            "size_uncom": 6234.52,
-            "size_compr": 1481.77,
+            "size_uncom": 2.3782806396484375,
+            "size_compr": 0.5652503967285156,
             "type": "recoVertexsedmAssociation"
         },
         {
             "events": 400,
             "label": "muonsFromCosmics",
-            "size_uncom": 3812.04,
-            "size_compr": 1476.82,
+            "size_uncom": 1.4541778564453125,
+            "size_compr": 0.5633621215820312,
             "type": "recoMuons"
         },
         {
             "events": 400,
             "label": "correctedHybridSuperClusters",
-            "size_uncom": 8068.41,
-            "size_compr": 1424.16,
+            "size_uncom": 3.0778541564941406,
+            "size_compr": 0.54327392578125,
             "type": "recoSuperClusters"
         },
         {
             "events": 400,
             "label": "uncleanedOnlyAllConversions",
-            "size_uncom": 5298.97,
-            "size_compr": 1406.88,
+            "size_uncom": 2.0213966369628906,
+            "size_compr": 0.53668212890625,
             "type": "recoConversions"
         },
         {
             "events": 400,
             "label": "electronGsfTracks",
-            "size_uncom": 3314.23,
-            "size_compr": 1397.92,
+            "size_uncom": 1.2642784118652344,
+            "size_compr": 0.53326416015625,
             "type": "recoGsfTracks"
         },
         {
             "events": 400,
             "label": "lowPtGsfEleGsfTracks",
-            "size_uncom": 3343.98,
-            "size_compr": 1389.89,
+            "size_uncom": 1.2756271362304688,
+            "size_compr": 0.5302009582519531,
             "type": "recoGsfTracks"
         },
         {
             "events": 400,
             "label": "particleFlowSuperClusterECALparticleFlowBasicClusterECALPreshower",
-            "size_uncom": 3590.69,
-            "size_compr": 1264.43,
+            "size_uncom": 1.3697395324707031,
+            "size_compr": 0.4823417663574219,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "genParticles",
-            "size_uncom": 6800.35,
-            "size_compr": 1257.03,
+            "size_uncom": 2.594127655029297,
+            "size_compr": 0.4795188903808594,
             "type": "ints"
         },
         {
             "events": 400,
             "label": "ak4JetTracksAssociatorExplicit",
-            "size_uncom": 3806.25,
-            "size_compr": 1226.31,
+            "size_uncom": 1.4519691467285156,
+            "size_compr": 0.4678001403808594,
             "type": "recoJetedmRefToBaseProdrecoTracksrecoTrackrecoTracksTorecoTrackedmrefhelperFindUsingAdvanceedmRefVectorsAssociationVector"
         },
         {
             "events": 400,
             "label": "dt4DSegments",
-            "size_uncom": 4567.95,
-            "size_compr": 1056.2,
+            "size_uncom": 1.7425346374511719,
+            "size_compr": 0.4029083251953125,
             "type": "DTChamberIdDTRecSegment4DsOwnedRangeMap"
         },
         {
             "events": 400,
             "label": "particleFlowSuperClusterECALparticleFlowBasicClusterECALBarrel",
-            "size_uncom": 2386.52,
-            "size_compr": 1045.5,
+            "size_uncom": 0.9103851318359375,
+            "size_compr": 0.39882659912109375,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "dt4DCosmicSegments",
-            "size_uncom": 4354.57,
-            "size_compr": 988.643,
+            "size_uncom": 1.6611366271972656,
+            "size_compr": 0.3771373748779297,
             "type": "DTChamberIdDTRecSegment4DsOwnedRangeMap"
         },
         {
             "events": 400,
             "label": "globalMuons",
-            "size_uncom": 1468.01,
-            "size_compr": 975.825,
+            "size_uncom": 0.5600013732910156,
+            "size_compr": 0.37224769592285156,
             "type": "recoTrackExtras"
         },
         {
             "events": 400,
             "label": "tevMuonsdefault",
-            "size_uncom": 1304.36,
-            "size_compr": 963.925,
+            "size_uncom": 0.49757385253906244,
+            "size_compr": 0.3677082061767578,
             "type": "recoTrackExtras"
         },
         {
             "events": 400,
             "label": "genPUProtons",
-            "size_uncom": 6352.66,
-            "size_compr": 961.125,
+            "size_uncom": 2.4233474731445312,
+            "size_compr": 0.3666400909423828,
             "type": "recoGenParticles"
         },
         {
             "events": 400,
             "label": "tevMuonspicky",
-            "size_uncom": 1292.59,
-            "size_compr": 952.78,
+            "size_uncom": 0.4930839538574218,
+            "size_compr": 0.36345672607421875,
             "type": "recoTrackExtras"
         },
         {
             "events": 400,
             "label": "tevMuonsfirstHit",
-            "size_uncom": 1222.15,
-            "size_compr": 899.33,
+            "size_uncom": 0.46621322631835943,
+            "size_compr": 0.3430671691894531,
             "type": "recoTrackExtras"
         },
         {
             "events": 400,
             "label": "tevMuonsdyt",
-            "size_uncom": 1203.01,
-            "size_compr": 882.375,
+            "size_uncom": 0.4589118957519531,
+            "size_compr": 0.33659934997558594,
             "type": "recoTrackExtras"
         },
         {
             "events": 400,
             "label": "particleFlowSuperClusterECALparticleFlowSuperClusterECALBarrel",
-            "size_uncom": 2440.26,
-            "size_compr": 855.928,
+            "size_uncom": 0.9308853149414064,
+            "size_compr": 0.3265106201171875,
             "type": "recoSuperClusters"
         },
         {
             "events": 400,
             "label": "ak4PFJetsPuppi",
-            "size_uncom": 3534.51,
-            "size_compr": 823.745,
+            "size_uncom": 1.3483085632324219,
+            "size_compr": 0.31423377990722656,
             "type": "recoPFJets"
         },
         {
             "events": 400,
             "label": "hltScoutingEgammaPacker",
-            "size_uncom": 7243.04,
-            "size_compr": 810.175,
+            "size_uncom": 2.76300048828125,
+            "size_compr": 0.30905723571777344,
             "type": "Run3ScoutingElectrons"
         },
         {
             "events": 400,
             "label": "particleFlowEGammaEBEEClusters",
-            "size_uncom": 1822.4,
-            "size_compr": 792.785,
+            "size_uncom": 0.6951904296875,
+            "size_compr": 0.30242347717285156,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "puppiNoLep",
-            "size_uncom": 11715.3,
-            "size_compr": 785.092,
+            "size_uncom": 4.469032287597656,
+            "size_compr": 0.29948883056640624,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "puppi",
-            "size_uncom": 11710.2,
-            "size_compr": 779.46,
+            "size_uncom": 4.4670867919921875,
+            "size_compr": 0.29734039306640625,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "particleFlowEGammaESClusters",
-            "size_uncom": 2220.71,
-            "size_compr": 778.058,
+            "size_uncom": 0.8471336364746094,
+            "size_compr": 0.29680557250976564,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "particleFlowEGamma",
-            "size_uncom": 2144.71,
-            "size_compr": 726.898,
+            "size_uncom": 0.8181419372558594,
+            "size_compr": 0.27728958129882814,
             "type": "recoSuperClusters"
         },
         {
             "events": 400,
             "label": "displacedGlobalMuons",
-            "size_uncom": 1097.54,
-            "size_compr": 710.93,
+            "size_uncom": 0.41867828369140625,
+            "size_compr": 0.2711982727050781,
             "type": "recoTrackExtras"
         },
         {
             "events": 400,
             "label": "displacedStandAloneMuons",
-            "size_uncom": 1121.0,
-            "size_compr": 690.465,
+            "size_uncom": 0.4276275634765625,
+            "size_compr": 0.26339149475097656,
             "type": "recoTrackExtras"
         },
         {
             "events": 400,
             "label": "hpsPFTauBasicDiscriminators",
-            "size_uncom": 1864.29,
-            "size_compr": 665.597,
+            "size_uncom": 0.7111701965332031,
+            "size_compr": 0.2539051055908203,
             "type": "recoSingleTauDiscriminatorContaineredmValueMap"
         },
         {
             "events": 400,
             "label": "muonsFromCosmics1Leg",
-            "size_uncom": 1572.76,
-            "size_compr": 662.707,
+            "size_uncom": 0.5999603271484375,
+            "size_compr": 0.2528026580810547,
             "type": "recoMuons"
         },
         {
             "events": 400,
             "label": "refittedStandAloneMuons",
-            "size_uncom": 1039.44,
-            "size_compr": 633.847,
+            "size_uncom": 0.396514892578125,
+            "size_compr": 0.24179344177246093,
             "type": "recoTrackExtras"
         },
         {
             "events": 400,
             "label": "standAloneMuons",
-            "size_uncom": 1036.3,
-            "size_compr": 631.898,
+            "size_uncom": 0.39531707763671875,
+            "size_compr": 0.24104995727539064,
             "type": "recoTrackExtras"
         },
         {
             "events": 400,
             "label": "hltFEDSelectorL1",
-            "size_uncom": 17572.4,
-            "size_compr": 615.345,
+            "size_uncom": 6.703338623046876,
+            "size_compr": 0.23473548889160156,
             "type": "FEDRawDataCollection"
         },
         {
             "events": 400,
             "label": "generalV0CandidatesKshort",
-            "size_uncom": 1816.95,
-            "size_compr": 585.84,
+            "size_uncom": 0.6931114196777344,
+            "size_compr": 0.223480224609375,
             "type": "recoVertexCompositeCandidates"
         },
         {
             "events": 400,
             "label": "uncleanedOnlyGsfElectrons",
-            "size_uncom": 1334.58,
-            "size_compr": 562.345,
+            "size_uncom": 0.5091018676757812,
+            "size_compr": 0.21451759338378906,
             "type": "recoGsfElectrons"
         },
         {
             "events": 400,
             "label": "ckfInOutTracksFromConversions",
-            "size_uncom": 1568.21,
-            "size_compr": 561.005,
+            "size_uncom": 0.5982246398925781,
+            "size_compr": 0.2140064239501953,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "offlinePrimaryVerticesWithBS",
-            "size_uncom": 6165.55,
-            "size_compr": 558.112,
+            "size_uncom": 2.351970672607422,
+            "size_compr": 0.21290283203125,
             "type": "intedmValueMap"
         },
         {
             "events": 400,
             "label": "offlinePrimaryVertices",
-            "size_uncom": 6162.23,
-            "size_compr": 555.495,
+            "size_uncom": 2.3507041931152344,
+            "size_compr": 0.21190452575683594,
             "type": "intedmValueMap"
         },
         {
             "events": 400,
             "label": "hpsPFTauProducerpizeros",
-            "size_uncom": 1783.82,
-            "size_compr": 540.957,
+            "size_uncom": 0.6804733276367188,
+            "size_compr": 0.2063587188720703,
             "type": "recoRecoTauPiZeros"
         },
         {
             "events": 400,
             "label": "particleFlowSuperClusterECALparticleFlowSuperClusterECALEndcapWithPreshower",
-            "size_uncom": 1435.0,
-            "size_compr": 523.965,
+            "size_uncom": 0.5474090576171875,
+            "size_compr": 0.1998767852783203,
             "type": "recoSuperClusters"
         },
         {
             "events": 400,
             "label": "hpsPFTauBasicDiscriminatorsdR03",
-            "size_uncom": 1779.69,
-            "size_compr": 521.888,
+            "size_uncom": 0.6788978576660156,
+            "size_compr": 0.19908447265625,
             "type": "recoSingleTauDiscriminatorContaineredmValueMap"
         },
         {
             "events": 400,
             "label": "hltScoutingPFPacker",
-            "size_uncom": 1802.17,
-            "size_compr": 512.452,
+            "size_uncom": 0.6874732971191406,
+            "size_compr": 0.19548492431640624,
             "type": "Run3ScoutingPFJets"
         },
         {
             "events": 400,
             "label": "displacedTracks",
-            "size_uncom": 1240.27,
-            "size_compr": 492.548,
+            "size_uncom": 0.4731254577636719,
+            "size_compr": 0.18789215087890626,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "lowPtGsfElectronSuperClusters",
-            "size_uncom": 1700.07,
-            "size_compr": 463.127,
+            "size_uncom": 0.6485252380371094,
+            "size_compr": 0.17666893005371095,
             "type": "recoSuperClusters"
         },
         {
             "events": 400,
             "label": "inclusiveCandidateSecondaryVerticesCvsL",
-            "size_uncom": 942.062,
-            "size_compr": 461.9,
+            "size_uncom": 0.35936813354492186,
+            "size_compr": 0.17620086669921875,
             "type": "recoVertexCompositePtrCandidates"
         },
         {
             "events": 400,
             "label": "ootPhotons",
-            "size_uncom": 1061.88,
-            "size_compr": 417.84,
+            "size_uncom": 0.40507507324218756,
+            "size_compr": 0.159393310546875,
             "type": "recoPhotons"
         },
         {
             "events": 400,
             "label": "pfGhostTrackBJetTags",
-            "size_uncom": 576.305,
-            "size_compr": 388.905,
+            "size_uncom": 0.21984291076660153,
+            "size_compr": 0.14835548400878906,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppi",
-            "size_uncom": 1597.79,
-            "size_compr": 388.848,
+            "size_uncom": 0.6095085144042969,
+            "size_compr": 0.148333740234375,
             "type": "recoPFJets"
         },
         {
             "events": 400,
             "label": "particleFlowSuperClusterECALparticleFlowBasicClusterECALEndcap",
-            "size_uncom": 892.61,
-            "size_compr": 387.673,
+            "size_uncom": 0.3405036926269531,
+            "size_compr": 0.14788551330566407,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "totemRPRawToDigiTrackingStrip",
-            "size_uncom": 9623.84,
-            "size_compr": 382.035,
+            "size_uncom": 3.67120361328125,
+            "size_compr": 0.1457347869873047,
             "type": "TotemVFATStatusedmDetSetVector"
         },
         {
             "events": 400,
             "label": "inclusiveCandidateSecondaryVertices",
-            "size_uncom": 773.96,
-            "size_compr": 381.32,
+            "size_uncom": 0.2952423095703125,
+            "size_compr": 0.1454620361328125,
             "type": "recoVertexCompositePtrCandidates"
         },
         {
             "events": 400,
             "label": "hltScoutingPrimaryVertexPackerprimaryVtx",
-            "size_uncom": 1245.28,
-            "size_compr": 375.603,
+            "size_uncom": 0.47503662109375,
+            "size_compr": 0.1432811737060547,
             "type": "Run3ScoutingVertexs"
         },
         {
             "events": 400,
             "label": "hcalnoise",
-            "size_uncom": 657.64,
-            "size_compr": 345.077,
+            "size_uncom": 0.2508697509765625,
+            "size_compr": 0.1316364288330078,
             "type": "HcalNoiseSummary"
         },
         {
             "events": 400,
             "label": "prunedTrackMCMatch",
-            "size_uncom": 8753.12,
-            "size_compr": 339.168,
+            "size_uncom": 3.3390502929687504,
+            "size_compr": 0.12938232421875,
             "type": "recoGenParticlesedmAssociation"
         },
         {
             "events": 400,
             "label": "muonReducedTrackExtras",
-            "size_uncom": 631.367,
-            "size_compr": 338.405,
+            "size_uncom": 0.24084739685058593,
+            "size_compr": 0.1290912628173828,
             "type": "recoTrackExtras"
         },
         {
             "events": 400,
             "label": "displacedStandAloneMuons",
-            "size_uncom": 842.758,
-            "size_compr": 331.918,
+            "size_uncom": 0.3214866638183594,
+            "size_compr": 0.12661666870117189,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "muonSimClassifier",
-            "size_uncom": 1730.86,
-            "size_compr": 326.752,
+            "size_uncom": 0.6602706909179688,
+            "size_compr": 0.12464599609375,
             "type": "recoMuonSimInfoedmValueMap"
         },
         {
             "events": 400,
             "label": "dedxHitInfo",
-            "size_uncom": 8746.17,
-            "size_compr": 321.275,
+            "size_uncom": 3.3363990783691406,
+            "size_compr": 0.12255668640136717,
             "type": "recoDeDxHitInfosedmAssociation"
         },
         {
             "events": 400,
             "label": "rpcRecHits",
-            "size_uncom": 1766.44,
-            "size_compr": 316.55,
+            "size_uncom": 0.6738433837890625,
+            "size_compr": 0.12075424194335938,
             "type": "RPCDetIdRPCRecHitsOwnedRangeMap"
         },
         {
             "events": 400,
             "label": "muonscombined",
-            "size_uncom": 504.163,
-            "size_compr": 315.723,
+            "size_uncom": 0.1923229217529297,
+            "size_compr": 0.1204387664794922,
             "type": "recoMuonTimeExtraedmValueMap"
         },
         {
             "events": 400,
             "label": "refittedStandAloneMuons",
-            "size_uncom": 778.538,
-            "size_compr": 309.098,
+            "size_uncom": 0.29698867797851564,
+            "size_compr": 0.11791152954101564,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "standAloneMuons",
-            "size_uncom": 775.158,
-            "size_compr": 305.988,
+            "size_uncom": 0.2956993103027344,
+            "size_compr": 0.11672515869140625,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "pfChargeBJetTags",
-            "size_uncom": 575.865,
-            "size_compr": 305.925,
+            "size_uncom": 0.21967506408691406,
+            "size_compr": 0.11670112609863281,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "refittedStandAloneMuonsUpdatedAtVtx",
-            "size_uncom": 779.92,
-            "size_compr": 305.507,
+            "size_uncom": 0.297515869140625,
+            "size_compr": 0.11654167175292969,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "muonReducedTrackExtras",
-            "size_uncom": 8812.35,
-            "size_compr": 303.315,
+            "size_uncom": 3.361644744873047,
+            "size_compr": 0.11570549011230469,
             "type": "recoTrackExtrasedmAssociation"
         },
         {
             "events": 400,
             "label": "standAloneMuonsUpdatedAtVtx",
-            "size_uncom": 776.54,
-            "size_compr": 302.168,
+            "size_uncom": 0.29622650146484375,
+            "size_compr": 0.1152679443359375,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "cosmicMuons",
-            "size_uncom": 747.342,
-            "size_compr": 296.745,
+            "size_uncom": 0.28508834838867186,
+            "size_compr": 0.11319923400878906,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "muonscsc",
-            "size_uncom": 502.312,
-            "size_compr": 296.123,
+            "size_uncom": 0.19161682128906252,
+            "size_compr": 0.11296195983886718,
             "type": "recoMuonTimeExtraedmValueMap"
         },
         {
             "events": 400,
             "label": "selectDigiselectedEcalEBDigiCollection",
-            "size_uncom": 714.643,
-            "size_compr": 289.113,
+            "size_uncom": 0.2726146697998047,
+            "size_compr": 0.11028785705566406,
             "type": "EBDigiCollection"
         },
         {
             "events": 400,
             "label": "tevMuonsdefault",
-            "size_uncom": 643.947,
-            "size_compr": 273.683,
+            "size_uncom": 0.24564628601074218,
+            "size_compr": 0.10440177917480468,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "globalMuons",
-            "size_uncom": 643.753,
-            "size_compr": 272.673,
+            "size_uncom": 0.24557228088378907,
+            "size_compr": 0.10401649475097656,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "tevMuonspicky",
-            "size_uncom": 643.112,
-            "size_compr": 272.428,
+            "size_uncom": 0.2453277587890625,
+            "size_compr": 0.10392303466796875,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "tevMuonsfirstHit",
-            "size_uncom": 644.365,
-            "size_compr": 267.29,
+            "size_uncom": 0.2458057403564453,
+            "size_compr": 0.10196304321289064,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "tevMuonsdyt",
-            "size_uncom": 642.278,
-            "size_compr": 266.793,
+            "size_uncom": 0.24500961303710939,
+            "size_compr": 0.10177345275878906,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "pfCombinedInclusiveSecondaryVertexV2BJetTags",
-            "size_uncom": 578.945,
-            "size_compr": 263.185,
+            "size_uncom": 0.2208499908447266,
+            "size_compr": 0.10039710998535156,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "pfCombinedSecondaryVertexV2BJetTags",
-            "size_uncom": 577.955,
-            "size_compr": 262.235,
+            "size_uncom": 0.22047233581542972,
+            "size_compr": 0.10003471374511719,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "TriggerResults",
-            "size_uncom": 1724.65,
-            "size_compr": 256.64,
+            "size_uncom": 0.6579017639160156,
+            "size_compr": 0.097900390625,
             "type": "edmTriggerResults"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppiSoftDropSubJets",
-            "size_uncom": 817.192,
-            "size_compr": 249.145,
+            "size_uncom": 0.3117340087890625,
+            "size_compr": 0.09504127502441406,
             "type": "recoPFJets"
         },
         {
             "events": 400,
             "label": "hcalDigis",
-            "size_uncom": 1766.36,
-            "size_compr": 240.775,
+            "size_uncom": 0.6738128662109375,
+            "size_compr": 0.09184837341308594,
             "type": "HcalUnpackerReport"
         },
         {
             "events": 400,
             "label": "caloStage2DigisTau",
-            "size_uncom": 1107.39,
-            "size_compr": 239.447,
+            "size_uncom": 0.42243576049804693,
+            "size_compr": 0.09134178161621094,
             "type": "l1tTauBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisTau",
-            "size_uncom": 1106.08,
-            "size_compr": 238.167,
+            "size_uncom": 0.42193603515625,
+            "size_compr": 0.09085350036621094,
             "type": "l1tTauBXVector"
         },
         {
             "events": 400,
             "label": "conversions",
-            "size_uncom": 897.835,
-            "size_compr": 235.265,
+            "size_uncom": 0.3424968719482422,
+            "size_compr": 0.08974647521972656,
             "type": "recoConversions"
         },
         {
             "events": 400,
             "label": "caloStage2DigisJet",
-            "size_uncom": 1071.99,
-            "size_compr": 227.433,
+            "size_uncom": 0.4089317321777344,
+            "size_compr": 0.08675880432128906,
             "type": "l1tJetBXVector"
         },
         {
             "events": 400,
             "label": "muonReducedTrackExtras",
-            "size_uncom": 1530.74,
-            "size_compr": 227.218,
+            "size_uncom": 0.5839309692382812,
+            "size_compr": 0.08667678833007812,
             "type": "TrackingRecHitsOwned"
         },
         {
             "events": 400,
             "label": "gtStage2DigisJet",
-            "size_uncom": 1070.71,
-            "size_compr": 226.157,
+            "size_uncom": 0.4084434509277344,
+            "size_compr": 0.08627204895019532,
             "type": "l1tJetBXVector"
         },
         {
             "events": 400,
             "label": "pfCombinedCvsLJetTags",
-            "size_uncom": 576.415,
-            "size_compr": 222.145,
+            "size_uncom": 0.21988487243652344,
+            "size_compr": 0.08474159240722656,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuon",
-            "size_uncom": 428.793,
-            "size_compr": 212.13,
+            "size_uncom": 0.16357154846191407,
+            "size_compr": 0.08092117309570312,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "displacedGlobalMuons",
-            "size_uncom": 487.567,
-            "size_compr": 211.54,
+            "size_uncom": 0.18599205017089843,
+            "size_compr": 0.08069610595703125,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuon",
-            "size_uncom": 427.973,
-            "size_compr": 211.36,
+            "size_uncom": 0.16325874328613282,
+            "size_compr": 0.08062744140625,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "pfCombinedCvsBJetTags",
-            "size_uncom": 576.415,
-            "size_compr": 207.925,
+            "size_uncom": 0.21988487243652344,
+            "size_compr": 0.07931709289550781,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "gtStage2Digis",
-            "size_uncom": 1742.09,
-            "size_compr": 206.058,
+            "size_uncom": 0.6645545959472656,
+            "size_compr": 0.07860488891601562,
             "type": "GlobalAlgBlkBXVector"
         },
         {
             "events": 400,
             "label": "generalV0CandidatesLambda",
-            "size_uncom": 584.747,
-            "size_compr": 205.607,
+            "size_uncom": 0.22306327819824218,
+            "size_compr": 0.07843284606933594,
             "type": "recoVertexCompositeCandidates"
         },
         {
             "events": 400,
             "label": "GlobalHaloData",
-            "size_uncom": 377.723,
-            "size_compr": 203.955,
+            "size_uncom": 0.1440898895263672,
+            "size_compr": 0.07780265808105469,
             "type": "recoGlobalHaloData"
         },
         {
             "events": 400,
             "label": "caloStage2DigisEGamma",
-            "size_uncom": 717.14,
-            "size_compr": 197.04,
+            "size_uncom": 0.27356719970703125,
+            "size_compr": 0.075164794921875,
             "type": "l1tEGammaBXVector"
         },
         {
             "events": 400,
             "label": "offlinePrimaryVerticesWithBS",
-            "size_uncom": 261.585,
-            "size_compr": 196.755,
+            "size_uncom": 0.09978675842285155,
+            "size_compr": 0.07505607604980469,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "offlinePrimaryVertices",
-            "size_uncom": 261.385,
-            "size_compr": 196.365,
+            "size_uncom": 0.09971046447753906,
+            "size_compr": 0.07490730285644531,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEGamma",
-            "size_uncom": 715.86,
-            "size_compr": 195.81,
+            "size_uncom": 0.27307891845703125,
+            "size_compr": 0.07469558715820312,
             "type": "l1tEGammaBXVector"
         },
         {
             "events": 400,
             "label": "muonReducedTrackExtras",
-            "size_uncom": 468.868,
-            "size_compr": 195.61,
+            "size_uncom": 0.17885894775390626,
+            "size_compr": 0.07461929321289062,
             "type": "SiStripClusteredmNewDetSetVector"
         },
         {
             "events": 400,
             "label": "ckfOutInTracksFromConversions",
-            "size_uncom": 463.947,
-            "size_compr": 189.058,
+            "size_uncom": 0.17698173522949218,
+            "size_compr": 0.07211990356445312,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "caloMetM",
-            "size_uncom": 432.842,
-            "size_compr": 188.63,
+            "size_uncom": 0.16511611938476561,
+            "size_compr": 0.07195663452148438,
             "type": "recoCaloMETs"
         },
         {
             "events": 400,
             "label": "caloMetBEFO",
-            "size_uncom": 410.015,
-            "size_compr": 184.36,
+            "size_uncom": 0.15640830993652344,
+            "size_compr": 0.0703277587890625,
             "type": "recoCaloMETs"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEtSum",
-            "size_uncom": 1285.5,
-            "size_compr": 184.19,
+            "size_uncom": 0.49037933349609375,
+            "size_compr": 0.07026290893554688,
             "type": "l1tEtSumBXVector"
         },
         {
             "events": 400,
             "label": "selectDigiselectedEcalEEDigiCollection",
-            "size_uncom": 417.757,
-            "size_compr": 181.92,
+            "size_uncom": 0.1593616485595703,
+            "size_compr": 0.06939697265625,
             "type": "EEDigiCollection"
         },
         {
             "events": 400,
             "label": "caloMet",
-            "size_uncom": 408.075,
-            "size_compr": 181.14,
+            "size_uncom": 0.1556682586669922,
+            "size_compr": 0.06909942626953125,
             "type": "recoCaloMETs"
         },
         {
             "events": 400,
             "label": "pfJetBProbabilityBJetTags",
-            "size_uncom": 576.855,
-            "size_compr": 174.675,
+            "size_uncom": 0.22005271911621094,
+            "size_compr": 0.06663322448730469,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisimdMuonsEMTFNeg",
-            "size_uncom": 339.1,
-            "size_compr": 173.56,
+            "size_uncom": 0.12935638427734375,
+            "size_compr": 0.0662078857421875,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisimdMuonsEMTFPos",
-            "size_uncom": 339.1,
-            "size_compr": 173.56,
+            "size_uncom": 0.12935638427734375,
+            "size_compr": 0.0662078857421875,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisimdMuonsOMTFNeg",
-            "size_uncom": 339.1,
-            "size_compr": 173.56,
+            "size_uncom": 0.12935638427734375,
+            "size_compr": 0.0662078857421875,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisimdMuonsOMTFPos",
-            "size_uncom": 339.1,
-            "size_compr": 173.56,
+            "size_uncom": 0.12935638427734375,
+            "size_compr": 0.0662078857421875,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "pfCombinedMVAV2BJetTags",
-            "size_uncom": 576.635,
-            "size_compr": 172.475,
+            "size_uncom": 0.2199687957763672,
+            "size_compr": 0.06579399108886719,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisimdMuonsBMTF",
-            "size_uncom": 336.64,
-            "size_compr": 171.08,
+            "size_uncom": 0.12841796875,
+            "size_compr": 0.0652618408203125,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "caloStage2DigisEtSum",
-            "size_uncom": 966.543,
-            "size_compr": 168.965,
+            "size_uncom": 0.36870689392089845,
+            "size_compr": 0.06445503234863281,
             "type": "l1tEtSumBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuonCopy3",
-            "size_uncom": 334.18,
-            "size_compr": 168.67,
+            "size_uncom": 0.12747955322265625,
+            "size_compr": 0.06434249877929688,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuonCopy5",
-            "size_uncom": 334.18,
-            "size_compr": 168.67,
+            "size_uncom": 0.12747955322265625,
+            "size_compr": 0.06434249877929688,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuonCopy4",
-            "size_uncom": 334.18,
-            "size_compr": 168.67,
+            "size_uncom": 0.12747955322265625,
+            "size_compr": 0.06434249877929688,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuonCopy2",
-            "size_uncom": 334.18,
-            "size_compr": 168.67,
+            "size_uncom": 0.12747955322265625,
+            "size_compr": 0.06434249877929688,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuonCopy1",
-            "size_uncom": 334.18,
-            "size_compr": 168.67,
+            "size_uncom": 0.12747955322265625,
+            "size_compr": 0.06434249877929688,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "muonReducedTrackExtras",
-            "size_uncom": 347.223,
-            "size_compr": 165.032,
+            "size_uncom": 0.13245506286621095,
+            "size_compr": 0.0629547119140625,
             "type": "SiPixelClusteredmNewDetSetVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuon2",
-            "size_uncom": 314.08,
-            "size_compr": 164.3,
+            "size_uncom": 0.11981201171875,
+            "size_compr": 0.06267547607421875,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuon3",
-            "size_uncom": 314.08,
-            "size_compr": 164.3,
+            "size_uncom": 0.11981201171875,
+            "size_compr": 0.06267547607421875,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuon4",
-            "size_uncom": 314.08,
-            "size_compr": 164.3,
+            "size_uncom": 0.11981201171875,
+            "size_compr": 0.06267547607421875,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuon5",
-            "size_uncom": 314.08,
-            "size_compr": 164.3,
+            "size_uncom": 0.11981201171875,
+            "size_compr": 0.06267547607421875,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuon6",
-            "size_uncom": 314.08,
-            "size_compr": 164.3,
+            "size_uncom": 0.11981201171875,
+            "size_compr": 0.06267547607421875,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "particleFlowTmpCleanedPunchThroughNeutralHadrons",
-            "size_uncom": 393.317,
-            "size_compr": 161.72,
+            "size_uncom": 0.1500385284423828,
+            "size_compr": 0.0616912841796875,
             "type": "recoPFCandidates"
         },
         {
             "events": 400,
             "label": "gemSegments",
-            "size_uncom": 458.613,
-            "size_compr": 158.375,
+            "size_uncom": 0.17494697570800782,
+            "size_compr": 0.06041526794433594,
             "type": "GEMDetIdGEMSegmentsOwnedRangeMap"
         },
         {
             "events": 400,
             "label": "particleFlowTmpCleanedTrackerAndGlobalMuons",
-            "size_uncom": 389.955,
-            "size_compr": 158.327,
+            "size_uncom": 0.1487560272216797,
+            "size_compr": 0.06039695739746094,
             "type": "recoPFCandidates"
         },
         {
             "events": 400,
             "label": "tcdsDigistcdsRecord",
-            "size_uncom": 398.197,
-            "size_compr": 155.74,
+            "size_uncom": 0.1519001007080078,
+            "size_compr": 0.05941009521484375,
             "type": "TCDSRecord"
         },
         {
             "events": 400,
             "label": "particleFlowTmpCleanedPunchThroughMuons",
-            "size_uncom": 387.265,
-            "size_compr": 155.637,
+            "size_uncom": 0.14772987365722656,
+            "size_compr": 0.059370803833007815,
             "type": "recoPFCandidates"
         },
         {
             "events": 400,
             "label": "gsfTracksOpenConversionsgsfTracksOpenConversions",
-            "size_uncom": 494.118,
-            "size_compr": 154.09,
+            "size_uncom": 0.18849105834960939,
+            "size_compr": 0.058780670166015625,
             "type": "recoConversions"
         },
         {
             "events": 400,
             "label": "particleFlowTmpAddedMuonsAndHadrons",
-            "size_uncom": 385.79,
-            "size_compr": 153.998,
+            "size_uncom": 0.14716720581054688,
+            "size_compr": 0.05874557495117187,
             "type": "recoPFCandidates"
         },
         {
             "events": 400,
             "label": "caloMetBE",
-            "size_uncom": 409.045,
-            "size_compr": 153.59,
+            "size_uncom": 0.1560382843017578,
+            "size_compr": 0.058589935302734375,
             "type": "recoCaloMETs"
         },
         {
             "events": 400,
             "label": "particleFlowTmpCleanedCosmicsMuons",
-            "size_uncom": 383.902,
-            "size_compr": 152.295,
+            "size_uncom": 0.14644699096679686,
+            "size_compr": 0.05809593200683593,
             "type": "recoPFCandidates"
         },
         {
             "events": 400,
             "label": "particleFlowTmpCleanedFakeMuons",
-            "size_uncom": 381.885,
-            "size_compr": 150.268,
+            "size_uncom": 0.1456775665283203,
+            "size_compr": 0.05732269287109375,
             "type": "recoPFCandidates"
         },
         {
             "events": 400,
             "label": "pfDeepCMVAJetTagsprobbb",
-            "size_uncom": 576.635,
-            "size_compr": 149.065,
+            "size_uncom": 0.2199687957763672,
+            "size_compr": 0.05686378479003906,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "pfDeepCSVJetTagsprobbb",
-            "size_uncom": 576.525,
-            "size_compr": 148.895,
+            "size_uncom": 0.2199268341064453,
+            "size_compr": 0.056798934936523444,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "pfDeepCSVJetTagsprobb",
-            "size_uncom": 576.415,
-            "size_compr": 148.345,
+            "size_uncom": 0.21988487243652344,
+            "size_compr": 0.05658912658691406,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "pfDeepCMVAJetTagsprobb",
-            "size_uncom": 576.525,
-            "size_compr": 148.255,
+            "size_uncom": 0.2199268341064453,
+            "size_compr": 0.05655479431152344,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "chargedHadronPFTrackIsolation",
-            "size_uncom": 2968.66,
-            "size_compr": 147.597,
+            "size_uncom": 1.1324539184570312,
+            "size_compr": 0.056303787231445315,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "pfDeepCMVAJetTagsprobudsg",
-            "size_uncom": 576.855,
-            "size_compr": 147.265,
+            "size_uncom": 0.22005271911621094,
+            "size_compr": 0.056177139282226556,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "pfDeepCMVAJetTagsprobc",
-            "size_uncom": 576.525,
-            "size_compr": 146.945,
+            "size_uncom": 0.2199268341064453,
+            "size_compr": 0.05605506896972656,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "pfDeepCMVAJetTagsprobcc",
-            "size_uncom": 576.635,
-            "size_compr": 146.565,
+            "size_uncom": 0.2199687957763672,
+            "size_compr": 0.05591011047363281,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "pfDeepCSVJetTagsprobc",
-            "size_uncom": 576.415,
-            "size_compr": 146.405,
+            "size_uncom": 0.21988487243652344,
+            "size_compr": 0.05584907531738281,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "particleFlowTmpCleanedHF",
-            "size_uncom": 377.178,
-            "size_compr": 145.63,
+            "size_uncom": 0.14388198852539064,
+            "size_compr": 0.055553436279296875,
             "type": "recoPFCandidates"
         },
         {
             "events": 400,
             "label": "pfDeepCSVJetTagsprobudsg",
-            "size_uncom": 576.745,
-            "size_compr": 145.175,
+            "size_uncom": 0.22001075744628906,
+            "size_compr": 0.055379867553710944,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "cosmicMuons1Leg",
-            "size_uncom": 333.363,
-            "size_compr": 142.335,
+            "size_uncom": 0.1271678924560547,
+            "size_compr": 0.05429649353027344,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "CSCHaloData",
-            "size_uncom": 219.157,
-            "size_compr": 137.1,
+            "size_uncom": 0.08360176086425782,
+            "size_compr": 0.05229949951171875,
             "type": "recoCSCHaloData"
         },
         {
             "events": 400,
             "label": "particleFlowEGamma",
-            "size_uncom": 434.615,
-            "size_compr": 132.933,
+            "size_uncom": 0.16579246520996094,
+            "size_compr": 0.05070991516113281,
             "type": "recoConversions"
         },
         {
             "events": 400,
             "label": "muonsmuonShowerInformation",
-            "size_uncom": 928.102,
-            "size_compr": 132.838,
+            "size_uncom": 0.35404281616210936,
+            "size_compr": 0.05067367553710937,
             "type": "recoMuonShoweredmValueMap"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEGamma5",
-            "size_uncom": 251.0,
-            "size_compr": 131.51,
+            "size_uncom": 0.0957489013671875,
+            "size_compr": 0.050167083740234375,
             "type": "l1tEGammaBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEGamma4",
-            "size_uncom": 251.0,
-            "size_compr": 131.51,
+            "size_uncom": 0.0957489013671875,
+            "size_compr": 0.050167083740234375,
             "type": "l1tEGammaBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEGamma2",
-            "size_uncom": 251.0,
-            "size_compr": 131.51,
+            "size_uncom": 0.0957489013671875,
+            "size_compr": 0.050167083740234375,
             "type": "l1tEGammaBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEGamma3",
-            "size_uncom": 251.0,
-            "size_compr": 131.51,
+            "size_uncom": 0.0957489013671875,
+            "size_compr": 0.050167083740234375,
             "type": "l1tEGammaBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEGamma6",
-            "size_uncom": 251.0,
-            "size_compr": 131.51,
+            "size_uncom": 0.0957489013671875,
+            "size_compr": 0.050167083740234375,
             "type": "l1tEGammaBXVector"
         },
         {
             "events": 400,
             "label": "muonMETValueMapProducermuCorrData",
-            "size_uncom": 218.613,
-            "size_compr": 130.942,
+            "size_uncom": 0.08339424133300781,
+            "size_compr": 0.04995040893554688,
             "type": "recoMuonMETCorrectionDataedmValueMap"
         },
         {
             "events": 400,
             "label": "scalersRawToDigi",
-            "size_uncom": 326.925,
-            "size_compr": 130.718,
+            "size_uncom": 0.12471199035644531,
+            "size_compr": 0.04986495971679687,
             "type": "Level1TriggerScalerss"
         },
         {
             "events": 400,
             "label": "caloStage2DigisMP",
-            "size_uncom": 249.08,
-            "size_compr": 129.65,
+            "size_uncom": 0.0950164794921875,
+            "size_compr": 0.049457550048828125,
             "type": "l1tEGammaBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisEMTF",
-            "size_uncom": 379.382,
-            "size_compr": 129.445,
+            "size_uncom": 0.14472274780273436,
+            "size_compr": 0.04937934875488281,
             "type": "l1tRegionalMuonCandBXVector"
         },
         {
             "events": 400,
             "label": "muonsdt",
-            "size_uncom": 501.942,
-            "size_compr": 125.382,
+            "size_uncom": 0.19147567749023436,
+            "size_compr": 0.04782943725585938,
             "type": "recoMuonTimeExtraedmValueMap"
         },
         {
             "events": 400,
             "label": "gtStage2DigisTau3",
-            "size_uncom": 238.35,
-            "size_compr": 122.698,
+            "size_uncom": 0.09092330932617188,
+            "size_compr": 0.04680557250976562,
             "type": "l1tTauBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisTau2",
-            "size_uncom": 238.35,
-            "size_compr": 122.698,
+            "size_uncom": 0.09092330932617188,
+            "size_compr": 0.04680557250976562,
             "type": "l1tTauBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisTau4",
-            "size_uncom": 238.35,
-            "size_compr": 122.698,
+            "size_uncom": 0.09092330932617188,
+            "size_compr": 0.04680557250976562,
             "type": "l1tTauBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisTau5",
-            "size_uncom": 238.35,
-            "size_compr": 122.698,
+            "size_uncom": 0.09092330932617188,
+            "size_compr": 0.04680557250976562,
             "type": "l1tTauBXVector"
         },
         {
             "events": 400,
             "label": "caloStage2DigisMP",
-            "size_uncom": 238.35,
-            "size_compr": 122.698,
+            "size_uncom": 0.09092330932617188,
+            "size_compr": 0.04680557250976562,
             "type": "l1tTauBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisTau6",
-            "size_uncom": 238.35,
-            "size_compr": 122.698,
+            "size_uncom": 0.09092330932617188,
+            "size_compr": 0.04680557250976562,
             "type": "l1tTauBXVector"
         },
         {
             "events": 400,
             "label": "caloStage2DigisCaloTower",
-            "size_uncom": 230.715,
-            "size_compr": 122.597,
+            "size_uncom": 0.08801078796386719,
+            "size_compr": 0.04676704406738281,
             "type": "l1tCaloTowerBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuonShowerCopy1",
-            "size_uncom": 242.463,
-            "size_compr": 122.403,
+            "size_uncom": 0.09249229431152343,
+            "size_compr": 0.04669303894042969,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuonShowerCopy2",
-            "size_uncom": 242.463,
-            "size_compr": 122.403,
+            "size_uncom": 0.09249229431152343,
+            "size_compr": 0.04669303894042969,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuonShowerCopy5",
-            "size_uncom": 242.463,
-            "size_compr": 122.403,
+            "size_uncom": 0.09249229431152343,
+            "size_compr": 0.04669303894042969,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuonShowerCopy4",
-            "size_uncom": 242.463,
-            "size_compr": 122.403,
+            "size_uncom": 0.09249229431152343,
+            "size_compr": 0.04669303894042969,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuonShowerCopy3",
-            "size_uncom": 242.463,
-            "size_compr": 122.403,
+            "size_uncom": 0.09249229431152343,
+            "size_compr": 0.04669303894042969,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "JetPlusTrackZSPCorJetAntiKt4",
-            "size_uncom": 254.192,
-            "size_compr": 121.987,
+            "size_uncom": 0.096966552734375,
+            "size_compr": 0.04653434753417968,
             "type": "recoCaloJets"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuonShower",
-            "size_uncom": 223.873,
-            "size_compr": 119.963,
+            "size_uncom": 0.08540077209472656,
+            "size_compr": 0.045762252807617185,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuonShower5",
-            "size_uncom": 223.713,
-            "size_compr": 119.382,
+            "size_uncom": 0.08533973693847656,
+            "size_compr": 0.04554061889648438,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuonShower6",
-            "size_uncom": 223.713,
-            "size_compr": 119.382,
+            "size_uncom": 0.08533973693847656,
+            "size_compr": 0.04554061889648438,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuonShower4",
-            "size_uncom": 223.713,
-            "size_compr": 119.382,
+            "size_uncom": 0.08533973693847656,
+            "size_compr": 0.04554061889648438,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuonShower3",
-            "size_uncom": 223.713,
-            "size_compr": 119.382,
+            "size_uncom": 0.08533973693847656,
+            "size_compr": 0.04554061889648438,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuonShower2",
-            "size_uncom": 223.713,
-            "size_compr": 119.382,
+            "size_uncom": 0.08533973693847656,
+            "size_compr": 0.04554061889648438,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuonShower",
-            "size_uncom": 223.322,
-            "size_compr": 119.362,
+            "size_uncom": 0.08519058227539063,
+            "size_compr": 0.04553298950195312,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "caloStage2DigisMP",
-            "size_uncom": 230.395,
-            "size_compr": 118.53,
+            "size_uncom": 0.08788871765136719,
+            "size_compr": 0.045215606689453125,
             "type": "l1tJetBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisJet6",
-            "size_uncom": 230.395,
-            "size_compr": 118.53,
+            "size_uncom": 0.08788871765136719,
+            "size_compr": 0.045215606689453125,
             "type": "l1tJetBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisJet4",
-            "size_uncom": 230.395,
-            "size_compr": 118.53,
+            "size_uncom": 0.08788871765136719,
+            "size_compr": 0.045215606689453125,
             "type": "l1tJetBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisJet2",
-            "size_uncom": 230.395,
-            "size_compr": 118.53,
+            "size_uncom": 0.08788871765136719,
+            "size_compr": 0.045215606689453125,
             "type": "l1tJetBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisJet5",
-            "size_uncom": 230.395,
-            "size_compr": 118.53,
+            "size_uncom": 0.08788871765136719,
+            "size_compr": 0.045215606689453125,
             "type": "l1tJetBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisJet3",
-            "size_uncom": 230.395,
-            "size_compr": 118.53,
+            "size_uncom": 0.08788871765136719,
+            "size_compr": 0.045215606689453125,
             "type": "l1tJetBXVector"
         },
         {
             "events": 400,
             "label": "pfJetProbabilityBJetTags",
-            "size_uncom": 576.745,
-            "size_compr": 116.745,
+            "size_uncom": 0.22001075744628906,
+            "size_compr": 0.04453468322753906,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "pfMetPuppi",
-            "size_uncom": 296.78,
-            "size_compr": 115.188,
+            "size_uncom": 0.11321258544921874,
+            "size_compr": 0.043940734863281254,
             "type": "recoPFMETs"
         },
         {
             "events": 400,
             "label": "pfMet",
-            "size_uncom": 295.043,
-            "size_compr": 114.67,
+            "size_uncom": 0.11254997253417968,
+            "size_compr": 0.043743133544921875,
             "type": "recoPFMETs"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisBMTF",
-            "size_uncom": 261.82,
-            "size_compr": 111.88,
+            "size_uncom": 0.09987640380859375,
+            "size_compr": 0.0426788330078125,
             "type": "l1tRegionalMuonCandBXVector"
         },
         {
             "events": 400,
             "label": "pfTrackCountingHighEffBJetTags",
-            "size_uncom": 577.405,
-            "size_compr": 110.905,
+            "size_uncom": 0.2202625274658203,
+            "size_compr": 0.04230690002441406,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "hltScoutingMuonPacker",
-            "size_uncom": 224.062,
-            "size_compr": 108.75,
+            "size_uncom": 0.08547286987304688,
+            "size_compr": 0.041484832763671875,
             "type": "Run3ScoutingMuons"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisOMTF",
-            "size_uncom": 222.26,
-            "size_compr": 106.203,
+            "size_uncom": 0.08478546142578125,
+            "size_compr": 0.04051322937011719,
             "type": "l1tRegionalMuonCandBXVector"
         },
         {
             "events": 400,
             "label": "scalersRawToDigi",
-            "size_uncom": 297.457,
-            "size_compr": 105.058,
+            "size_uncom": 0.11347084045410157,
+            "size_compr": 0.04007644653320313,
             "type": "LumiScalerss"
         },
         {
             "events": 400,
             "label": "hfEMClusters",
-            "size_uncom": 291.202,
-            "size_compr": 104.03,
+            "size_uncom": 0.11108474731445313,
+            "size_compr": 0.039684295654296875,
             "type": "recoSuperClusters"
         },
         {
             "events": 400,
             "label": "pfChMet",
-            "size_uncom": 295.738,
-            "size_compr": 102.835,
+            "size_uncom": 0.11281509399414062,
+            "size_compr": 0.03922843933105469,
             "type": "recoPFMETs"
         },
         {
             "events": 400,
             "label": "generator",
-            "size_uncom": 214.275,
-            "size_compr": 100.407,
+            "size_uncom": 0.08173942565917969,
+            "size_compr": 0.03830223083496093,
             "type": "GenEventInfoProduct"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEtSum4",
-            "size_uncom": 192.065,
-            "size_compr": 99.1375,
+            "size_uncom": 0.07326698303222656,
+            "size_compr": 0.037817955017089844,
             "type": "l1tEtSumBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEtSum6",
-            "size_uncom": 192.065,
-            "size_compr": 99.1375,
+            "size_uncom": 0.07326698303222656,
+            "size_compr": 0.037817955017089844,
             "type": "l1tEtSumBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEtSum3",
-            "size_uncom": 192.065,
-            "size_compr": 99.1375,
+            "size_uncom": 0.07326698303222656,
+            "size_compr": 0.037817955017089844,
             "type": "l1tEtSumBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEtSum2",
-            "size_uncom": 192.065,
-            "size_compr": 99.1375,
+            "size_uncom": 0.07326698303222656,
+            "size_compr": 0.037817955017089844,
             "type": "l1tEtSumBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEtSum5",
-            "size_uncom": 192.065,
-            "size_compr": 99.1375,
+            "size_uncom": 0.07326698303222656,
+            "size_compr": 0.037817955017089844,
             "type": "l1tEtSumBXVector"
         },
         {
             "events": 400,
             "label": "caloStage2DigisMP",
-            "size_uncom": 191.1,
-            "size_compr": 98.1325,
+            "size_uncom": 0.07289886474609375,
+            "size_compr": 0.03743457794189453,
             "type": "l1tEtSumBXVector"
         },
         {
             "events": 400,
             "label": "hybridSuperClustersuncleanOnlyHybridSuperClusters",
-            "size_uncom": 286.0,
-            "size_compr": 96.1075,
+            "size_uncom": 0.109100341796875,
+            "size_compr": 0.03666210174560547,
             "type": "recoSuperClusters"
         },
         {
             "events": 400,
             "label": "muonscosmicsVeto",
-            "size_uncom": 363.812,
-            "size_compr": 95.5575,
+            "size_uncom": 0.13878326416015627,
+            "size_compr": 0.036452293395996094,
             "type": "recoMuonCosmicCompatibilityedmValueMap"
         },
         {
             "events": 400,
             "label": "clusterSummaryProducer",
-            "size_uncom": 209.325,
-            "size_compr": 94.9975,
+            "size_uncom": 0.07985115051269531,
+            "size_compr": 0.036238670349121094,
             "type": "ClusterSummary"
         },
         {
             "events": 400,
             "label": "scalersRawToDigi",
-            "size_uncom": 241.863,
-            "size_compr": 94.9425,
+            "size_uncom": 0.09226341247558593,
+            "size_compr": 0.036217689514160156,
             "type": "L1TriggerScalerss"
         },
         {
             "events": 400,
             "label": "gemRecHits",
-            "size_uncom": 426.705,
-            "size_compr": 94.625,
+            "size_uncom": 0.16277503967285156,
+            "size_compr": 0.03609657287597656,
             "type": "GEMDetIdGEMRecHitsOwnedRangeMap"
         },
         {
             "events": 400,
             "label": "lowPtGsfElectronCores",
-            "size_uncom": 698.278,
-            "size_compr": 93.8375,
+            "size_uncom": 0.2663719177246094,
+            "size_compr": 0.035796165466308594,
             "type": "recoGsfElectronCores"
         },
         {
             "events": 400,
             "label": "hfEMClusters",
-            "size_uncom": 139.315,
-            "size_compr": 91.555,
+            "size_uncom": 0.05314445495605469,
+            "size_compr": 0.03492546081542969,
             "type": "recoHFEMClusterShapes"
         },
         {
             "events": 400,
             "label": "uncleanedOnlyCkfOutInTracksFromConversions",
-            "size_uncom": 214.683,
-            "size_compr": 90.045,
+            "size_uncom": 0.08189506530761718,
+            "size_compr": 0.03434944152832031,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "uncleanedOnlyCkfInOutTracksFromConversions",
-            "size_uncom": 215.42,
-            "size_compr": 89.935,
+            "size_uncom": 0.08217620849609375,
+            "size_compr": 0.03430747985839844,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "particleFlowSuperClusterOOTECALparticleFlowSuperClusterOOTECALBarrel",
-            "size_uncom": 209.287,
-            "size_compr": 89.53,
+            "size_uncom": 0.07983665466308594,
+            "size_compr": 0.034152984619140625,
             "type": "recoSuperClusters"
         },
         {
             "events": 400,
             "label": "particleFlowSuperClusterOOTECALparticleFlowSuperClusterOOTECALEndcapWithPreshower",
-            "size_uncom": 204.58,
-            "size_compr": 88.3025,
+            "size_uncom": 0.07804107666015625,
+            "size_compr": 0.033684730529785156,
             "type": "recoSuperClusters"
         },
         {
             "events": 400,
             "label": "hpsPFTauDiscriminationByMuonRejection3",
-            "size_uncom": 534.567,
-            "size_compr": 83.6025,
+            "size_uncom": 0.20392112731933593,
+            "size_compr": 0.031891822814941406,
             "type": "recoSingleTauDiscriminatorContaineredmValueMap"
         },
         {
             "events": 400,
             "label": "gedGsfElectronCores",
-            "size_uncom": 369.28,
-            "size_compr": 79.3325,
+            "size_uncom": 0.140869140625,
+            "size_compr": 0.03026294708251953,
             "type": "recoGsfElectronCores"
         },
         {
             "events": 400,
             "label": "hpsPFTauTransverseImpactParameters",
-            "size_uncom": 511.228,
-            "size_compr": 79.2525,
+            "size_uncom": 0.19501800537109376,
+            "size_compr": 0.03023242950439453,
             "type": "recoPFTausedmRefProdrecoPFTauTransverseImpactParametersrecoPFTauTransverseImpactParameterrecoPFTauTransverseImpactParametersTorecoPFTauTransverseImpactParameteredmrefhelperFindUsingAdvanceedmRefsAssociationVector"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppiSoftDrop",
-            "size_uncom": 202.94,
-            "size_compr": 76.8225,
+            "size_uncom": 0.07741546630859375,
+            "size_compr": 0.02930545806884766,
             "type": "recoBasicJets"
         },
         {
             "events": 400,
             "label": "pixelClusterTagInfos",
-            "size_uncom": 285.462,
-            "size_compr": 76.2275,
+            "size_uncom": 0.10889511108398436,
+            "size_compr": 0.029078483581542972,
             "type": "recoPixelClusterTagInfos"
         },
         {
             "events": 400,
             "label": "gedPhotonCore",
-            "size_uncom": 464.558,
-            "size_compr": 76.015,
+            "size_uncom": 0.17721481323242189,
+            "size_compr": 0.028997421264648438,
             "type": "recoPhotonCores"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisEMTF",
-            "size_uncom": 155.305,
-            "size_compr": 73.205,
+            "size_uncom": 0.05924415588378906,
+            "size_compr": 0.027925491333007812,
             "type": "l1tRegionalMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "BeamHaloSummary",
-            "size_uncom": 208.935,
-            "size_compr": 71.8975,
+            "size_uncom": 0.07970237731933594,
+            "size_compr": 0.02742671966552734,
             "type": "recoBeamHaloSummary"
         },
         {
             "events": 400,
             "label": "lowPtGsfToTrackLinks",
-            "size_uncom": 138.92,
-            "size_compr": 71.32,
+            "size_uncom": 0.05299377441406249,
+            "size_compr": 0.027206420898437497,
             "type": "recoTracksedmAssociation"
         },
         {
             "events": 400,
             "label": "particleBasedIsolationgedPhotons",
-            "size_uncom": 200.947,
-            "size_compr": 71.07,
+            "size_uncom": 0.07665519714355469,
+            "size_compr": 0.02711105346679687,
             "type": "recoPFCandidatesrecoPFCandidaterecoPFCandidatesrecoPFCandidateedmrefhelperFindUsingAdvanceedmRefsedmValueMap"
         },
         {
             "events": 400,
             "label": "particleFlowmuons",
-            "size_uncom": 225.308,
-            "size_compr": 69.01,
+            "size_uncom": 0.08594818115234375,
+            "size_compr": 0.02632522583007813,
             "type": "recoPFCandidateedmPtredmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValuePU04",
-            "size_uncom": 137.535,
-            "size_compr": 68.0775,
+            "size_uncom": 0.05246543884277344,
+            "size_compr": 0.025969505310058594,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "offlineBeamSpot",
-            "size_uncom": 349.423,
-            "size_compr": 68.02,
+            "size_uncom": 0.13329429626464845,
+            "size_compr": 0.02594757080078125,
             "type": "recoBeamSpot"
         },
         {
             "events": 400,
             "label": "onlineMetaDataDigis",
-            "size_uncom": 350.772,
-            "size_compr": 67.94,
+            "size_uncom": 0.13380889892578124,
+            "size_compr": 0.02591705322265625,
             "type": "recoBeamSpot"
         },
         {
             "events": 400,
             "label": "hybridSuperClustersuncleanOnlyHybridBarrelBasicClusters",
-            "size_uncom": 203.715,
-            "size_compr": 67.6875,
+            "size_uncom": 0.07771110534667969,
+            "size_compr": 0.02582073211669922,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "particleBasedIsolationgedGsfElectrons",
-            "size_uncom": 157.127,
-            "size_compr": 65.0775,
+            "size_uncom": 0.05993919372558594,
+            "size_compr": 0.024825096130371094,
             "type": "recoPFCandidatesrecoPFCandidaterecoPFCandidatesrecoPFCandidateedmrefhelperFindUsingAdvanceedmRefsedmValueMap"
         },
         {
             "events": 400,
             "label": "muonSimClassifiertoPrimaries",
-            "size_uncom": 146.03,
-            "size_compr": 64.61,
+            "size_uncom": 0.055706024169921875,
+            "size_compr": 0.024646759033203125,
             "type": "recoGenParticlesedmAssociation"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValuePU03",
-            "size_uncom": 137.535,
-            "size_compr": 64.2475,
+            "size_uncom": 0.05246543884277344,
+            "size_compr": 0.02450847625732422,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "muonSimClassifiersecondaries",
-            "size_uncom": 152.208,
-            "size_compr": 64.1475,
+            "size_uncom": 0.058062744140625,
+            "size_compr": 0.024470329284667965,
             "type": "recoGenParticles"
         },
         {
             "events": 400,
             "label": "muonSimClassifiertoSecondaries",
-            "size_uncom": 146.5,
-            "size_compr": 63.39,
+            "size_uncom": 0.05588531494140625,
+            "size_compr": 0.024181365966796875,
             "type": "recoGenParticlesedmAssociation"
         },
         {
             "events": 400,
             "label": "scalersRawToDigi",
-            "size_uncom": 156.917,
-            "size_compr": 61.69,
+            "size_uncom": 0.059859085083007815,
+            "size_compr": 0.023532867431640625,
             "type": "BeamSpotOnlines"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValuePU04",
-            "size_uncom": 137.493,
-            "size_compr": 59.245,
+            "size_uncom": 0.05244941711425781,
+            "size_compr": 0.022600173950195312,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "gtStage2Digis",
-            "size_uncom": 1402.38,
-            "size_compr": 59.1525,
+            "size_uncom": 0.5349655151367188,
+            "size_compr": 0.02256488800048828,
             "type": "GlobalExtBlkBXVector"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValuePU03",
-            "size_uncom": 137.493,
-            "size_compr": 58.055,
+            "size_uncom": 0.05244941711425781,
+            "size_compr": 0.022146224975585938,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "photonCore",
-            "size_uncom": 334.002,
-            "size_compr": 57.1575,
+            "size_uncom": 0.12741165161132814,
+            "size_compr": 0.021803855895996094,
             "type": "recoPhotonCores"
         },
         {
             "events": 400,
             "label": "particleFlowRecHitECALCleaned",
-            "size_uncom": 333.38,
-            "size_compr": 56.46,
+            "size_uncom": 0.12717437744140625,
+            "size_compr": 0.02153778076171875,
             "type": "recoPFRecHits"
         },
         {
             "events": 400,
             "label": "genMetTrue",
-            "size_uncom": 216.895,
-            "size_compr": 55.8925,
+            "size_uncom": 0.08273887634277344,
+            "size_compr": 0.02132129669189453,
             "type": "recoGenMETs"
         },
         {
             "events": 400,
             "label": "pfSimpleInclusiveSecondaryVertexHighEffBJetTags",
-            "size_uncom": 579.275,
-            "size_compr": 55.285,
+            "size_uncom": 0.2209758758544922,
+            "size_compr": 0.021089553833007812,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "pfSimpleSecondaryVertexHighEffBJetTags",
-            "size_uncom": 578.285,
-            "size_compr": 53.595,
+            "size_uncom": 0.2205982208251953,
+            "size_compr": 0.020444869995117188,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "genMetCalo",
-            "size_uncom": 216.895,
-            "size_compr": 52.6725,
+            "size_uncom": 0.08273887634277344,
+            "size_compr": 0.02009296417236328,
             "type": "recoGenMETs"
         },
         {
             "events": 400,
             "label": "totemTriggerRawToDigi",
-            "size_uncom": 85.0225,
-            "size_compr": 52.3,
+            "size_uncom": 0.032433509826660156,
+            "size_compr": 0.01995086669921875,
             "type": "TotemTriggerCounters"
         },
         {
             "events": 400,
             "label": "particleFlowelectrons",
-            "size_uncom": 113.36,
-            "size_compr": 51.905,
+            "size_uncom": 0.043243408203125,
+            "size_compr": 0.019800186157226562,
             "type": "recoPFCandidateedmPtredmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueChargedAll04",
-            "size_uncom": 137.875,
-            "size_compr": 51.4175,
+            "size_uncom": 0.05259513854980469,
+            "size_compr": 0.019614219665527344,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "hpsPFTauDiscriminationByDeadECALElectronRejection",
-            "size_uncom": 232.357,
-            "size_compr": 50.145,
+            "size_uncom": 0.08863716125488282,
+            "size_compr": 0.019128799438476562,
             "type": "recoPFTauDiscriminator"
         },
         {
             "events": 400,
             "label": "particleFlowSuperClusterOOTECALparticleFlowBasicClusterOOTECALBarrel",
-            "size_uncom": 113.737,
-            "size_compr": 50.0,
+            "size_uncom": 0.04338722229003906,
+            "size_compr": 0.019073486328125,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueChargedAll04",
-            "size_uncom": 137.833,
-            "size_compr": 49.575,
+            "size_uncom": 0.05257911682128906,
+            "size_compr": 0.018911361694335938,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "ctppsProtonssingleRP",
-            "size_uncom": 123.082,
-            "size_compr": 49.3475,
+            "size_uncom": 0.04695205688476562,
+            "size_compr": 0.01882457733154297,
             "type": "recoForwardProtons"
         },
         {
             "events": 400,
             "label": "ctppsProtonsmultiRP",
-            "size_uncom": 122.847,
-            "size_compr": 49.1125,
+            "size_uncom": 0.04686241149902343,
+            "size_compr": 0.01873493194580078,
             "type": "recoForwardProtons"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueCharged04",
-            "size_uncom": 137.748,
-            "size_compr": 49.04,
+            "size_uncom": 0.05254669189453125,
+            "size_compr": 0.018707275390625,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "softPFElectronBJetTags",
-            "size_uncom": 576.525,
-            "size_compr": 48.885,
+            "size_uncom": 0.2199268341064453,
+            "size_compr": 0.018648147583007812,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "particleFlowphotons",
-            "size_uncom": 120.05,
-            "size_compr": 48.785,
+            "size_uncom": 0.045795440673828125,
+            "size_compr": 0.018610000610351562,
             "type": "recoPFCandidateedmPtredmValueMap"
         },
         {
             "events": 400,
             "label": "hpsPFTauDiscriminationByDecayModeFindingOldDMs",
-            "size_uncom": 231.99,
-            "size_compr": 48.3475,
+            "size_uncom": 0.08849716186523438,
+            "size_compr": 0.01844310760498047,
             "type": "recoPFTauDiscriminator"
         },
         {
             "events": 400,
             "label": "hpsPFTauDiscriminationByDecayModeFinding",
-            "size_uncom": 231.255,
-            "size_compr": 47.6225,
+            "size_uncom": 0.08821678161621094,
+            "size_compr": 0.018166542053222656,
             "type": "recoPFTauDiscriminator"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueCharged04",
-            "size_uncom": 137.705,
-            "size_compr": 47.5175,
+            "size_uncom": 0.05253028869628907,
+            "size_compr": 0.018126487731933594,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueGamma04",
-            "size_uncom": 137.662,
-            "size_compr": 46.905,
+            "size_uncom": 0.05251388549804688,
+            "size_compr": 0.017892837524414062,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "lowPtGsfElectronSeedValueMapsunbiased",
-            "size_uncom": 94.375,
-            "size_compr": 46.725,
+            "size_uncom": 0.03600120544433594,
+            "size_compr": 0.017824172973632812,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "lowPtGsfElectronSeedValueMapsptbiased",
-            "size_uncom": 94.375,
-            "size_compr": 46.645,
+            "size_uncom": 0.03600120544433594,
+            "size_compr": 0.017793655395507812,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "rekeyLowPtGsfElectronSeedValueMapsunbiased",
-            "size_uncom": 94.095,
-            "size_compr": 46.345,
+            "size_uncom": 0.03589439392089844,
+            "size_compr": 0.017679214477539062,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "rekeyLowPtGsfElectronSeedValueMapsptbiased",
-            "size_uncom": 94.095,
-            "size_compr": 46.315,
+            "size_uncom": 0.03589439392089844,
+            "size_compr": 0.017667770385742188,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "hpsPFTauDiscriminationByDecayModeFindingNewDMs",
-            "size_uncom": 231.99,
-            "size_compr": 46.0375,
+            "size_uncom": 0.08849716186523438,
+            "size_compr": 0.017561912536621094,
             "type": "recoPFTauDiscriminator"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueGamma04",
-            "size_uncom": 137.62,
-            "size_compr": 45.8425,
+            "size_uncom": 0.05249786376953125,
+            "size_compr": 0.017487525939941406,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "softPFMuonBJetTags",
-            "size_uncom": 576.085,
-            "size_compr": 45.735,
+            "size_uncom": 0.2197589874267578,
+            "size_compr": 0.017446517944335938,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "multi5x5PreshowerClusterShapemulti5x5PreshowerYClustersShape",
-            "size_uncom": 123.04,
-            "size_compr": 45.595,
+            "size_uncom": 0.04693603515625,
+            "size_compr": 0.017393112182617188,
             "type": "recoPreshowerClusterShapes"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueNeutral04",
-            "size_uncom": 137.748,
-            "size_compr": 45.51,
+            "size_uncom": 0.05254669189453125,
+            "size_compr": 0.017360687255859375,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueNeutral04",
-            "size_uncom": 137.705,
-            "size_compr": 45.3375,
+            "size_uncom": 0.05253028869628907,
+            "size_compr": 0.017294883728027344,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "lowPtGsfElectronID",
-            "size_uncom": 93.135,
-            "size_compr": 45.295,
+            "size_uncom": 0.03552818298339844,
+            "size_compr": 0.017278671264648438,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueChargedAll03",
-            "size_uncom": 137.875,
-            "size_compr": 45.0675,
+            "size_uncom": 0.05259513854980469,
+            "size_compr": 0.01719188690185547,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "particleFlowSuperClusterOOTECALparticleFlowBasicClusterOOTECALPreshower",
-            "size_uncom": 105.535,
-            "size_compr": 44.8075,
+            "size_uncom": 0.04025840759277344,
+            "size_compr": 0.01709270477294922,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "reducedHcalRecHitshfreco",
-            "size_uncom": 79.5675,
-            "size_compr": 44.78,
+            "size_uncom": 0.03035259246826172,
+            "size_compr": 0.01708221435546875,
             "type": "HFRecHitsSorted"
         },
         {
             "events": 400,
             "label": "ctppsLocalTrackLiteProducer",
-            "size_uncom": 105.132,
-            "size_compr": 44.3375,
+            "size_uncom": 0.04010467529296875,
+            "size_compr": 0.016913414001464844,
             "type": "CTPPSLocalTrackLites"
         },
         {
             "events": 400,
             "label": "particleFlowSuperClusterOOTECALparticleFlowBasicClusterOOTECALEndcap",
-            "size_uncom": 105.017,
-            "size_compr": 44.33,
+            "size_uncom": 0.04006080627441406,
+            "size_compr": 0.016910552978515625,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueChargedAll03",
-            "size_uncom": 137.833,
-            "size_compr": 43.895,
+            "size_uncom": 0.05257911682128906,
+            "size_compr": 0.016744613647460938,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueNeutralHighThreshold04",
-            "size_uncom": 138.3,
-            "size_compr": 43.2425,
+            "size_uncom": 0.05275726318359376,
+            "size_compr": 0.016495704650878906,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueNeutralHighThreshold04",
-            "size_uncom": 138.257,
-            "size_compr": 43.08,
+            "size_uncom": 0.052740859985351565,
+            "size_compr": 0.0164337158203125,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueCharged03",
-            "size_uncom": 137.748,
-            "size_compr": 42.73,
+            "size_uncom": 0.05254669189453125,
+            "size_compr": 0.016300201416015625,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "hfEMClusters",
-            "size_uncom": 79.07,
-            "size_compr": 41.675,
+            "size_uncom": 0.03016281127929687,
+            "size_compr": 0.015897750854492188,
             "type": "recoSuperClustersToOnerecoHFEMClusterShapesAssociation"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueCharged03",
-            "size_uncom": 137.705,
-            "size_compr": 41.6275,
+            "size_uncom": 0.05253028869628907,
+            "size_compr": 0.01587963104248047,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "uncleanedOnlyGsfElectronCores",
-            "size_uncom": 102.082,
-            "size_compr": 41.525,
+            "size_uncom": 0.03894119262695312,
+            "size_compr": 0.015840530395507812,
             "type": "recoGsfElectronCores"
         },
         {
             "events": 400,
             "label": "multi5x5PreshowerClusterShapemulti5x5PreshowerXClustersShape",
-            "size_uncom": 123.04,
-            "size_compr": 40.285,
+            "size_uncom": 0.04693603515625,
+            "size_compr": 0.01536750793457031,
             "type": "recoPreshowerClusterShapes"
         },
         {
             "events": 400,
             "label": "tevMuonsfirstHit",
-            "size_uncom": 81.89,
-            "size_compr": 39.905,
+            "size_uncom": 0.031238555908203125,
+            "size_compr": 0.015222549438476562,
             "type": "recoTracksToOnerecoTracksAssociation"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueGamma03",
-            "size_uncom": 137.662,
-            "size_compr": 39.885,
+            "size_uncom": 0.05251388549804688,
+            "size_compr": 0.015214920043945312,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "tevMuonsdefault",
-            "size_uncom": 81.745,
-            "size_compr": 39.72,
+            "size_uncom": 0.031183242797851562,
+            "size_compr": 0.0151519775390625,
             "type": "recoTracksToOnerecoTracksAssociation"
         },
         {
             "events": 400,
             "label": "tevMuonspicky",
-            "size_uncom": 81.455,
-            "size_compr": 39.42,
+            "size_uncom": 0.031072616577148438,
+            "size_compr": 0.01503753662109375,
             "type": "recoTracksToOnerecoTracksAssociation"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueGamma03",
-            "size_uncom": 137.62,
-            "size_compr": 39.1525,
+            "size_uncom": 0.05249786376953125,
+            "size_compr": 0.014935493469238283,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "tevMuonsdyt",
-            "size_uncom": 81.165,
-            "size_compr": 39.13,
+            "size_uncom": 0.030961990356445316,
+            "size_compr": 0.014926910400390627,
             "type": "recoTracksToOnerecoTracksAssociation"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueNeutral03",
-            "size_uncom": 137.705,
-            "size_compr": 37.6675,
+            "size_uncom": 0.05253028869628907,
+            "size_compr": 0.014369010925292967,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueNeutral03",
-            "size_uncom": 137.748,
-            "size_compr": 37.64,
+            "size_uncom": 0.05254669189453125,
+            "size_compr": 0.0143585205078125,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "hfRecoEcalCandidate",
-            "size_uncom": 86.9175,
-            "size_compr": 37.18,
+            "size_uncom": 0.033156394958496094,
+            "size_compr": 0.01418304443359375,
             "type": "recoRecoEcalCandidates"
         },
         {
             "events": 400,
             "label": "ootPhotonCore",
-            "size_uncom": 96.9275,
-            "size_compr": 35.8975,
+            "size_uncom": 0.03697490692138672,
+            "size_compr": 0.013693809509277344,
             "type": "recoPhotonCores"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueGammaHighThreshold04",
-            "size_uncom": 138.215,
-            "size_compr": 35.8575,
+            "size_uncom": 0.05272483825683594,
+            "size_compr": 0.013678550720214844,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueNeutralHighThreshold03",
-            "size_uncom": 138.3,
-            "size_compr": 35.5125,
+            "size_uncom": 0.05275726318359376,
+            "size_compr": 0.013546943664550783,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueNeutralHighThreshold03",
-            "size_uncom": 138.257,
-            "size_compr": 35.47,
+            "size_uncom": 0.052740859985351565,
+            "size_compr": 0.013530731201171875,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueGammaHighThreshold04",
-            "size_uncom": 138.173,
-            "size_compr": 35.275,
+            "size_uncom": 0.05270881652832031,
+            "size_compr": 0.013456344604492188,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "reducedHcalRecHitshoreco",
-            "size_uncom": 61.7425,
-            "size_compr": 34.69,
+            "size_uncom": 0.023552894592285156,
+            "size_compr": 0.013233184814453125,
             "type": "HORecHitsSorted"
         },
         {
             "events": 400,
             "label": "hfEMClusters",
-            "size_uncom": 95.3575,
-            "size_compr": 34.69,
+            "size_uncom": 0.036375999450683594,
+            "size_compr": 0.013233184814453125,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "onlineMetaDataDigis",
-            "size_uncom": 54.2,
-            "size_compr": 34.6475,
+            "size_uncom": 0.0206756591796875,
+            "size_compr": 0.013216972351074219,
             "type": "OnlineLuminosityRecord"
         },
         {
             "events": 400,
             "label": "onlineMetaDataDigis",
-            "size_uncom": 122.41,
-            "size_compr": 32.04,
+            "size_uncom": 0.046695709228515625,
+            "size_compr": 0.0122222900390625,
             "type": "DCSRecord"
         },
         {
             "events": 400,
             "label": "ctppsPixelLocalTracks",
-            "size_uncom": 65.055,
-            "size_compr": 31.56,
+            "size_uncom": 0.02481651306152344,
+            "size_compr": 0.0120391845703125,
             "type": "CTPPSPixelLocalTrackedmDetSetVector"
         },
         {
             "events": 400,
             "label": "ctppsDiamondRawToDigiTimingDiamond",
-            "size_uncom": 62.85,
-            "size_compr": 30.7125,
+            "size_uncom": 0.023975372314453125,
+            "size_compr": 0.011715888977050781,
             "type": "CTPPSDiamondDigiedmDetSetVector"
         },
         {
             "events": 400,
             "label": "ctppsDiamondRawToDigiTimingDiamond",
-            "size_uncom": 62.6725,
-            "size_compr": 30.555,
+            "size_uncom": 0.02390766143798828,
+            "size_compr": 0.011655807495117188,
             "type": "TotemVFATStatusedmDetSetVector"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueGammaHighThreshold03",
-            "size_uncom": 138.215,
-            "size_compr": 30.4875,
+            "size_uncom": 0.05272483825683594,
+            "size_compr": 0.011630058288574219,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "ctppsDiamondLocalTracks",
-            "size_uncom": 62.5675,
-            "size_compr": 30.45,
+            "size_uncom": 0.02386760711669922,
+            "size_compr": 0.011615753173828125,
             "type": "CTPPSDiamondLocalTrackedmDetSetVector"
         },
         {
             "events": 400,
             "label": "diamondSampicLocalTracks",
-            "size_uncom": 62.5125,
-            "size_compr": 30.395,
+            "size_uncom": 0.02384662628173828,
+            "size_compr": 0.011594772338867188,
             "type": "TotemTimingLocalTrackedmDetSetVector"
         },
         {
             "events": 400,
             "label": "totemTimingRawToDigiTotemTiming",
-            "size_uncom": 62.305,
-            "size_compr": 30.1775,
+            "size_uncom": 0.023767471313476562,
+            "size_compr": 0.011511802673339844,
             "type": "TotemTimingDigiedmDetSetVector"
         },
         {
             "events": 400,
             "label": "scalersRawToDigi",
-            "size_uncom": 76.0275,
-            "size_compr": 30.0775,
+            "size_uncom": 0.02900218963623047,
+            "size_compr": 0.011473655700683594,
             "type": "DcsStatuss"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueGammaHighThreshold03",
-            "size_uncom": 138.173,
-            "size_compr": 30.025,
+            "size_uncom": 0.05270881652832031,
+            "size_compr": 0.011453628540039062,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "ctppsPixelClusters",
-            "size_uncom": 61.6375,
-            "size_compr": 29.62,
+            "size_uncom": 0.023512840270996094,
+            "size_compr": 0.01129913330078125,
             "type": "CTPPSPixelClusteredmDetSetVector"
         },
         {
             "events": 400,
             "label": "ctppsPixelRecHits",
-            "size_uncom": 61.9525,
-            "size_compr": 29.58,
+            "size_uncom": 0.02363300323486328,
+            "size_compr": 0.01128387451171875,
             "type": "CTPPSPixelRecHitedmDetSetVector"
         },
         {
             "events": 400,
             "label": "totemRPLocalTrackFitter",
-            "size_uncom": 61.68,
-            "size_compr": 29.5725,
+            "size_uncom": 0.023529052734375,
+            "size_compr": 0.011281013488769531,
             "type": "TotemRPLocalTrackedmDetSetVector"
         },
         {
             "events": 400,
             "label": "ctppsPixelDigis",
-            "size_uncom": 61.075,
-            "size_compr": 29.4575,
+            "size_uncom": 0.023298263549804688,
+            "size_compr": 0.011237144470214844,
             "type": "CTPPSPixelDataErroredmDetSetVector"
         },
         {
             "events": 400,
             "label": "totemRPUVPatternFinder",
-            "size_uncom": 61.38,
-            "size_compr": 29.2525,
+            "size_uncom": 0.02341461181640625,
+            "size_compr": 0.011158943176269531,
             "type": "TotemRPUVPatternedmDetSetVector"
         },
         {
             "events": 400,
             "label": "ctppsDiamondRecHits",
-            "size_uncom": 61.3675,
-            "size_compr": 29.25,
+            "size_uncom": 0.02340984344482422,
+            "size_compr": 0.011157989501953125,
             "type": "CTPPSDiamondRecHitedmDetSetVector"
         },
         {
             "events": 400,
             "label": "totemRPRawToDigiTrackingStrip",
-            "size_uncom": 61.35,
-            "size_compr": 29.2425,
+            "size_uncom": 0.023403167724609375,
+            "size_compr": 0.011155128479003906,
             "type": "TotemRPDigiedmDetSetVector"
         },
         {
             "events": 400,
             "label": "totemTimingRecHits",
-            "size_uncom": 61.0675,
-            "size_compr": 28.99,
+            "size_uncom": 0.02329540252685547,
+            "size_compr": 0.011058807373046875,
             "type": "TotemTimingRecHitedmDetSetVector"
         },
         {
             "events": 400,
             "label": "totemRPClusterProducer",
-            "size_uncom": 61.025,
-            "size_compr": 28.9375,
+            "size_uncom": 0.023279190063476562,
+            "size_compr": 0.011038780212402344,
             "type": "TotemRPClusteredmDetSetVector"
         },
         {
             "events": 400,
             "label": "totemRPRecHitProducer",
-            "size_uncom": 60.725,
-            "size_compr": 28.5975,
+            "size_uncom": 0.023164749145507812,
+            "size_compr": 0.010909080505371094,
             "type": "TotemRPRecHitedmDetSetVector"
         },
         {
             "events": 400,
             "label": "particleFlowRecHitHBHECleaned",
-            "size_uncom": 65.45,
-            "size_compr": 25.7925,
+            "size_uncom": 0.024967193603515625,
+            "size_compr": 0.009839057922363281,
             "type": "recoPFRecHits"
         },
         {
             "events": 400,
             "label": "particleFlowRecHitHOCleaned",
-            "size_uncom": 65.205,
-            "size_compr": 25.5675,
+            "size_uncom": 0.024873733520507812,
+            "size_compr": 0.009753227233886719,
             "type": "recoPFRecHits"
         },
         {
             "events": 400,
             "label": "particleFlowRecHitHFCleaned",
-            "size_uncom": 65.205,
-            "size_compr": 25.5675,
+            "size_uncom": 0.024873733520507812,
+            "size_compr": 0.009753227233886719,
             "type": "recoPFRecHits"
         },
         {
             "events": 400,
             "label": "particleFlowRecHitPSCleaned",
-            "size_uncom": 65.205,
-            "size_compr": 25.5675,
+            "size_uncom": 0.024873733520507812,
+            "size_compr": 0.009753227233886719,
             "type": "recoPFRecHits"
         },
         {
             "events": 400,
             "label": "TriggerResults",
-            "size_uncom": 94.635,
-            "size_compr": 24.1075,
+            "size_uncom": 0.03610038757324219,
+            "size_compr": 0.009196281433105469,
             "type": "edmTriggerResults"
         },
         {
             "events": 400,
             "label": "genParticlesxyz0",
-            "size_uncom": 46.03,
-            "size_compr": 20.985,
+            "size_uncom": 0.017559051513671875,
+            "size_compr": 0.008005142211914062,
             "type": "floatROOTMathCartesian3DROOTMathDefaultCoordinateSystemTagROOTMathPositionVector3D"
         },
         {
             "events": 400,
             "label": "logErrorHarvester",
-            "size_uncom": 55.2675,
-            "size_compr": 20.45,
+            "size_uncom": 0.02108287811279297,
+            "size_compr": 0.007801055908203125,
             "type": "edmErrorSummaryEntrys"
         },
         {
             "events": 400,
             "label": "onlineMetaDataDigis",
-            "size_uncom": 35.6825,
-            "size_compr": 19.5325,
+            "size_uncom": 0.013611793518066405,
+            "size_compr": 0.007451057434082031,
             "type": "CTPPSRecord"
         },
         {
             "events": 400,
             "label": "ctppsDiamondRawToDigiTimingDiamond",
-            "size_uncom": 40.945,
-            "size_compr": 17.67,
+            "size_uncom": 0.015619277954101562,
+            "size_compr": 0.006740570068359376,
             "type": "TotemFEDInfos"
         },
         {
             "events": 400,
             "label": "scalersRawToDigi",
-            "size_uncom": 40.7225,
-            "size_compr": 17.4975,
+            "size_uncom": 0.015534400939941405,
+            "size_compr": 0.006674766540527343,
             "type": "L1AcceptBunchCrossings"
         },
         {
             "events": 400,
             "label": "totemRPRawToDigiTrackingStrip",
-            "size_uncom": 40.52,
-            "size_compr": 17.285,
+            "size_uncom": 0.015457153320312502,
+            "size_compr": 0.0065937042236328125,
             "type": "TotemFEDInfos"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppiSoftDropMass",
-            "size_uncom": 69.43,
-            "size_compr": 15.5775,
+            "size_uncom": 0.02648544311523438,
+            "size_compr": 0.005942344665527344,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "dedxHitInfoprescale",
-            "size_uncom": 91.795,
-            "size_compr": 15.575,
+            "size_uncom": 0.03501701354980469,
+            "size_compr": 0.0059413909912109375,
             "type": "intedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidTMLastStationOptimizedLowPtTight",
-            "size_uncom": 67.9875,
-            "size_compr": 15.0325,
+            "size_uncom": 0.02593517303466797,
+            "size_compr": 0.005734443664550781,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidTMLastStationOptimizedLowPtLoose",
-            "size_uncom": 67.9875,
-            "size_compr": 14.9425,
+            "size_uncom": 0.02593517303466797,
+            "size_compr": 0.005700111389160156,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidTM2DCompatibilityTight",
-            "size_uncom": 67.6125,
-            "size_compr": 14.6875,
+            "size_uncom": 0.02579212188720703,
+            "size_compr": 0.005602836608886719,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidTM2DCompatibilityLoose",
-            "size_uncom": 67.6125,
-            "size_compr": 14.6475,
+            "size_uncom": 0.02579212188720703,
+            "size_compr": 0.005587577819824219,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidTMLastStationAngLoose",
-            "size_uncom": 67.575,
-            "size_compr": 14.62,
+            "size_uncom": 0.025777816772460938,
+            "size_compr": 0.00557708740234375,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidTMOneStationAngLoose",
-            "size_uncom": 67.5375,
-            "size_compr": 14.6025,
+            "size_uncom": 0.02576351165771484,
+            "size_compr": 0.005570411682128906,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidTMLastStationAngTight",
-            "size_uncom": 67.575,
-            "size_compr": 14.56,
+            "size_uncom": 0.025777816772460938,
+            "size_compr": 0.00555419921875,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidTMOneStationAngTight",
-            "size_uncom": 67.5375,
-            "size_compr": 14.5225,
+            "size_uncom": 0.02576351165771484,
+            "size_compr": 0.005539894104003906,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidTMOneStationTight",
-            "size_uncom": 67.425,
-            "size_compr": 14.49,
+            "size_uncom": 0.025720596313476562,
+            "size_compr": 0.005527496337890625,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidTrackerMuonArbitrated",
-            "size_uncom": 67.575,
-            "size_compr": 14.44,
+            "size_uncom": 0.025777816772460938,
+            "size_compr": 0.0055084228515625,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidTMOneStationLoose",
-            "size_uncom": 67.425,
-            "size_compr": 14.37,
+            "size_uncom": 0.025720596313476562,
+            "size_compr": 0.005481719970703125,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "fixedGridRhoFastjetCentralChargedPileUp",
-            "size_uncom": 15.25,
-            "size_compr": 13.775,
+            "size_uncom": 0.005817413330078125,
+            "size_compr": 0.0052547454833984375,
             "type": "double"
         },
         {
             "events": 400,
             "label": "fixedGridRhoFastjetAllTmp",
-            "size_uncom": 14.76,
-            "size_compr": 13.645,
+            "size_uncom": 0.0056304931640625,
+            "size_compr": 0.0052051544189453125,
             "type": "double"
         },
         {
             "events": 400,
             "label": "hltScoutingPFPackerpfMetPhi",
-            "size_uncom": 14.795,
-            "size_compr": 13.57,
+            "size_uncom": 0.0056438446044921875,
+            "size_compr": 0.005176544189453125,
             "type": "double"
         },
         {
             "events": 400,
             "label": "fixedGridRhoFastjetAll",
-            "size_uncom": 14.655,
-            "size_compr": 13.53,
+            "size_uncom": 0.0055904388427734375,
+            "size_compr": 0.005161285400390625,
             "type": "double"
         },
         {
             "events": 400,
             "label": "muonsmuidTMLastStationLoose",
-            "size_uncom": 67.4625,
-            "size_compr": 13.4675,
+            "size_uncom": 0.02573490142822266,
+            "size_compr": 0.005137443542480469,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "fixedGridRhoFastjetCentralNeutral",
-            "size_uncom": 15.04,
-            "size_compr": 13.455,
+            "size_uncom": 0.0057373046875,
+            "size_compr": 0.0051326751708984375,
             "type": "double"
         },
         {
             "events": 400,
             "label": "hltScoutingPFPackerpfMetPt",
-            "size_uncom": 14.76,
-            "size_compr": 13.375,
+            "size_uncom": 0.0056304931640625,
+            "size_compr": 0.0051021575927734375,
             "type": "double"
         },
         {
             "events": 400,
             "label": "fixedGridRhoFastjetCentralCalo",
-            "size_uncom": 14.935,
-            "size_compr": 13.37,
+            "size_uncom": 0.0056972503662109375,
+            "size_compr": 0.005100250244140625,
             "type": "double"
         },
         {
             "events": 400,
             "label": "muonsmuidTMLastStationTight",
-            "size_uncom": 67.4625,
-            "size_compr": 13.3675,
+            "size_uncom": 0.02573490142822266,
+            "size_compr": 0.005099296569824219,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "fixedGridRhoFastjetAllCalo",
-            "size_uncom": 14.795,
-            "size_compr": 13.27,
+            "size_uncom": 0.0056438446044921875,
+            "size_compr": 0.005062103271484375,
             "type": "double"
         },
         {
             "events": 400,
             "label": "fixedGridRhoFastjetCentral",
-            "size_uncom": 14.795,
-            "size_compr": 13.2,
+            "size_uncom": 0.0056438446044921875,
+            "size_compr": 0.005035400390625,
             "type": "double"
         },
         {
             "events": 400,
             "label": "muonscosmicsVeto",
-            "size_uncom": 97.135,
-            "size_compr": 13.125,
+            "size_uncom": 0.03705406188964844,
+            "size_compr": 0.0050067901611328125,
             "type": "uintedmValueMap"
         },
         {
             "events": 400,
             "label": "hltScoutingPFPackerrho",
-            "size_uncom": 14.62,
-            "size_compr": 13.025,
+            "size_uncom": 0.00557708740234375,
+            "size_compr": 0.0049686431884765625,
             "type": "double"
         },
         {
             "events": 400,
             "label": "muonsmuidGlobalMuonPromptTight",
-            "size_uncom": 67.575,
-            "size_compr": 12.95,
+            "size_uncom": 0.025777816772460938,
+            "size_compr": 0.004940032958984375,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidGMStaChiCompatibility",
-            "size_uncom": 67.575,
-            "size_compr": 12.91,
+            "size_uncom": 0.025777816772460938,
+            "size_compr": 0.004924774169921875,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidGMTkChiCompatibility",
-            "size_uncom": 67.5375,
-            "size_compr": 12.7725,
+            "size_uncom": 0.02576351165771484,
+            "size_compr": 0.004872322082519531,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidRPCMuLoose",
-            "size_uncom": 67.1625,
-            "size_compr": 12.5875,
+            "size_uncom": 0.025620460510253903,
+            "size_compr": 0.004801750183105469,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidGMTkKinkTight",
-            "size_uncom": 67.275,
-            "size_compr": 12.56,
+            "size_uncom": 0.02566337585449219,
+            "size_compr": 0.004791259765625,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "eidTight",
-            "size_uncom": 64.695,
-            "size_compr": 11.7425,
+            "size_uncom": 0.024679183959960934,
+            "size_compr": 0.004479408264160156,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidAllArbitrated",
-            "size_uncom": 67.275,
-            "size_compr": 11.53,
+            "size_uncom": 0.02566337585449219,
+            "size_compr": 0.004398345947265625,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "eidLoose",
-            "size_uncom": 64.695,
-            "size_compr": 11.4825,
+            "size_uncom": 0.024679183959960934,
+            "size_compr": 0.004380226135253906,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "PhotonIDProdGEDPhotonCutBasedIDLooseEM",
-            "size_uncom": 60.48,
-            "size_compr": 11.26,
+            "size_uncom": 0.0230712890625,
+            "size_compr": 0.00429534912109375,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "PhotonIDProdGEDPhotonCutBasedIDLoose",
-            "size_uncom": 60.405,
-            "size_compr": 11.175,
+            "size_uncom": 0.023042678833007812,
+            "size_compr": 0.0042629241943359375,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "PhotonIDProdGEDPhotonCutBasedIDTight",
-            "size_uncom": 60.405,
-            "size_compr": 11.165,
+            "size_uncom": 0.023042678833007812,
+            "size_compr": 0.0042591094970703125,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "PhotonIDProdPhotonCutBasedIDLooseEM",
-            "size_uncom": 60.5075,
-            "size_compr": 11.1175,
+            "size_uncom": 0.02308177947998047,
+            "size_compr": 0.004240989685058594,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "eidRobustLoose",
-            "size_uncom": 64.92,
-            "size_compr": 11.0975,
+            "size_uncom": 0.0247650146484375,
+            "size_compr": 0.004233360290527344,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "PhotonIDProdPhotonCutBasedIDLoose",
-            "size_uncom": 60.4325,
-            "size_compr": 11.0225,
+            "size_uncom": 0.02305316925048828,
+            "size_compr": 0.004204750061035156,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "PhotonIDProdPhotonCutBasedIDTight",
-            "size_uncom": 60.4325,
-            "size_compr": 11.0125,
+            "size_uncom": 0.02305316925048828,
+            "size_compr": 0.004200935363769531,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "eidRobustHighEnergy",
-            "size_uncom": 65.1075,
-            "size_compr": 10.975,
+            "size_uncom": 0.02483654022216797,
+            "size_compr": 0.0041866302490234375,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "eidRobustTight",
-            "size_uncom": 64.92,
-            "size_compr": 10.7175,
+            "size_uncom": 0.0247650146484375,
+            "size_compr": 0.004088401794433594,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "hltScoutingMuonPackerdisplacedVtx",
-            "size_uncom": 25.8175,
-            "size_compr": 10.315,
+            "size_uncom": 0.009848594665527344,
+            "size_compr": 0.0039348602294921875,
             "type": "Run3ScoutingVertexs"
         },
         {
             "events": 400,
             "label": "TriggerResults",
-            "size_uncom": 88.505,
-            "size_compr": 9.565,
+            "size_uncom": 0.03376197814941406,
+            "size_compr": 0.0036487579345703125,
             "type": "edmTriggerResults"
         },
         {
             "events": 400,
             "label": "genParticlest0",
-            "size_uncom": 10.295,
-            "size_compr": 9.4875,
+            "size_uncom": 0.0039272308349609375,
+            "size_compr": 0.003619194030761719,
             "type": "float"
         },
         {
             "events": 400,
             "label": "fixedGridRhoAll",
-            "size_uncom": 14.41,
-            "size_compr": 9.485,
+            "size_uncom": 0.005496978759765625,
+            "size_compr": 0.0036182403564453125,
             "type": "double"
         },
         {
             "events": 400,
             "label": "gtDigis",
-            "size_uncom": 79.4475,
-            "size_compr": 8.905,
+            "size_uncom": 0.030306816101074222,
+            "size_compr": 0.003396987915039062,
             "type": "L1GlobalTriggerReadoutRecord"
         },
         {
             "events": 400,
             "label": "ctppsPixelDigis",
-            "size_uncom": 41.745,
-            "size_compr": 8.44,
+            "size_uncom": 0.015924453735351562,
+            "size_compr": 0.0032196044921875,
             "type": "CTPPSPixelDigiedmDetSetVector"
         },
         {
             "events": 400,
             "label": "ak4GenJetsNoNurhos",
-            "size_uncom": 20.625,
-            "size_compr": 7.67,
+            "size_uncom": 0.007867813110351562,
+            "size_compr": 0.002925872802734375,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak8GenJetsNoNurhos",
-            "size_uncom": 20.625,
-            "size_compr": 7.67,
+            "size_uncom": 0.007867813110351562,
+            "size_compr": 0.002925872802734375,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak4GenJetssigmas",
-            "size_uncom": 20.555,
-            "size_compr": 7.53,
+            "size_uncom": 0.007841110229492188,
+            "size_compr": 0.002872467041015625,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak8GenJetssigmas",
-            "size_uncom": 20.555,
-            "size_compr": 7.53,
+            "size_uncom": 0.007841110229492188,
+            "size_compr": 0.002872467041015625,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak8GenJetsNoNusigmas",
-            "size_uncom": 20.695,
-            "size_compr": 7.46,
+            "size_uncom": 0.007894515991210938,
+            "size_compr": 0.00284576416015625,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak4GenJetsNoNusigmas",
-            "size_uncom": 20.695,
-            "size_compr": 7.46,
+            "size_uncom": 0.007894515991210938,
+            "size_compr": 0.00284576416015625,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppiSoftDropsigmas",
-            "size_uncom": 21.01,
-            "size_compr": 7.455,
+            "size_uncom": 0.008014678955078125,
+            "size_compr": 0.0028438568115234375,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak8GenJetsrhos",
-            "size_uncom": 20.485,
-            "size_compr": 7.4,
+            "size_uncom": 0.007814407348632812,
+            "size_compr": 0.0028228759765625,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak4GenJetsrhos",
-            "size_uncom": 20.485,
-            "size_compr": 7.4,
+            "size_uncom": 0.007814407348632812,
+            "size_compr": 0.0028228759765625,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppiSoftDroprhos",
-            "size_uncom": 20.94,
-            "size_compr": 7.385,
+            "size_uncom": 0.00798797607421875,
+            "size_compr": 0.0028171539306640625,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppisigmas",
-            "size_uncom": 20.73,
-            "size_compr": 7.175,
+            "size_uncom": 0.007907867431640625,
+            "size_compr": 0.0027370452880859375,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak4PFJetsPuppisigmas",
-            "size_uncom": 20.73,
-            "size_compr": 7.175,
+            "size_uncom": 0.007907867431640625,
+            "size_compr": 0.0027370452880859375,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppirhos",
-            "size_uncom": 20.66,
-            "size_compr": 7.105,
+            "size_uncom": 0.00788116455078125,
+            "size_compr": 0.0027103424072265625,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak4PFJetsCHSsigmas",
-            "size_uncom": 20.66,
-            "size_compr": 7.105,
+            "size_uncom": 0.00788116455078125,
+            "size_compr": 0.0027103424072265625,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak4PFJetsPuppirhos",
-            "size_uncom": 20.66,
-            "size_compr": 7.105,
+            "size_uncom": 0.00788116455078125,
+            "size_compr": 0.0027103424072265625,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak4PFJetsCHSrhos",
-            "size_uncom": 20.59,
-            "size_compr": 7.025,
+            "size_uncom": 0.007854461669921875,
+            "size_compr": 0.0026798248291015625,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppiSoftDropsigma",
-            "size_uncom": 14.83,
-            "size_compr": 6.255,
+            "size_uncom": 0.005657196044921875,
+            "size_compr": 0.0023860931396484375,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppiSoftDroprho",
-            "size_uncom": 14.76,
-            "size_compr": 6.185,
+            "size_uncom": 0.0056304931640625,
+            "size_compr": 0.0023593902587890625,
             "type": "double"
         },
         {
             "events": 400,
             "label": "addPileupInfobunchSpacing",
-            "size_uncom": 10.59,
-            "size_compr": 6.005,
+            "size_uncom": 0.004039764404296875,
+            "size_compr": 0.0022907257080078125,
             "type": "int"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppisigma",
-            "size_uncom": 14.55,
-            "size_compr": 5.975,
+            "size_uncom": 0.005550384521484375,
+            "size_compr": 0.0022792816162109375,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4PFJetsPuppisigma",
-            "size_uncom": 14.55,
-            "size_compr": 5.975,
+            "size_uncom": 0.005550384521484375,
+            "size_compr": 0.0022792816162109375,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak8GenJetsNoNusigma",
-            "size_uncom": 14.515,
-            "size_compr": 5.94,
+            "size_uncom": 0.0055370330810546875,
+            "size_compr": 0.00226593017578125,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4GenJetsNoNusigma",
-            "size_uncom": 14.515,
-            "size_compr": 5.94,
+            "size_uncom": 0.0055370330810546875,
+            "size_compr": 0.00226593017578125,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4PFJetsCHSsigma",
-            "size_uncom": 14.48,
-            "size_compr": 5.905,
+            "size_uncom": 0.005523681640625,
+            "size_compr": 0.0022525787353515625,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4PFJetsPuppirho",
-            "size_uncom": 14.48,
-            "size_compr": 5.905,
+            "size_uncom": 0.005523681640625,
+            "size_compr": 0.0022525787353515625,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppirho",
-            "size_uncom": 14.48,
-            "size_compr": 5.905,
+            "size_uncom": 0.005523681640625,
+            "size_compr": 0.0022525787353515625,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4CaloJetssigma",
-            "size_uncom": 14.445,
-            "size_compr": 5.87,
+            "size_uncom": 0.0055103302001953125,
+            "size_compr": 0.002239227294921875,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4GenJetsNoNurho",
-            "size_uncom": 14.445,
-            "size_compr": 5.87,
+            "size_uncom": 0.0055103302001953125,
+            "size_compr": 0.002239227294921875,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak8GenJetsNoNurho",
-            "size_uncom": 14.445,
-            "size_compr": 5.87,
+            "size_uncom": 0.0055103302001953125,
+            "size_compr": 0.002239227294921875,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4PFJetsCHSrho",
-            "size_uncom": 14.41,
-            "size_compr": 5.835,
+            "size_uncom": 0.005496978759765625,
+            "size_compr": 0.0022258758544921875,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4CaloJetsrho",
-            "size_uncom": 14.375,
-            "size_compr": 5.8,
+            "size_uncom": 0.0054836273193359375,
+            "size_compr": 0.0022125244140625,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4PFJetssigma",
-            "size_uncom": 14.375,
-            "size_compr": 5.8,
+            "size_uncom": 0.0054836273193359375,
+            "size_compr": 0.0022125244140625,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4GenJetssigma",
-            "size_uncom": 14.375,
-            "size_compr": 5.8,
+            "size_uncom": 0.0054836273193359375,
+            "size_compr": 0.0022125244140625,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak8GenJetssigma",
-            "size_uncom": 14.375,
-            "size_compr": 5.8,
+            "size_uncom": 0.0054836273193359375,
+            "size_compr": 0.0022125244140625,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4GenJetsrho",
-            "size_uncom": 14.305,
-            "size_compr": 5.73,
+            "size_uncom": 0.0054569244384765625,
+            "size_compr": 0.002185821533203125,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak8GenJetsrho",
-            "size_uncom": 14.305,
-            "size_compr": 5.73,
+            "size_uncom": 0.0054569244384765625,
+            "size_compr": 0.002185821533203125,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4PFJetsrho",
-            "size_uncom": 14.305,
-            "size_compr": 5.73,
+            "size_uncom": 0.0054569244384765625,
+            "size_compr": 0.002185821533203125,
             "type": "double"
         }
     ],
@@ -3309,8 +3309,8 @@
     "total": {
         "events": "400",
         "label": "step3_eventsize",
-        "size_uncom": 3114324.627499999,
-        "size_compr": 677977.5155000008,
+        "size_uncom": 1188.020564079285,
+        "size_compr": 258.6278974533079,
         "type": "job"
     }
 }

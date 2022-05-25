@@ -3,3298 +3,3298 @@
         {
             "events": 400,
             "label": "generalTracks",
-            "size_uncom": 629865.0,
-            "size_compr": 208109.0,
+            "size_uncom": 251946000.0,
+            "size_compr": 83243600.0,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "particleFlow",
-            "size_uncom": 730943.0,
-            "size_compr": 114302.0,
+            "size_uncom": 292377200.0,
+            "size_compr": 45720800.0,
             "type": "recoPFCandidates"
         },
         {
             "events": 400,
             "label": "genParticles",
-            "size_uncom": 356199.0,
-            "size_compr": 30946.2,
+            "size_uncom": 142479600.0,
+            "size_compr": 12378480.0,
             "type": "recoGenParticles"
         },
         {
             "events": 400,
             "label": "hltTriggerSummaryAOD",
-            "size_uncom": 74657.9,
-            "size_compr": 21476.6,
+            "size_uncom": 29863159.999999996,
+            "size_compr": 8590640.0,
             "type": "triggerTriggerEvent"
         },
         {
             "events": 400,
             "label": "trackExtrapolator",
-            "size_uncom": 42524.5,
-            "size_compr": 13366.5,
+            "size_uncom": 17009800.0,
+            "size_compr": 5346600.0,
             "type": "recoTrackExtrapolations"
         },
         {
             "events": 400,
             "label": "hltScoutingTrackPacker",
-            "size_uncom": 25452.0,
-            "size_compr": 11677.9,
+            "size_uncom": 10180800.0,
+            "size_compr": 4671160.0,
             "type": "Run3ScoutingTracks"
         },
         {
             "events": 400,
             "label": "ak4PFJets",
-            "size_uncom": 59512.0,
-            "size_compr": 10517.6,
+            "size_uncom": 23804800.0,
+            "size_compr": 4207040.0,
             "type": "recoPFJets"
         },
         {
             "events": 400,
             "label": "addPileupInfo",
-            "size_uncom": 26325.8,
-            "size_compr": 8591.95,
+            "size_uncom": 10530320.0,
+            "size_compr": 3436780.0000000005,
             "type": "PileupSummaryInfos"
         },
         {
             "events": 400,
             "label": "dedxHarmonic2",
-            "size_uncom": 25997.6,
-            "size_compr": 8098.82,
+            "size_uncom": 10399040.0,
+            "size_compr": 3239528.0,
             "type": "recoDeDxDataedmValueMap"
         },
         {
             "events": 400,
             "label": "dedxPixelHarmonic2",
-            "size_uncom": 26009.0,
-            "size_compr": 8002.07,
+            "size_uncom": 10403600.0,
+            "size_compr": 3200828.0,
             "type": "recoDeDxDataedmValueMap"
         },
         {
             "events": 400,
             "label": "ak4PFJetsCHS",
-            "size_uncom": 41073.1,
-            "size_compr": 7911.68,
+            "size_uncom": 16429240.0,
+            "size_compr": 3164672.0,
             "type": "recoPFJets"
         },
         {
             "events": 400,
             "label": "hltScoutingPFPacker",
-            "size_uncom": 23163.3,
-            "size_compr": 6979.22,
+            "size_uncom": 9265320.0,
+            "size_compr": 2791688.0,
             "type": "Run3ScoutingParticles"
         },
         {
             "events": 400,
             "label": "generalTracksMVAValues",
-            "size_uncom": 8623.7,
-            "size_compr": 6817.28,
+            "size_uncom": 3449480.0000000005,
+            "size_compr": 2726912.0,
             "type": "floats"
         },
         {
             "events": 400,
             "label": "hltGtStage2ObjectMap",
-            "size_uncom": 72573.7,
-            "size_compr": 6695.29,
+            "size_uncom": 29029480.0,
+            "size_compr": 2678116.0,
             "type": "GlobalObjectMapRecord"
         },
         {
             "events": 400,
             "label": "muons",
-            "size_uncom": 15432.5,
-            "size_compr": 6633.14,
+            "size_uncom": 6173000.0,
+            "size_compr": 2653256.0,
             "type": "recoMuons"
         },
         {
             "events": 400,
             "label": "reducedEcalRecHitsEB",
-            "size_uncom": 14531.1,
-            "size_compr": 6598.44,
+            "size_uncom": 5812440.0,
+            "size_compr": 2639376.0,
             "type": "EcalRecHitsSorted"
         },
         {
             "events": 400,
             "label": "offlinePrimaryVertices",
-            "size_uncom": 51349.1,
-            "size_compr": 6349.66,
+            "size_uncom": 20539640.0,
+            "size_compr": 2539864.0,
             "type": "recoVertexs"
         },
         {
             "events": 400,
             "label": "offlinePrimaryVerticesWithBS",
-            "size_uncom": 51353.3,
-            "size_compr": 6246.88,
+            "size_uncom": 20541320.0,
+            "size_compr": 2498752.0,
             "type": "recoVertexs"
         },
         {
             "events": 400,
             "label": "ak4CaloJets",
-            "size_uncom": 27389.6,
-            "size_compr": 6134.98,
+            "size_uncom": 10955840.0,
+            "size_compr": 2453992.0,
             "type": "recoCaloJets"
         },
         {
             "events": 400,
             "label": "reducedEcalRecHitsEE",
-            "size_uncom": 12207.2,
-            "size_compr": 6131.23,
+            "size_uncom": 4882880.0,
+            "size_compr": 2452492.0,
             "type": "EcalRecHitsSorted"
         },
         {
             "events": 400,
             "label": "cscSegments",
-            "size_uncom": 11381.6,
-            "size_compr": 6010.7,
+            "size_uncom": 4552640.0,
+            "size_compr": 2404280.0,
             "type": "CSCDetIdCSCSegmentsOwnedRangeMap"
         },
         {
             "events": 400,
             "label": "multi5x5SuperClustersmulti5x5EndcapBasicClusters",
-            "size_uncom": 19245.4,
-            "size_compr": 5703.69,
+            "size_uncom": 7698160.000000001,
+            "size_compr": 2281476.0,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "conversionStepTracks",
-            "size_uncom": 15164.2,
-            "size_compr": 5421.48,
+            "size_uncom": 6065680.0,
+            "size_compr": 2168592.0,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "lowPtGsfElectrons",
-            "size_uncom": 10498.5,
-            "size_compr": 4785.5,
+            "size_uncom": 4199400.0,
+            "size_compr": 1914200.0,
             "type": "recoGsfElectrons"
         },
         {
             "events": 400,
             "label": "hpsPFTauProducer",
-            "size_uncom": 23002.4,
-            "size_compr": 4206.96,
+            "size_uncom": 9200960.0,
+            "size_compr": 1682784.0,
             "type": "recoPFTaus"
         },
         {
             "events": 400,
             "label": "particleFlowTmpPtrs",
-            "size_uncom": 81382.7,
-            "size_compr": 4002.18,
+            "size_uncom": 32553080.0,
+            "size_compr": 1600872.0,
             "type": "recoPFCandidateedmFwdPtrs"
         },
         {
             "events": 400,
             "label": "particleFlowPtrs",
-            "size_uncom": 81370.5,
-            "size_compr": 3989.94,
+            "size_uncom": 32548200.0,
+            "size_compr": 1595976.0,
             "type": "recoPFCandidateedmFwdPtrs"
         },
         {
             "events": 400,
             "label": "allConversions",
-            "size_uncom": 13205.9,
-            "size_compr": 3418.58,
+            "size_uncom": 5282360.0,
+            "size_compr": 1367432.0,
             "type": "recoConversions"
         },
         {
             "events": 400,
             "label": "displacedStandAloneMuons",
-            "size_uncom": 7384.58,
-            "size_compr": 3242.18,
+            "size_uncom": 2953832.0,
+            "size_compr": 1296872.0,
             "type": "TrackingRecHitsOwned"
         },
         {
             "events": 400,
             "label": "reducedHcalRecHitshbhereco",
-            "size_uncom": 5653.07,
-            "size_compr": 3233.22,
+            "size_uncom": 2261228.0,
+            "size_compr": 1293288.0,
             "type": "HBHERecHitsSorted"
         },
         {
             "events": 400,
             "label": "ak4JetID",
-            "size_uncom": 7972.69,
-            "size_compr": 3207.33,
+            "size_uncom": 3189076.0,
+            "size_compr": 1282932.0,
             "type": "recoJetIDedmValueMap"
         },
         {
             "events": 400,
             "label": "dedxHitInfo",
-            "size_uncom": 7684.07,
-            "size_compr": 3167.18,
+            "size_uncom": 3073628.0,
+            "size_compr": 1266872.0,
             "type": "recoDeDxHitInfos"
         },
         {
             "events": 400,
             "label": "lowPtGsfElectronSuperClusters",
-            "size_uncom": 7516.69,
-            "size_compr": 3096.37,
+            "size_uncom": 3006676.0,
+            "size_compr": 1238548.0,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "refittedStandAloneMuons",
-            "size_uncom": 6890.98,
-            "size_compr": 3037.18,
+            "size_uncom": 2756392.0,
+            "size_compr": 1214872.0,
             "type": "TrackingRecHitsOwned"
         },
         {
             "events": 400,
             "label": "standAloneMuons",
-            "size_uncom": 6890.34,
-            "size_compr": 3034.8,
+            "size_uncom": 2756136.0,
+            "size_compr": 1213920.0,
             "type": "TrackingRecHitsOwned"
         },
         {
             "events": 400,
             "label": "reducedEcalRecHitsES",
-            "size_uncom": 7134.56,
-            "size_compr": 2899.95,
+            "size_uncom": 2853824.0,
+            "size_compr": 1159980.0,
             "type": "EcalRecHitsSorted"
         },
         {
             "events": 400,
             "label": "hltScoutingEgammaPacker",
-            "size_uncom": 34101.8,
-            "size_compr": 2571.01,
+            "size_uncom": 13640720.000000002,
+            "size_compr": 1028404.0000000001,
             "type": "Run3ScoutingPhotons"
         },
         {
             "events": 400,
             "label": "correctedMulti5x5SuperClustersWithPreshower",
-            "size_uncom": 9278.26,
-            "size_compr": 2532.3,
+            "size_uncom": 3711304.0,
+            "size_compr": 1012920.0000000001,
             "type": "recoSuperClusters"
         },
         {
             "events": 400,
             "label": "ak4JetTracksAssociatorAtVertexPF",
-            "size_uncom": 9046.92,
-            "size_compr": 2490.21,
+            "size_uncom": 3618768.0,
+            "size_compr": 996084.0,
             "type": "recoJetedmRefToBaseProdrecoTracksrecoTrackrecoTracksTorecoTrackedmrefhelperFindUsingAdvanceedmRefVectorsAssociationVector"
         },
         {
             "events": 400,
             "label": "JetPlusTrackZSPCorJetAntiKt4",
-            "size_uncom": 18049.7,
-            "size_compr": 2345.76,
+            "size_uncom": 7219880.0,
+            "size_compr": 938304.0000000001,
             "type": "recoJPTJets"
         },
         {
             "events": 400,
             "label": "hpsPFTauTransverseImpactParametersPFTauTIP",
-            "size_uncom": 5844.9,
-            "size_compr": 2311.57,
+            "size_uncom": 2337960.0,
+            "size_compr": 924628.0000000001,
             "type": "recoPFTauTransverseImpactParameters"
         },
         {
             "events": 400,
             "label": "hybridSuperClustershybridBarrelBasicClusters",
-            "size_uncom": 11062.5,
-            "size_compr": 2237.69,
+            "size_uncom": 4425000.0,
+            "size_compr": 895076.0,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "multi5x5SuperClustersWithPreshowerpreshowerYClusters",
-            "size_uncom": 12005.1,
-            "size_compr": 2154.07,
+            "size_uncom": 4802040.0,
+            "size_compr": 861628.0000000001,
             "type": "recoPreshowerClusters"
         },
         {
             "events": 400,
             "label": "multi5x5SuperClustersWithPreshowerpreshowerXClusters",
-            "size_uncom": 11217.2,
-            "size_compr": 2073.89,
+            "size_uncom": 4486880.0,
+            "size_compr": 829556.0,
             "type": "recoPreshowerClusters"
         },
         {
             "events": 400,
             "label": "ak8GenJets",
-            "size_uncom": 9755.61,
-            "size_compr": 2045.86,
+            "size_uncom": 3902244.0,
+            "size_compr": 818344.0,
             "type": "recoGenJets"
         },
         {
             "events": 400,
             "label": "ak8GenJetsNoNu",
-            "size_uncom": 9661.24,
-            "size_compr": 2020.58,
+            "size_uncom": 3864496.0,
+            "size_compr": 808232.0,
             "type": "recoGenJets"
         },
         {
             "events": 400,
             "label": "displacedGlobalMuons",
-            "size_uncom": 5041.28,
-            "size_compr": 1829.04,
+            "size_uncom": 2016512.0,
+            "size_compr": 731616.0,
             "type": "TrackingRecHitsOwned"
         },
         {
             "events": 400,
             "label": "photons",
-            "size_uncom": 3306.84,
-            "size_compr": 1808.01,
+            "size_uncom": 1322736.0,
+            "size_compr": 723204.0,
             "type": "recoPhotons"
         },
         {
             "events": 400,
             "label": "gedPhotons",
-            "size_uncom": 3190.8,
-            "size_compr": 1756.62,
+            "size_uncom": 1276320.0,
+            "size_compr": 702648.0,
             "type": "recoPhotons"
         },
         {
             "events": 400,
             "label": "gedGsfElectrons",
-            "size_uncom": 3378.6,
-            "size_compr": 1751.0,
+            "size_uncom": 1351440.0,
+            "size_compr": 700400.0,
             "type": "recoGsfElectrons"
         },
         {
             "events": 400,
             "label": "ak4JetExtender",
-            "size_uncom": 3753.62,
-            "size_compr": 1685.72,
+            "size_uncom": 1501448.0,
+            "size_compr": 674288.0,
             "type": "recoJetedmRefToBaseProdTorecoJetExtendedAssociationJetExtendedDatasAssociationVector"
         },
         {
             "events": 400,
             "label": "ak4GenJets",
-            "size_uncom": 7389.43,
-            "size_compr": 1651.04,
+            "size_uncom": 2955772.0,
+            "size_compr": 660416.0,
             "type": "recoGenJets"
         },
         {
             "events": 400,
             "label": "ak4GenJetsNoNu",
-            "size_uncom": 7242.59,
-            "size_compr": 1615.39,
+            "size_uncom": 2897036.0,
+            "size_compr": 646156.0,
             "type": "recoGenJets"
         },
         {
             "events": 400,
             "label": "ak4JetTracksAssociatorAtVertex",
-            "size_uncom": 5557.33,
-            "size_compr": 1520.82,
+            "size_uncom": 2222932.0,
+            "size_compr": 608328.0,
             "type": "recoJetedmRefToBaseProdrecoTracksrecoTrackrecoTracksTorecoTrackedmrefhelperFindUsingAdvanceedmRefVectorsAssociationVector"
         },
         {
             "events": 400,
             "label": "inclusiveSecondaryVertices",
-            "size_uncom": 5796.65,
-            "size_compr": 1517.68,
+            "size_uncom": 2318660.0,
+            "size_compr": 607072.0,
             "type": "recoVertexs"
         },
         {
             "events": 400,
             "label": "offlinePrimaryVerticesWithBS",
-            "size_uncom": 6238.65,
-            "size_compr": 1485.81,
+            "size_uncom": 2495460.0,
+            "size_compr": 594324.0,
             "type": "recoVertexsedmAssociation"
         },
         {
             "events": 400,
             "label": "offlinePrimaryVertices",
-            "size_uncom": 6234.52,
-            "size_compr": 1481.77,
+            "size_uncom": 2493808.0,
+            "size_compr": 592708.0,
             "type": "recoVertexsedmAssociation"
         },
         {
             "events": 400,
             "label": "muonsFromCosmics",
-            "size_uncom": 3812.04,
-            "size_compr": 1476.82,
+            "size_uncom": 1524816.0,
+            "size_compr": 590728.0,
             "type": "recoMuons"
         },
         {
             "events": 400,
             "label": "correctedHybridSuperClusters",
-            "size_uncom": 8068.41,
-            "size_compr": 1424.16,
+            "size_uncom": 3227364.0,
+            "size_compr": 569664.0,
             "type": "recoSuperClusters"
         },
         {
             "events": 400,
             "label": "uncleanedOnlyAllConversions",
-            "size_uncom": 5298.97,
-            "size_compr": 1406.88,
+            "size_uncom": 2119588.0,
+            "size_compr": 562752.0,
             "type": "recoConversions"
         },
         {
             "events": 400,
             "label": "electronGsfTracks",
-            "size_uncom": 3314.23,
-            "size_compr": 1397.92,
+            "size_uncom": 1325692.0,
+            "size_compr": 559168.0,
             "type": "recoGsfTracks"
         },
         {
             "events": 400,
             "label": "lowPtGsfEleGsfTracks",
-            "size_uncom": 3343.98,
-            "size_compr": 1389.89,
+            "size_uncom": 1337592.0,
+            "size_compr": 555956.0,
             "type": "recoGsfTracks"
         },
         {
             "events": 400,
             "label": "particleFlowSuperClusterECALparticleFlowBasicClusterECALPreshower",
-            "size_uncom": 3590.69,
-            "size_compr": 1264.43,
+            "size_uncom": 1436276.0,
+            "size_compr": 505772.0,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "genParticles",
-            "size_uncom": 6800.35,
-            "size_compr": 1257.03,
+            "size_uncom": 2720140.0,
+            "size_compr": 502812.0,
             "type": "ints"
         },
         {
             "events": 400,
             "label": "ak4JetTracksAssociatorExplicit",
-            "size_uncom": 3806.25,
-            "size_compr": 1226.31,
+            "size_uncom": 1522500.0,
+            "size_compr": 490524.0,
             "type": "recoJetedmRefToBaseProdrecoTracksrecoTrackrecoTracksTorecoTrackedmrefhelperFindUsingAdvanceedmRefVectorsAssociationVector"
         },
         {
             "events": 400,
             "label": "dt4DSegments",
-            "size_uncom": 4567.95,
-            "size_compr": 1056.2,
+            "size_uncom": 1827180.0,
+            "size_compr": 422480.0,
             "type": "DTChamberIdDTRecSegment4DsOwnedRangeMap"
         },
         {
             "events": 400,
             "label": "particleFlowSuperClusterECALparticleFlowBasicClusterECALBarrel",
-            "size_uncom": 2386.52,
-            "size_compr": 1045.5,
+            "size_uncom": 954608.0,
+            "size_compr": 418200.0,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "dt4DCosmicSegments",
-            "size_uncom": 4354.57,
-            "size_compr": 988.643,
+            "size_uncom": 1741828.0,
+            "size_compr": 395457.2,
             "type": "DTChamberIdDTRecSegment4DsOwnedRangeMap"
         },
         {
             "events": 400,
             "label": "globalMuons",
-            "size_uncom": 1468.01,
-            "size_compr": 975.825,
+            "size_uncom": 587204.0,
+            "size_compr": 390330.0,
             "type": "recoTrackExtras"
         },
         {
             "events": 400,
             "label": "tevMuonsdefault",
-            "size_uncom": 1304.36,
-            "size_compr": 963.925,
+            "size_uncom": 521743.99999999994,
+            "size_compr": 385570.0,
             "type": "recoTrackExtras"
         },
         {
             "events": 400,
             "label": "genPUProtons",
-            "size_uncom": 6352.66,
-            "size_compr": 961.125,
+            "size_uncom": 2541064.0,
+            "size_compr": 384450.0,
             "type": "recoGenParticles"
         },
         {
             "events": 400,
             "label": "tevMuonspicky",
-            "size_uncom": 1292.59,
-            "size_compr": 952.78,
+            "size_uncom": 517035.99999999994,
+            "size_compr": 381112.0,
             "type": "recoTrackExtras"
         },
         {
             "events": 400,
             "label": "tevMuonsfirstHit",
-            "size_uncom": 1222.15,
-            "size_compr": 899.33,
+            "size_uncom": 488860.00000000006,
+            "size_compr": 359732.0,
             "type": "recoTrackExtras"
         },
         {
             "events": 400,
             "label": "tevMuonsdyt",
-            "size_uncom": 1203.01,
-            "size_compr": 882.375,
+            "size_uncom": 481204.0,
+            "size_compr": 352950.0,
             "type": "recoTrackExtras"
         },
         {
             "events": 400,
             "label": "particleFlowSuperClusterECALparticleFlowSuperClusterECALBarrel",
-            "size_uncom": 2440.26,
-            "size_compr": 855.928,
+            "size_uncom": 976104.0000000001,
+            "size_compr": 342371.2,
             "type": "recoSuperClusters"
         },
         {
             "events": 400,
             "label": "ak4PFJetsPuppi",
-            "size_uncom": 3534.51,
-            "size_compr": 823.745,
+            "size_uncom": 1413804.0,
+            "size_compr": 329498.0,
             "type": "recoPFJets"
         },
         {
             "events": 400,
             "label": "hltScoutingEgammaPacker",
-            "size_uncom": 7243.04,
-            "size_compr": 810.175,
+            "size_uncom": 2897216.0,
+            "size_compr": 324070.0,
             "type": "Run3ScoutingElectrons"
         },
         {
             "events": 400,
             "label": "particleFlowEGammaEBEEClusters",
-            "size_uncom": 1822.4,
-            "size_compr": 792.785,
+            "size_uncom": 728960.0,
+            "size_compr": 317114.0,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "puppiNoLep",
-            "size_uncom": 11715.3,
-            "size_compr": 785.092,
+            "size_uncom": 4686120.0,
+            "size_compr": 314036.8,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "puppi",
-            "size_uncom": 11710.2,
-            "size_compr": 779.46,
+            "size_uncom": 4684080.0,
+            "size_compr": 311784.0,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "particleFlowEGammaESClusters",
-            "size_uncom": 2220.71,
-            "size_compr": 778.058,
+            "size_uncom": 888284.0,
+            "size_compr": 311223.2,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "particleFlowEGamma",
-            "size_uncom": 2144.71,
-            "size_compr": 726.898,
+            "size_uncom": 857884.0,
+            "size_compr": 290759.2,
             "type": "recoSuperClusters"
         },
         {
             "events": 400,
             "label": "displacedGlobalMuons",
-            "size_uncom": 1097.54,
-            "size_compr": 710.93,
+            "size_uncom": 439016.0,
+            "size_compr": 284372.0,
             "type": "recoTrackExtras"
         },
         {
             "events": 400,
             "label": "displacedStandAloneMuons",
-            "size_uncom": 1121.0,
-            "size_compr": 690.465,
+            "size_uncom": 448400.0,
+            "size_compr": 276186.0,
             "type": "recoTrackExtras"
         },
         {
             "events": 400,
             "label": "hpsPFTauBasicDiscriminators",
-            "size_uncom": 1864.29,
-            "size_compr": 665.597,
+            "size_uncom": 745716.0,
+            "size_compr": 266238.8,
             "type": "recoSingleTauDiscriminatorContaineredmValueMap"
         },
         {
             "events": 400,
             "label": "muonsFromCosmics1Leg",
-            "size_uncom": 1572.76,
-            "size_compr": 662.707,
+            "size_uncom": 629104.0,
+            "size_compr": 265082.8,
             "type": "recoMuons"
         },
         {
             "events": 400,
             "label": "refittedStandAloneMuons",
-            "size_uncom": 1039.44,
-            "size_compr": 633.847,
+            "size_uncom": 415776.0,
+            "size_compr": 253538.8,
             "type": "recoTrackExtras"
         },
         {
             "events": 400,
             "label": "standAloneMuons",
-            "size_uncom": 1036.3,
-            "size_compr": 631.898,
+            "size_uncom": 414520.0,
+            "size_compr": 252759.2,
             "type": "recoTrackExtras"
         },
         {
             "events": 400,
             "label": "hltFEDSelectorL1",
-            "size_uncom": 17572.4,
-            "size_compr": 615.345,
+            "size_uncom": 7028960.000000001,
+            "size_compr": 246138.0,
             "type": "FEDRawDataCollection"
         },
         {
             "events": 400,
             "label": "generalV0CandidatesKshort",
-            "size_uncom": 1816.95,
-            "size_compr": 585.84,
+            "size_uncom": 726780.0,
+            "size_compr": 234336.0,
             "type": "recoVertexCompositeCandidates"
         },
         {
             "events": 400,
             "label": "uncleanedOnlyGsfElectrons",
-            "size_uncom": 1334.58,
-            "size_compr": 562.345,
+            "size_uncom": 533832.0,
+            "size_compr": 224938.0,
             "type": "recoGsfElectrons"
         },
         {
             "events": 400,
             "label": "ckfInOutTracksFromConversions",
-            "size_uncom": 1568.21,
-            "size_compr": 561.005,
+            "size_uncom": 627284.0,
+            "size_compr": 224402.0,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "offlinePrimaryVerticesWithBS",
-            "size_uncom": 6165.55,
-            "size_compr": 558.112,
+            "size_uncom": 2466220.0,
+            "size_compr": 223244.8,
             "type": "intedmValueMap"
         },
         {
             "events": 400,
             "label": "offlinePrimaryVertices",
-            "size_uncom": 6162.23,
-            "size_compr": 555.495,
+            "size_uncom": 2464892.0,
+            "size_compr": 222198.0,
             "type": "intedmValueMap"
         },
         {
             "events": 400,
             "label": "hpsPFTauProducerpizeros",
-            "size_uncom": 1783.82,
-            "size_compr": 540.957,
+            "size_uncom": 713528.0,
+            "size_compr": 216382.8,
             "type": "recoRecoTauPiZeros"
         },
         {
             "events": 400,
             "label": "particleFlowSuperClusterECALparticleFlowSuperClusterECALEndcapWithPreshower",
-            "size_uncom": 1435.0,
-            "size_compr": 523.965,
+            "size_uncom": 574000.0,
+            "size_compr": 209586.0,
             "type": "recoSuperClusters"
         },
         {
             "events": 400,
             "label": "hpsPFTauBasicDiscriminatorsdR03",
-            "size_uncom": 1779.69,
-            "size_compr": 521.888,
+            "size_uncom": 711876.0,
+            "size_compr": 208755.2,
             "type": "recoSingleTauDiscriminatorContaineredmValueMap"
         },
         {
             "events": 400,
             "label": "hltScoutingPFPacker",
-            "size_uncom": 1802.17,
-            "size_compr": 512.452,
+            "size_uncom": 720868.0,
+            "size_compr": 204980.8,
             "type": "Run3ScoutingPFJets"
         },
         {
             "events": 400,
             "label": "displacedTracks",
-            "size_uncom": 1240.27,
-            "size_compr": 492.548,
+            "size_uncom": 496108.0,
+            "size_compr": 197019.2,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "lowPtGsfElectronSuperClusters",
-            "size_uncom": 1700.07,
-            "size_compr": 463.127,
+            "size_uncom": 680028.0,
+            "size_compr": 185250.80000000002,
             "type": "recoSuperClusters"
         },
         {
             "events": 400,
             "label": "inclusiveCandidateSecondaryVerticesCvsL",
-            "size_uncom": 942.062,
-            "size_compr": 461.9,
+            "size_uncom": 376824.8,
+            "size_compr": 184760.0,
             "type": "recoVertexCompositePtrCandidates"
         },
         {
             "events": 400,
             "label": "ootPhotons",
-            "size_uncom": 1061.88,
-            "size_compr": 417.84,
+            "size_uncom": 424752.00000000006,
+            "size_compr": 167136.0,
             "type": "recoPhotons"
         },
         {
             "events": 400,
             "label": "pfGhostTrackBJetTags",
-            "size_uncom": 576.305,
-            "size_compr": 388.905,
+            "size_uncom": 230521.99999999997,
+            "size_compr": 155562.0,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppi",
-            "size_uncom": 1597.79,
-            "size_compr": 388.848,
+            "size_uncom": 639116.0,
+            "size_compr": 155539.2,
             "type": "recoPFJets"
         },
         {
             "events": 400,
             "label": "particleFlowSuperClusterECALparticleFlowBasicClusterECALEndcap",
-            "size_uncom": 892.61,
-            "size_compr": 387.673,
+            "size_uncom": 357044.0,
+            "size_compr": 155069.2,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "totemRPRawToDigiTrackingStrip",
-            "size_uncom": 9623.84,
-            "size_compr": 382.035,
+            "size_uncom": 3849536.0,
+            "size_compr": 152814.0,
             "type": "TotemVFATStatusedmDetSetVector"
         },
         {
             "events": 400,
             "label": "inclusiveCandidateSecondaryVertices",
-            "size_uncom": 773.96,
-            "size_compr": 381.32,
+            "size_uncom": 309584.0,
+            "size_compr": 152528.0,
             "type": "recoVertexCompositePtrCandidates"
         },
         {
             "events": 400,
             "label": "hltScoutingPrimaryVertexPackerprimaryVtx",
-            "size_uncom": 1245.28,
-            "size_compr": 375.603,
+            "size_uncom": 498112.0,
+            "size_compr": 150241.2,
             "type": "Run3ScoutingVertexs"
         },
         {
             "events": 400,
             "label": "hcalnoise",
-            "size_uncom": 657.64,
-            "size_compr": 345.077,
+            "size_uncom": 263056.0,
+            "size_compr": 138030.8,
             "type": "HcalNoiseSummary"
         },
         {
             "events": 400,
             "label": "prunedTrackMCMatch",
-            "size_uncom": 8753.12,
-            "size_compr": 339.168,
+            "size_uncom": 3501248.0000000005,
+            "size_compr": 135667.2,
             "type": "recoGenParticlesedmAssociation"
         },
         {
             "events": 400,
             "label": "muonReducedTrackExtras",
-            "size_uncom": 631.367,
-            "size_compr": 338.405,
+            "size_uncom": 252546.8,
+            "size_compr": 135362.0,
             "type": "recoTrackExtras"
         },
         {
             "events": 400,
             "label": "displacedStandAloneMuons",
-            "size_uncom": 842.758,
-            "size_compr": 331.918,
+            "size_uncom": 337103.2,
+            "size_compr": 132767.2,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "muonSimClassifier",
-            "size_uncom": 1730.86,
-            "size_compr": 326.752,
+            "size_uncom": 692344.0,
+            "size_compr": 130700.8,
             "type": "recoMuonSimInfoedmValueMap"
         },
         {
             "events": 400,
             "label": "dedxHitInfo",
-            "size_uncom": 8746.17,
-            "size_compr": 321.275,
+            "size_uncom": 3498468.0,
+            "size_compr": 128509.99999999999,
             "type": "recoDeDxHitInfosedmAssociation"
         },
         {
             "events": 400,
             "label": "rpcRecHits",
-            "size_uncom": 1766.44,
-            "size_compr": 316.55,
+            "size_uncom": 706576.0,
+            "size_compr": 126620.0,
             "type": "RPCDetIdRPCRecHitsOwnedRangeMap"
         },
         {
             "events": 400,
             "label": "muonscombined",
-            "size_uncom": 504.163,
-            "size_compr": 315.723,
+            "size_uncom": 201665.2,
+            "size_compr": 126289.20000000001,
             "type": "recoMuonTimeExtraedmValueMap"
         },
         {
             "events": 400,
             "label": "refittedStandAloneMuons",
-            "size_uncom": 778.538,
-            "size_compr": 309.098,
+            "size_uncom": 311415.2,
+            "size_compr": 123639.20000000001,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "standAloneMuons",
-            "size_uncom": 775.158,
-            "size_compr": 305.988,
+            "size_uncom": 310063.2,
+            "size_compr": 122395.2,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "pfChargeBJetTags",
-            "size_uncom": 575.865,
-            "size_compr": 305.925,
+            "size_uncom": 230346.0,
+            "size_compr": 122370.0,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "refittedStandAloneMuonsUpdatedAtVtx",
-            "size_uncom": 779.92,
-            "size_compr": 305.507,
+            "size_uncom": 311968.0,
+            "size_compr": 122202.8,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "muonReducedTrackExtras",
-            "size_uncom": 8812.35,
-            "size_compr": 303.315,
+            "size_uncom": 3524940.0,
+            "size_compr": 121326.0,
             "type": "recoTrackExtrasedmAssociation"
         },
         {
             "events": 400,
             "label": "standAloneMuonsUpdatedAtVtx",
-            "size_uncom": 776.54,
-            "size_compr": 302.168,
+            "size_uncom": 310616.0,
+            "size_compr": 120867.2,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "cosmicMuons",
-            "size_uncom": 747.342,
-            "size_compr": 296.745,
+            "size_uncom": 298936.8,
+            "size_compr": 118698.0,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "muonscsc",
-            "size_uncom": 502.312,
-            "size_compr": 296.123,
+            "size_uncom": 200924.80000000002,
+            "size_compr": 118449.2,
             "type": "recoMuonTimeExtraedmValueMap"
         },
         {
             "events": 400,
             "label": "selectDigiselectedEcalEBDigiCollection",
-            "size_uncom": 714.643,
-            "size_compr": 289.113,
+            "size_uncom": 285857.2,
+            "size_compr": 115645.2,
             "type": "EBDigiCollection"
         },
         {
             "events": 400,
             "label": "tevMuonsdefault",
-            "size_uncom": 643.947,
-            "size_compr": 273.683,
+            "size_uncom": 257578.8,
+            "size_compr": 109473.2,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "globalMuons",
-            "size_uncom": 643.753,
-            "size_compr": 272.673,
+            "size_uncom": 257501.2,
+            "size_compr": 109069.2,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "tevMuonspicky",
-            "size_uncom": 643.112,
-            "size_compr": 272.428,
+            "size_uncom": 257244.8,
+            "size_compr": 108971.2,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "tevMuonsfirstHit",
-            "size_uncom": 644.365,
-            "size_compr": 267.29,
+            "size_uncom": 257746.0,
+            "size_compr": 106916.00000000001,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "tevMuonsdyt",
-            "size_uncom": 642.278,
-            "size_compr": 266.793,
+            "size_uncom": 256911.2,
+            "size_compr": 106717.2,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "pfCombinedInclusiveSecondaryVertexV2BJetTags",
-            "size_uncom": 578.945,
-            "size_compr": 263.185,
+            "size_uncom": 231578.00000000003,
+            "size_compr": 105274.0,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "pfCombinedSecondaryVertexV2BJetTags",
-            "size_uncom": 577.955,
-            "size_compr": 262.235,
+            "size_uncom": 231182.00000000003,
+            "size_compr": 104894.0,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "TriggerResults",
-            "size_uncom": 1724.65,
-            "size_compr": 256.64,
+            "size_uncom": 689860.0,
+            "size_compr": 102656.0,
             "type": "edmTriggerResults"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppiSoftDropSubJets",
-            "size_uncom": 817.192,
-            "size_compr": 249.145,
+            "size_uncom": 326876.8,
+            "size_compr": 99658.0,
             "type": "recoPFJets"
         },
         {
             "events": 400,
             "label": "hcalDigis",
-            "size_uncom": 1766.36,
-            "size_compr": 240.775,
+            "size_uncom": 706544.0,
+            "size_compr": 96310.0,
             "type": "HcalUnpackerReport"
         },
         {
             "events": 400,
             "label": "caloStage2DigisTau",
-            "size_uncom": 1107.39,
-            "size_compr": 239.447,
+            "size_uncom": 442956.00000000006,
+            "size_compr": 95778.8,
             "type": "l1tTauBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisTau",
-            "size_uncom": 1106.08,
-            "size_compr": 238.167,
+            "size_uncom": 442432.0,
+            "size_compr": 95266.8,
             "type": "l1tTauBXVector"
         },
         {
             "events": 400,
             "label": "conversions",
-            "size_uncom": 897.835,
-            "size_compr": 235.265,
+            "size_uncom": 359134.0,
+            "size_compr": 94106.0,
             "type": "recoConversions"
         },
         {
             "events": 400,
             "label": "caloStage2DigisJet",
-            "size_uncom": 1071.99,
-            "size_compr": 227.433,
+            "size_uncom": 428796.0,
+            "size_compr": 90973.2,
             "type": "l1tJetBXVector"
         },
         {
             "events": 400,
             "label": "muonReducedTrackExtras",
-            "size_uncom": 1530.74,
-            "size_compr": 227.218,
+            "size_uncom": 612296.0,
+            "size_compr": 90887.2,
             "type": "TrackingRecHitsOwned"
         },
         {
             "events": 400,
             "label": "gtStage2DigisJet",
-            "size_uncom": 1070.71,
-            "size_compr": 226.157,
+            "size_uncom": 428284.0,
+            "size_compr": 90462.8,
             "type": "l1tJetBXVector"
         },
         {
             "events": 400,
             "label": "pfCombinedCvsLJetTags",
-            "size_uncom": 576.415,
-            "size_compr": 222.145,
+            "size_uncom": 230566.0,
+            "size_compr": 88858.0,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuon",
-            "size_uncom": 428.793,
-            "size_compr": 212.13,
+            "size_uncom": 171517.2,
+            "size_compr": 84852.0,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "displacedGlobalMuons",
-            "size_uncom": 487.567,
-            "size_compr": 211.54,
+            "size_uncom": 195026.8,
+            "size_compr": 84616.0,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuon",
-            "size_uncom": 427.973,
-            "size_compr": 211.36,
+            "size_uncom": 171189.2,
+            "size_compr": 84544.0,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "pfCombinedCvsBJetTags",
-            "size_uncom": 576.415,
-            "size_compr": 207.925,
+            "size_uncom": 230566.0,
+            "size_compr": 83170.0,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "gtStage2Digis",
-            "size_uncom": 1742.09,
-            "size_compr": 206.058,
+            "size_uncom": 696836.0,
+            "size_compr": 82423.2,
             "type": "GlobalAlgBlkBXVector"
         },
         {
             "events": 400,
             "label": "generalV0CandidatesLambda",
-            "size_uncom": 584.747,
-            "size_compr": 205.607,
+            "size_uncom": 233898.8,
+            "size_compr": 82242.8,
             "type": "recoVertexCompositeCandidates"
         },
         {
             "events": 400,
             "label": "GlobalHaloData",
-            "size_uncom": 377.723,
-            "size_compr": 203.955,
+            "size_uncom": 151089.2,
+            "size_compr": 81582.0,
             "type": "recoGlobalHaloData"
         },
         {
             "events": 400,
             "label": "caloStage2DigisEGamma",
-            "size_uncom": 717.14,
-            "size_compr": 197.04,
+            "size_uncom": 286856.0,
+            "size_compr": 78816.0,
             "type": "l1tEGammaBXVector"
         },
         {
             "events": 400,
             "label": "offlinePrimaryVerticesWithBS",
-            "size_uncom": 261.585,
-            "size_compr": 196.755,
+            "size_uncom": 104633.99999999999,
+            "size_compr": 78702.0,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "offlinePrimaryVertices",
-            "size_uncom": 261.385,
-            "size_compr": 196.365,
+            "size_uncom": 104554.0,
+            "size_compr": 78546.0,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEGamma",
-            "size_uncom": 715.86,
-            "size_compr": 195.81,
+            "size_uncom": 286344.0,
+            "size_compr": 78324.0,
             "type": "l1tEGammaBXVector"
         },
         {
             "events": 400,
             "label": "muonReducedTrackExtras",
-            "size_uncom": 468.868,
-            "size_compr": 195.61,
+            "size_uncom": 187547.2,
+            "size_compr": 78244.0,
             "type": "SiStripClusteredmNewDetSetVector"
         },
         {
             "events": 400,
             "label": "ckfOutInTracksFromConversions",
-            "size_uncom": 463.947,
-            "size_compr": 189.058,
+            "size_uncom": 185578.8,
+            "size_compr": 75623.2,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "caloMetM",
-            "size_uncom": 432.842,
-            "size_compr": 188.63,
+            "size_uncom": 173136.8,
+            "size_compr": 75452.0,
             "type": "recoCaloMETs"
         },
         {
             "events": 400,
             "label": "caloMetBEFO",
-            "size_uncom": 410.015,
-            "size_compr": 184.36,
+            "size_uncom": 164006.0,
+            "size_compr": 73744.0,
             "type": "recoCaloMETs"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEtSum",
-            "size_uncom": 1285.5,
-            "size_compr": 184.19,
+            "size_uncom": 514200.0,
+            "size_compr": 73676.0,
             "type": "l1tEtSumBXVector"
         },
         {
             "events": 400,
             "label": "selectDigiselectedEcalEEDigiCollection",
-            "size_uncom": 417.757,
-            "size_compr": 181.92,
+            "size_uncom": 167102.8,
+            "size_compr": 72768.0,
             "type": "EEDigiCollection"
         },
         {
             "events": 400,
             "label": "caloMet",
-            "size_uncom": 408.075,
-            "size_compr": 181.14,
+            "size_uncom": 163230.0,
+            "size_compr": 72456.0,
             "type": "recoCaloMETs"
         },
         {
             "events": 400,
             "label": "pfJetBProbabilityBJetTags",
-            "size_uncom": 576.855,
-            "size_compr": 174.675,
+            "size_uncom": 230742.0,
+            "size_compr": 69870.0,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisimdMuonsEMTFNeg",
-            "size_uncom": 339.1,
-            "size_compr": 173.56,
+            "size_uncom": 135640.0,
+            "size_compr": 69424.0,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisimdMuonsEMTFPos",
-            "size_uncom": 339.1,
-            "size_compr": 173.56,
+            "size_uncom": 135640.0,
+            "size_compr": 69424.0,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisimdMuonsOMTFNeg",
-            "size_uncom": 339.1,
-            "size_compr": 173.56,
+            "size_uncom": 135640.0,
+            "size_compr": 69424.0,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisimdMuonsOMTFPos",
-            "size_uncom": 339.1,
-            "size_compr": 173.56,
+            "size_uncom": 135640.0,
+            "size_compr": 69424.0,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "pfCombinedMVAV2BJetTags",
-            "size_uncom": 576.635,
-            "size_compr": 172.475,
+            "size_uncom": 230654.0,
+            "size_compr": 68990.0,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisimdMuonsBMTF",
-            "size_uncom": 336.64,
-            "size_compr": 171.08,
+            "size_uncom": 134656.0,
+            "size_compr": 68432.0,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "caloStage2DigisEtSum",
-            "size_uncom": 966.543,
-            "size_compr": 168.965,
+            "size_uncom": 386617.2,
+            "size_compr": 67586.0,
             "type": "l1tEtSumBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuonCopy3",
-            "size_uncom": 334.18,
-            "size_compr": 168.67,
+            "size_uncom": 133672.0,
+            "size_compr": 67468.0,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuonCopy5",
-            "size_uncom": 334.18,
-            "size_compr": 168.67,
+            "size_uncom": 133672.0,
+            "size_compr": 67468.0,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuonCopy4",
-            "size_uncom": 334.18,
-            "size_compr": 168.67,
+            "size_uncom": 133672.0,
+            "size_compr": 67468.0,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuonCopy2",
-            "size_uncom": 334.18,
-            "size_compr": 168.67,
+            "size_uncom": 133672.0,
+            "size_compr": 67468.0,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuonCopy1",
-            "size_uncom": 334.18,
-            "size_compr": 168.67,
+            "size_uncom": 133672.0,
+            "size_compr": 67468.0,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "muonReducedTrackExtras",
-            "size_uncom": 347.223,
-            "size_compr": 165.032,
+            "size_uncom": 138889.2,
+            "size_compr": 66012.8,
             "type": "SiPixelClusteredmNewDetSetVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuon2",
-            "size_uncom": 314.08,
-            "size_compr": 164.3,
+            "size_uncom": 125632.0,
+            "size_compr": 65720.0,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuon3",
-            "size_uncom": 314.08,
-            "size_compr": 164.3,
+            "size_uncom": 125632.0,
+            "size_compr": 65720.0,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuon4",
-            "size_uncom": 314.08,
-            "size_compr": 164.3,
+            "size_uncom": 125632.0,
+            "size_compr": 65720.0,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuon5",
-            "size_uncom": 314.08,
-            "size_compr": 164.3,
+            "size_uncom": 125632.0,
+            "size_compr": 65720.0,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuon6",
-            "size_uncom": 314.08,
-            "size_compr": 164.3,
+            "size_uncom": 125632.0,
+            "size_compr": 65720.0,
             "type": "l1tMuonBXVector"
         },
         {
             "events": 400,
             "label": "particleFlowTmpCleanedPunchThroughNeutralHadrons",
-            "size_uncom": 393.317,
-            "size_compr": 161.72,
+            "size_uncom": 157326.8,
+            "size_compr": 64688.0,
             "type": "recoPFCandidates"
         },
         {
             "events": 400,
             "label": "gemSegments",
-            "size_uncom": 458.613,
-            "size_compr": 158.375,
+            "size_uncom": 183445.2,
+            "size_compr": 63350.0,
             "type": "GEMDetIdGEMSegmentsOwnedRangeMap"
         },
         {
             "events": 400,
             "label": "particleFlowTmpCleanedTrackerAndGlobalMuons",
-            "size_uncom": 389.955,
-            "size_compr": 158.327,
+            "size_uncom": 155982.0,
+            "size_compr": 63330.8,
             "type": "recoPFCandidates"
         },
         {
             "events": 400,
             "label": "tcdsDigistcdsRecord",
-            "size_uncom": 398.197,
-            "size_compr": 155.74,
+            "size_uncom": 159278.8,
+            "size_compr": 62296.0,
             "type": "TCDSRecord"
         },
         {
             "events": 400,
             "label": "particleFlowTmpCleanedPunchThroughMuons",
-            "size_uncom": 387.265,
-            "size_compr": 155.637,
+            "size_uncom": 154906.0,
+            "size_compr": 62254.8,
             "type": "recoPFCandidates"
         },
         {
             "events": 400,
             "label": "gsfTracksOpenConversionsgsfTracksOpenConversions",
-            "size_uncom": 494.118,
-            "size_compr": 154.09,
+            "size_uncom": 197647.2,
+            "size_compr": 61636.0,
             "type": "recoConversions"
         },
         {
             "events": 400,
             "label": "particleFlowTmpAddedMuonsAndHadrons",
-            "size_uncom": 385.79,
-            "size_compr": 153.998,
+            "size_uncom": 154316.0,
+            "size_compr": 61599.2,
             "type": "recoPFCandidates"
         },
         {
             "events": 400,
             "label": "caloMetBE",
-            "size_uncom": 409.045,
-            "size_compr": 153.59,
+            "size_uncom": 163618.0,
+            "size_compr": 61436.0,
             "type": "recoCaloMETs"
         },
         {
             "events": 400,
             "label": "particleFlowTmpCleanedCosmicsMuons",
-            "size_uncom": 383.902,
-            "size_compr": 152.295,
+            "size_uncom": 153560.8,
+            "size_compr": 60917.99999999999,
             "type": "recoPFCandidates"
         },
         {
             "events": 400,
             "label": "particleFlowTmpCleanedFakeMuons",
-            "size_uncom": 381.885,
-            "size_compr": 150.268,
+            "size_uncom": 152754.0,
+            "size_compr": 60107.2,
             "type": "recoPFCandidates"
         },
         {
             "events": 400,
             "label": "pfDeepCMVAJetTagsprobbb",
-            "size_uncom": 576.635,
-            "size_compr": 149.065,
+            "size_uncom": 230654.0,
+            "size_compr": 59626.0,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "pfDeepCSVJetTagsprobbb",
-            "size_uncom": 576.525,
-            "size_compr": 148.895,
+            "size_uncom": 230610.0,
+            "size_compr": 59558.00000000001,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "pfDeepCSVJetTagsprobb",
-            "size_uncom": 576.415,
-            "size_compr": 148.345,
+            "size_uncom": 230566.0,
+            "size_compr": 59338.0,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "pfDeepCMVAJetTagsprobb",
-            "size_uncom": 576.525,
-            "size_compr": 148.255,
+            "size_uncom": 230610.0,
+            "size_compr": 59302.0,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "chargedHadronPFTrackIsolation",
-            "size_uncom": 2968.66,
-            "size_compr": 147.597,
+            "size_uncom": 1187464.0,
+            "size_compr": 59038.8,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "pfDeepCMVAJetTagsprobudsg",
-            "size_uncom": 576.855,
-            "size_compr": 147.265,
+            "size_uncom": 230742.0,
+            "size_compr": 58905.99999999999,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "pfDeepCMVAJetTagsprobc",
-            "size_uncom": 576.525,
-            "size_compr": 146.945,
+            "size_uncom": 230610.0,
+            "size_compr": 58778.0,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "pfDeepCMVAJetTagsprobcc",
-            "size_uncom": 576.635,
-            "size_compr": 146.565,
+            "size_uncom": 230654.0,
+            "size_compr": 58626.0,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "pfDeepCSVJetTagsprobc",
-            "size_uncom": 576.415,
-            "size_compr": 146.405,
+            "size_uncom": 230566.0,
+            "size_compr": 58562.0,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "particleFlowTmpCleanedHF",
-            "size_uncom": 377.178,
-            "size_compr": 145.63,
+            "size_uncom": 150871.2,
+            "size_compr": 58252.0,
             "type": "recoPFCandidates"
         },
         {
             "events": 400,
             "label": "pfDeepCSVJetTagsprobudsg",
-            "size_uncom": 576.745,
-            "size_compr": 145.175,
+            "size_uncom": 230698.0,
+            "size_compr": 58070.00000000001,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "cosmicMuons1Leg",
-            "size_uncom": 333.363,
-            "size_compr": 142.335,
+            "size_uncom": 133345.2,
+            "size_compr": 56934.0,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "CSCHaloData",
-            "size_uncom": 219.157,
-            "size_compr": 137.1,
+            "size_uncom": 87662.8,
+            "size_compr": 54840.0,
             "type": "recoCSCHaloData"
         },
         {
             "events": 400,
             "label": "particleFlowEGamma",
-            "size_uncom": 434.615,
-            "size_compr": 132.933,
+            "size_uncom": 173846.0,
+            "size_compr": 53173.2,
             "type": "recoConversions"
         },
         {
             "events": 400,
             "label": "muonsmuonShowerInformation",
-            "size_uncom": 928.102,
-            "size_compr": 132.838,
+            "size_uncom": 371240.8,
+            "size_compr": 53135.2,
             "type": "recoMuonShoweredmValueMap"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEGamma5",
-            "size_uncom": 251.0,
-            "size_compr": 131.51,
+            "size_uncom": 100400.0,
+            "size_compr": 52604.0,
             "type": "l1tEGammaBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEGamma4",
-            "size_uncom": 251.0,
-            "size_compr": 131.51,
+            "size_uncom": 100400.0,
+            "size_compr": 52604.0,
             "type": "l1tEGammaBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEGamma2",
-            "size_uncom": 251.0,
-            "size_compr": 131.51,
+            "size_uncom": 100400.0,
+            "size_compr": 52604.0,
             "type": "l1tEGammaBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEGamma3",
-            "size_uncom": 251.0,
-            "size_compr": 131.51,
+            "size_uncom": 100400.0,
+            "size_compr": 52604.0,
             "type": "l1tEGammaBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEGamma6",
-            "size_uncom": 251.0,
-            "size_compr": 131.51,
+            "size_uncom": 100400.0,
+            "size_compr": 52604.0,
             "type": "l1tEGammaBXVector"
         },
         {
             "events": 400,
             "label": "muonMETValueMapProducermuCorrData",
-            "size_uncom": 218.613,
-            "size_compr": 130.942,
+            "size_uncom": 87445.2,
+            "size_compr": 52376.8,
             "type": "recoMuonMETCorrectionDataedmValueMap"
         },
         {
             "events": 400,
             "label": "scalersRawToDigi",
-            "size_uncom": 326.925,
-            "size_compr": 130.718,
+            "size_uncom": 130770.0,
+            "size_compr": 52287.2,
             "type": "Level1TriggerScalerss"
         },
         {
             "events": 400,
             "label": "caloStage2DigisMP",
-            "size_uncom": 249.08,
-            "size_compr": 129.65,
+            "size_uncom": 99632.0,
+            "size_compr": 51860.0,
             "type": "l1tEGammaBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisEMTF",
-            "size_uncom": 379.382,
-            "size_compr": 129.445,
+            "size_uncom": 151752.8,
+            "size_compr": 51778.0,
             "type": "l1tRegionalMuonCandBXVector"
         },
         {
             "events": 400,
             "label": "muonsdt",
-            "size_uncom": 501.942,
-            "size_compr": 125.382,
+            "size_uncom": 200776.8,
+            "size_compr": 50152.8,
             "type": "recoMuonTimeExtraedmValueMap"
         },
         {
             "events": 400,
             "label": "gtStage2DigisTau3",
-            "size_uncom": 238.35,
-            "size_compr": 122.698,
+            "size_uncom": 95340.0,
+            "size_compr": 49079.2,
             "type": "l1tTauBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisTau2",
-            "size_uncom": 238.35,
-            "size_compr": 122.698,
+            "size_uncom": 95340.0,
+            "size_compr": 49079.2,
             "type": "l1tTauBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisTau4",
-            "size_uncom": 238.35,
-            "size_compr": 122.698,
+            "size_uncom": 95340.0,
+            "size_compr": 49079.2,
             "type": "l1tTauBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisTau5",
-            "size_uncom": 238.35,
-            "size_compr": 122.698,
+            "size_uncom": 95340.0,
+            "size_compr": 49079.2,
             "type": "l1tTauBXVector"
         },
         {
             "events": 400,
             "label": "caloStage2DigisMP",
-            "size_uncom": 238.35,
-            "size_compr": 122.698,
+            "size_uncom": 95340.0,
+            "size_compr": 49079.2,
             "type": "l1tTauBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisTau6",
-            "size_uncom": 238.35,
-            "size_compr": 122.698,
+            "size_uncom": 95340.0,
+            "size_compr": 49079.2,
             "type": "l1tTauBXVector"
         },
         {
             "events": 400,
             "label": "caloStage2DigisCaloTower",
-            "size_uncom": 230.715,
-            "size_compr": 122.597,
+            "size_uncom": 92286.0,
+            "size_compr": 49038.799999999996,
             "type": "l1tCaloTowerBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuonShowerCopy1",
-            "size_uncom": 242.463,
-            "size_compr": 122.403,
+            "size_uncom": 96985.2,
+            "size_compr": 48961.200000000004,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuonShowerCopy2",
-            "size_uncom": 242.463,
-            "size_compr": 122.403,
+            "size_uncom": 96985.2,
+            "size_compr": 48961.200000000004,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuonShowerCopy5",
-            "size_uncom": 242.463,
-            "size_compr": 122.403,
+            "size_uncom": 96985.2,
+            "size_compr": 48961.200000000004,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuonShowerCopy4",
-            "size_uncom": 242.463,
-            "size_compr": 122.403,
+            "size_uncom": 96985.2,
+            "size_compr": 48961.200000000004,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuonShowerCopy3",
-            "size_uncom": 242.463,
-            "size_compr": 122.403,
+            "size_uncom": 96985.2,
+            "size_compr": 48961.200000000004,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "JetPlusTrackZSPCorJetAntiKt4",
-            "size_uncom": 254.192,
-            "size_compr": 121.987,
+            "size_uncom": 101676.8,
+            "size_compr": 48794.799999999996,
             "type": "recoCaloJets"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisMuonShower",
-            "size_uncom": 223.873,
-            "size_compr": 119.963,
+            "size_uncom": 89549.2,
+            "size_compr": 47985.2,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuonShower5",
-            "size_uncom": 223.713,
-            "size_compr": 119.382,
+            "size_uncom": 89485.2,
+            "size_compr": 47752.8,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuonShower6",
-            "size_uncom": 223.713,
-            "size_compr": 119.382,
+            "size_uncom": 89485.2,
+            "size_compr": 47752.8,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuonShower4",
-            "size_uncom": 223.713,
-            "size_compr": 119.382,
+            "size_uncom": 89485.2,
+            "size_compr": 47752.8,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuonShower3",
-            "size_uncom": 223.713,
-            "size_compr": 119.382,
+            "size_uncom": 89485.2,
+            "size_compr": 47752.8,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuonShower2",
-            "size_uncom": 223.713,
-            "size_compr": 119.382,
+            "size_uncom": 89485.2,
+            "size_compr": 47752.8,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisMuonShower",
-            "size_uncom": 223.322,
-            "size_compr": 119.362,
+            "size_uncom": 89328.8,
+            "size_compr": 47744.799999999996,
             "type": "l1tMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "caloStage2DigisMP",
-            "size_uncom": 230.395,
-            "size_compr": 118.53,
+            "size_uncom": 92158.0,
+            "size_compr": 47412.0,
             "type": "l1tJetBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisJet6",
-            "size_uncom": 230.395,
-            "size_compr": 118.53,
+            "size_uncom": 92158.0,
+            "size_compr": 47412.0,
             "type": "l1tJetBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisJet4",
-            "size_uncom": 230.395,
-            "size_compr": 118.53,
+            "size_uncom": 92158.0,
+            "size_compr": 47412.0,
             "type": "l1tJetBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisJet2",
-            "size_uncom": 230.395,
-            "size_compr": 118.53,
+            "size_uncom": 92158.0,
+            "size_compr": 47412.0,
             "type": "l1tJetBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisJet5",
-            "size_uncom": 230.395,
-            "size_compr": 118.53,
+            "size_uncom": 92158.0,
+            "size_compr": 47412.0,
             "type": "l1tJetBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisJet3",
-            "size_uncom": 230.395,
-            "size_compr": 118.53,
+            "size_uncom": 92158.0,
+            "size_compr": 47412.0,
             "type": "l1tJetBXVector"
         },
         {
             "events": 400,
             "label": "pfJetProbabilityBJetTags",
-            "size_uncom": 576.745,
-            "size_compr": 116.745,
+            "size_uncom": 230698.0,
+            "size_compr": 46698.0,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "pfMetPuppi",
-            "size_uncom": 296.78,
-            "size_compr": 115.188,
+            "size_uncom": 118711.99999999999,
+            "size_compr": 46075.200000000004,
             "type": "recoPFMETs"
         },
         {
             "events": 400,
             "label": "pfMet",
-            "size_uncom": 295.043,
-            "size_compr": 114.67,
+            "size_uncom": 118017.2,
+            "size_compr": 45868.0,
             "type": "recoPFMETs"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisBMTF",
-            "size_uncom": 261.82,
-            "size_compr": 111.88,
+            "size_uncom": 104728.0,
+            "size_compr": 44752.0,
             "type": "l1tRegionalMuonCandBXVector"
         },
         {
             "events": 400,
             "label": "pfTrackCountingHighEffBJetTags",
-            "size_uncom": 577.405,
-            "size_compr": 110.905,
+            "size_uncom": 230962.0,
+            "size_compr": 44362.0,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "hltScoutingMuonPacker",
-            "size_uncom": 224.062,
-            "size_compr": 108.75,
+            "size_uncom": 89624.8,
+            "size_compr": 43500.0,
             "type": "Run3ScoutingMuons"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisOMTF",
-            "size_uncom": 222.26,
-            "size_compr": 106.203,
+            "size_uncom": 88904.0,
+            "size_compr": 42481.200000000004,
             "type": "l1tRegionalMuonCandBXVector"
         },
         {
             "events": 400,
             "label": "scalersRawToDigi",
-            "size_uncom": 297.457,
-            "size_compr": 105.058,
+            "size_uncom": 118982.8,
+            "size_compr": 42023.200000000004,
             "type": "LumiScalerss"
         },
         {
             "events": 400,
             "label": "hfEMClusters",
-            "size_uncom": 291.202,
-            "size_compr": 104.03,
+            "size_uncom": 116480.8,
+            "size_compr": 41612.0,
             "type": "recoSuperClusters"
         },
         {
             "events": 400,
             "label": "pfChMet",
-            "size_uncom": 295.738,
-            "size_compr": 102.835,
+            "size_uncom": 118295.2,
+            "size_compr": 41134.0,
             "type": "recoPFMETs"
         },
         {
             "events": 400,
             "label": "generator",
-            "size_uncom": 214.275,
-            "size_compr": 100.407,
+            "size_uncom": 85710.0,
+            "size_compr": 40162.799999999996,
             "type": "GenEventInfoProduct"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEtSum4",
-            "size_uncom": 192.065,
-            "size_compr": 99.1375,
+            "size_uncom": 76826.0,
+            "size_compr": 39655.0,
             "type": "l1tEtSumBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEtSum6",
-            "size_uncom": 192.065,
-            "size_compr": 99.1375,
+            "size_uncom": 76826.0,
+            "size_compr": 39655.0,
             "type": "l1tEtSumBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEtSum3",
-            "size_uncom": 192.065,
-            "size_compr": 99.1375,
+            "size_uncom": 76826.0,
+            "size_compr": 39655.0,
             "type": "l1tEtSumBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEtSum2",
-            "size_uncom": 192.065,
-            "size_compr": 99.1375,
+            "size_uncom": 76826.0,
+            "size_compr": 39655.0,
             "type": "l1tEtSumBXVector"
         },
         {
             "events": 400,
             "label": "gtStage2DigisEtSum5",
-            "size_uncom": 192.065,
-            "size_compr": 99.1375,
+            "size_uncom": 76826.0,
+            "size_compr": 39655.0,
             "type": "l1tEtSumBXVector"
         },
         {
             "events": 400,
             "label": "caloStage2DigisMP",
-            "size_uncom": 191.1,
-            "size_compr": 98.1325,
+            "size_uncom": 76440.0,
+            "size_compr": 39253.0,
             "type": "l1tEtSumBXVector"
         },
         {
             "events": 400,
             "label": "hybridSuperClustersuncleanOnlyHybridSuperClusters",
-            "size_uncom": 286.0,
-            "size_compr": 96.1075,
+            "size_uncom": 114400.0,
+            "size_compr": 38443.0,
             "type": "recoSuperClusters"
         },
         {
             "events": 400,
             "label": "muonscosmicsVeto",
-            "size_uncom": 363.812,
-            "size_compr": 95.5575,
+            "size_uncom": 145524.80000000002,
+            "size_compr": 38223.0,
             "type": "recoMuonCosmicCompatibilityedmValueMap"
         },
         {
             "events": 400,
             "label": "clusterSummaryProducer",
-            "size_uncom": 209.325,
-            "size_compr": 94.9975,
+            "size_uncom": 83730.0,
+            "size_compr": 37999.0,
             "type": "ClusterSummary"
         },
         {
             "events": 400,
             "label": "scalersRawToDigi",
-            "size_uncom": 241.863,
-            "size_compr": 94.9425,
+            "size_uncom": 96745.2,
+            "size_compr": 37977.0,
             "type": "L1TriggerScalerss"
         },
         {
             "events": 400,
             "label": "gemRecHits",
-            "size_uncom": 426.705,
-            "size_compr": 94.625,
+            "size_uncom": 170682.0,
+            "size_compr": 37850.0,
             "type": "GEMDetIdGEMRecHitsOwnedRangeMap"
         },
         {
             "events": 400,
             "label": "lowPtGsfElectronCores",
-            "size_uncom": 698.278,
-            "size_compr": 93.8375,
+            "size_uncom": 279311.2,
+            "size_compr": 37535.0,
             "type": "recoGsfElectronCores"
         },
         {
             "events": 400,
             "label": "hfEMClusters",
-            "size_uncom": 139.315,
-            "size_compr": 91.555,
+            "size_uncom": 55726.0,
+            "size_compr": 36622.0,
             "type": "recoHFEMClusterShapes"
         },
         {
             "events": 400,
             "label": "uncleanedOnlyCkfOutInTracksFromConversions",
-            "size_uncom": 214.683,
-            "size_compr": 90.045,
+            "size_uncom": 85873.2,
+            "size_compr": 36018.0,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "uncleanedOnlyCkfInOutTracksFromConversions",
-            "size_uncom": 215.42,
-            "size_compr": 89.935,
+            "size_uncom": 86168.0,
+            "size_compr": 35974.0,
             "type": "recoTracks"
         },
         {
             "events": 400,
             "label": "particleFlowSuperClusterOOTECALparticleFlowSuperClusterOOTECALBarrel",
-            "size_uncom": 209.287,
-            "size_compr": 89.53,
+            "size_uncom": 83714.8,
+            "size_compr": 35812.0,
             "type": "recoSuperClusters"
         },
         {
             "events": 400,
             "label": "particleFlowSuperClusterOOTECALparticleFlowSuperClusterOOTECALEndcapWithPreshower",
-            "size_uncom": 204.58,
-            "size_compr": 88.3025,
+            "size_uncom": 81832.0,
+            "size_compr": 35321.0,
             "type": "recoSuperClusters"
         },
         {
             "events": 400,
             "label": "hpsPFTauDiscriminationByMuonRejection3",
-            "size_uncom": 534.567,
-            "size_compr": 83.6025,
+            "size_uncom": 213826.8,
+            "size_compr": 33441.0,
             "type": "recoSingleTauDiscriminatorContaineredmValueMap"
         },
         {
             "events": 400,
             "label": "gedGsfElectronCores",
-            "size_uncom": 369.28,
-            "size_compr": 79.3325,
+            "size_uncom": 147712.0,
+            "size_compr": 31733.0,
             "type": "recoGsfElectronCores"
         },
         {
             "events": 400,
             "label": "hpsPFTauTransverseImpactParameters",
-            "size_uncom": 511.228,
-            "size_compr": 79.2525,
+            "size_uncom": 204491.2,
+            "size_compr": 31701.0,
             "type": "recoPFTausedmRefProdrecoPFTauTransverseImpactParametersrecoPFTauTransverseImpactParameterrecoPFTauTransverseImpactParametersTorecoPFTauTransverseImpactParameteredmrefhelperFindUsingAdvanceedmRefsAssociationVector"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppiSoftDrop",
-            "size_uncom": 202.94,
-            "size_compr": 76.8225,
+            "size_uncom": 81176.0,
+            "size_compr": 30729.000000000004,
             "type": "recoBasicJets"
         },
         {
             "events": 400,
             "label": "pixelClusterTagInfos",
-            "size_uncom": 285.462,
-            "size_compr": 76.2275,
+            "size_uncom": 114184.79999999999,
+            "size_compr": 30491.000000000004,
             "type": "recoPixelClusterTagInfos"
         },
         {
             "events": 400,
             "label": "gedPhotonCore",
-            "size_uncom": 464.558,
-            "size_compr": 76.015,
+            "size_uncom": 185823.2,
+            "size_compr": 30406.0,
             "type": "recoPhotonCores"
         },
         {
             "events": 400,
             "label": "gmtStage2DigisEMTF",
-            "size_uncom": 155.305,
-            "size_compr": 73.205,
+            "size_uncom": 62122.0,
+            "size_compr": 29282.0,
             "type": "l1tRegionalMuonShowerBXVector"
         },
         {
             "events": 400,
             "label": "BeamHaloSummary",
-            "size_uncom": 208.935,
-            "size_compr": 71.8975,
+            "size_uncom": 83574.0,
+            "size_compr": 28758.999999999996,
             "type": "recoBeamHaloSummary"
         },
         {
             "events": 400,
             "label": "lowPtGsfToTrackLinks",
-            "size_uncom": 138.92,
-            "size_compr": 71.32,
+            "size_uncom": 55567.99999999999,
+            "size_compr": 28527.999999999996,
             "type": "recoTracksedmAssociation"
         },
         {
             "events": 400,
             "label": "particleBasedIsolationgedPhotons",
-            "size_uncom": 200.947,
-            "size_compr": 71.07,
+            "size_uncom": 80378.8,
+            "size_compr": 28427.999999999996,
             "type": "recoPFCandidatesrecoPFCandidaterecoPFCandidatesrecoPFCandidateedmrefhelperFindUsingAdvanceedmRefsedmValueMap"
         },
         {
             "events": 400,
             "label": "particleFlowmuons",
-            "size_uncom": 225.308,
-            "size_compr": 69.01,
+            "size_uncom": 90123.2,
+            "size_compr": 27604.000000000004,
             "type": "recoPFCandidateedmPtredmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValuePU04",
-            "size_uncom": 137.535,
-            "size_compr": 68.0775,
+            "size_uncom": 55014.0,
+            "size_compr": 27231.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "offlineBeamSpot",
-            "size_uncom": 349.423,
-            "size_compr": 68.02,
+            "size_uncom": 139769.2,
+            "size_compr": 27208.0,
             "type": "recoBeamSpot"
         },
         {
             "events": 400,
             "label": "onlineMetaDataDigis",
-            "size_uncom": 350.772,
-            "size_compr": 67.94,
+            "size_uncom": 140308.8,
+            "size_compr": 27176.0,
             "type": "recoBeamSpot"
         },
         {
             "events": 400,
             "label": "hybridSuperClustersuncleanOnlyHybridBarrelBasicClusters",
-            "size_uncom": 203.715,
-            "size_compr": 67.6875,
+            "size_uncom": 81486.0,
+            "size_compr": 27075.0,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "particleBasedIsolationgedGsfElectrons",
-            "size_uncom": 157.127,
-            "size_compr": 65.0775,
+            "size_uncom": 62850.8,
+            "size_compr": 26031.0,
             "type": "recoPFCandidatesrecoPFCandidaterecoPFCandidatesrecoPFCandidateedmrefhelperFindUsingAdvanceedmRefsedmValueMap"
         },
         {
             "events": 400,
             "label": "muonSimClassifiertoPrimaries",
-            "size_uncom": 146.03,
-            "size_compr": 64.61,
+            "size_uncom": 58412.0,
+            "size_compr": 25844.0,
             "type": "recoGenParticlesedmAssociation"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValuePU03",
-            "size_uncom": 137.535,
-            "size_compr": 64.2475,
+            "size_uncom": 55014.0,
+            "size_compr": 25699.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "muonSimClassifiersecondaries",
-            "size_uncom": 152.208,
-            "size_compr": 64.1475,
+            "size_uncom": 60883.2,
+            "size_compr": 25658.999999999996,
             "type": "recoGenParticles"
         },
         {
             "events": 400,
             "label": "muonSimClassifiertoSecondaries",
-            "size_uncom": 146.5,
-            "size_compr": 63.39,
+            "size_uncom": 58600.0,
+            "size_compr": 25356.0,
             "type": "recoGenParticlesedmAssociation"
         },
         {
             "events": 400,
             "label": "scalersRawToDigi",
-            "size_uncom": 156.917,
-            "size_compr": 61.69,
+            "size_uncom": 62766.8,
+            "size_compr": 24676.0,
             "type": "BeamSpotOnlines"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValuePU04",
-            "size_uncom": 137.493,
-            "size_compr": 59.245,
+            "size_uncom": 54997.2,
+            "size_compr": 23698.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "gtStage2Digis",
-            "size_uncom": 1402.38,
-            "size_compr": 59.1525,
+            "size_uncom": 560952.0,
+            "size_compr": 23661.0,
             "type": "GlobalExtBlkBXVector"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValuePU03",
-            "size_uncom": 137.493,
-            "size_compr": 58.055,
+            "size_uncom": 54997.2,
+            "size_compr": 23222.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "photonCore",
-            "size_uncom": 334.002,
-            "size_compr": 57.1575,
+            "size_uncom": 133600.80000000002,
+            "size_compr": 22863.0,
             "type": "recoPhotonCores"
         },
         {
             "events": 400,
             "label": "particleFlowRecHitECALCleaned",
-            "size_uncom": 333.38,
-            "size_compr": 56.46,
+            "size_uncom": 133352.0,
+            "size_compr": 22584.0,
             "type": "recoPFRecHits"
         },
         {
             "events": 400,
             "label": "genMetTrue",
-            "size_uncom": 216.895,
-            "size_compr": 55.8925,
+            "size_uncom": 86758.0,
+            "size_compr": 22357.0,
             "type": "recoGenMETs"
         },
         {
             "events": 400,
             "label": "pfSimpleInclusiveSecondaryVertexHighEffBJetTags",
-            "size_uncom": 579.275,
-            "size_compr": 55.285,
+            "size_uncom": 231710.0,
+            "size_compr": 22114.0,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "pfSimpleSecondaryVertexHighEffBJetTags",
-            "size_uncom": 578.285,
-            "size_compr": 53.595,
+            "size_uncom": 231314.0,
+            "size_compr": 21438.0,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "genMetCalo",
-            "size_uncom": 216.895,
-            "size_compr": 52.6725,
+            "size_uncom": 86758.0,
+            "size_compr": 21069.0,
             "type": "recoGenMETs"
         },
         {
             "events": 400,
             "label": "totemTriggerRawToDigi",
-            "size_uncom": 85.0225,
-            "size_compr": 52.3,
+            "size_uncom": 34009.0,
+            "size_compr": 20920.0,
             "type": "TotemTriggerCounters"
         },
         {
             "events": 400,
             "label": "particleFlowelectrons",
-            "size_uncom": 113.36,
-            "size_compr": 51.905,
+            "size_uncom": 45344.0,
+            "size_compr": 20762.0,
             "type": "recoPFCandidateedmPtredmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueChargedAll04",
-            "size_uncom": 137.875,
-            "size_compr": 51.4175,
+            "size_uncom": 55150.0,
+            "size_compr": 20567.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "hpsPFTauDiscriminationByDeadECALElectronRejection",
-            "size_uncom": 232.357,
-            "size_compr": 50.145,
+            "size_uncom": 92942.8,
+            "size_compr": 20058.0,
             "type": "recoPFTauDiscriminator"
         },
         {
             "events": 400,
             "label": "particleFlowSuperClusterOOTECALparticleFlowBasicClusterOOTECALBarrel",
-            "size_uncom": 113.737,
-            "size_compr": 50.0,
+            "size_uncom": 45494.799999999996,
+            "size_compr": 20000.0,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueChargedAll04",
-            "size_uncom": 137.833,
-            "size_compr": 49.575,
+            "size_uncom": 55133.2,
+            "size_compr": 19830.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "ctppsProtonssingleRP",
-            "size_uncom": 123.082,
-            "size_compr": 49.3475,
+            "size_uncom": 49232.799999999996,
+            "size_compr": 19739.0,
             "type": "recoForwardProtons"
         },
         {
             "events": 400,
             "label": "ctppsProtonsmultiRP",
-            "size_uncom": 122.847,
-            "size_compr": 49.1125,
+            "size_uncom": 49138.799999999996,
+            "size_compr": 19645.0,
             "type": "recoForwardProtons"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueCharged04",
-            "size_uncom": 137.748,
-            "size_compr": 49.04,
+            "size_uncom": 55099.2,
+            "size_compr": 19616.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "softPFElectronBJetTags",
-            "size_uncom": 576.525,
-            "size_compr": 48.885,
+            "size_uncom": 230610.0,
+            "size_compr": 19554.0,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "particleFlowphotons",
-            "size_uncom": 120.05,
-            "size_compr": 48.785,
+            "size_uncom": 48020.0,
+            "size_compr": 19514.0,
             "type": "recoPFCandidateedmPtredmValueMap"
         },
         {
             "events": 400,
             "label": "hpsPFTauDiscriminationByDecayModeFindingOldDMs",
-            "size_uncom": 231.99,
-            "size_compr": 48.3475,
+            "size_uncom": 92796.0,
+            "size_compr": 19339.0,
             "type": "recoPFTauDiscriminator"
         },
         {
             "events": 400,
             "label": "hpsPFTauDiscriminationByDecayModeFinding",
-            "size_uncom": 231.255,
-            "size_compr": 47.6225,
+            "size_uncom": 92502.0,
+            "size_compr": 19049.0,
             "type": "recoPFTauDiscriminator"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueCharged04",
-            "size_uncom": 137.705,
-            "size_compr": 47.5175,
+            "size_uncom": 55082.00000000001,
+            "size_compr": 19007.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueGamma04",
-            "size_uncom": 137.662,
-            "size_compr": 46.905,
+            "size_uncom": 55064.8,
+            "size_compr": 18762.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "lowPtGsfElectronSeedValueMapsunbiased",
-            "size_uncom": 94.375,
-            "size_compr": 46.725,
+            "size_uncom": 37750.0,
+            "size_compr": 18690.0,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "lowPtGsfElectronSeedValueMapsptbiased",
-            "size_uncom": 94.375,
-            "size_compr": 46.645,
+            "size_uncom": 37750.0,
+            "size_compr": 18658.0,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "rekeyLowPtGsfElectronSeedValueMapsunbiased",
-            "size_uncom": 94.095,
-            "size_compr": 46.345,
+            "size_uncom": 37638.0,
+            "size_compr": 18538.0,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "rekeyLowPtGsfElectronSeedValueMapsptbiased",
-            "size_uncom": 94.095,
-            "size_compr": 46.315,
+            "size_uncom": 37638.0,
+            "size_compr": 18526.0,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "hpsPFTauDiscriminationByDecayModeFindingNewDMs",
-            "size_uncom": 231.99,
-            "size_compr": 46.0375,
+            "size_uncom": 92796.0,
+            "size_compr": 18415.0,
             "type": "recoPFTauDiscriminator"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueGamma04",
-            "size_uncom": 137.62,
-            "size_compr": 45.8425,
+            "size_uncom": 55048.0,
+            "size_compr": 18337.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "softPFMuonBJetTags",
-            "size_uncom": 576.085,
-            "size_compr": 45.735,
+            "size_uncom": 230434.0,
+            "size_compr": 18294.0,
             "type": "recoJetedmRefToBaseProdTofloatsAssociationVector"
         },
         {
             "events": 400,
             "label": "multi5x5PreshowerClusterShapemulti5x5PreshowerYClustersShape",
-            "size_uncom": 123.04,
-            "size_compr": 45.595,
+            "size_uncom": 49216.0,
+            "size_compr": 18238.0,
             "type": "recoPreshowerClusterShapes"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueNeutral04",
-            "size_uncom": 137.748,
-            "size_compr": 45.51,
+            "size_uncom": 55099.2,
+            "size_compr": 18204.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueNeutral04",
-            "size_uncom": 137.705,
-            "size_compr": 45.3375,
+            "size_uncom": 55082.00000000001,
+            "size_compr": 18135.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "lowPtGsfElectronID",
-            "size_uncom": 93.135,
-            "size_compr": 45.295,
+            "size_uncom": 37254.0,
+            "size_compr": 18118.0,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueChargedAll03",
-            "size_uncom": 137.875,
-            "size_compr": 45.0675,
+            "size_uncom": 55150.0,
+            "size_compr": 18027.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "particleFlowSuperClusterOOTECALparticleFlowBasicClusterOOTECALPreshower",
-            "size_uncom": 105.535,
-            "size_compr": 44.8075,
+            "size_uncom": 42214.0,
+            "size_compr": 17923.0,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "reducedHcalRecHitshfreco",
-            "size_uncom": 79.5675,
-            "size_compr": 44.78,
+            "size_uncom": 31827.0,
+            "size_compr": 17912.0,
             "type": "HFRecHitsSorted"
         },
         {
             "events": 400,
             "label": "ctppsLocalTrackLiteProducer",
-            "size_uncom": 105.132,
-            "size_compr": 44.3375,
+            "size_uncom": 42052.8,
+            "size_compr": 17735.0,
             "type": "CTPPSLocalTrackLites"
         },
         {
             "events": 400,
             "label": "particleFlowSuperClusterOOTECALparticleFlowBasicClusterOOTECALEndcap",
-            "size_uncom": 105.017,
-            "size_compr": 44.33,
+            "size_uncom": 42006.799999999996,
+            "size_compr": 17732.0,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueChargedAll03",
-            "size_uncom": 137.833,
-            "size_compr": 43.895,
+            "size_uncom": 55133.2,
+            "size_compr": 17558.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueNeutralHighThreshold04",
-            "size_uncom": 138.3,
-            "size_compr": 43.2425,
+            "size_uncom": 55320.00000000001,
+            "size_compr": 17297.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueNeutralHighThreshold04",
-            "size_uncom": 138.257,
-            "size_compr": 43.08,
+            "size_uncom": 55302.8,
+            "size_compr": 17232.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueCharged03",
-            "size_uncom": 137.748,
-            "size_compr": 42.73,
+            "size_uncom": 55099.2,
+            "size_compr": 17092.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "hfEMClusters",
-            "size_uncom": 79.07,
-            "size_compr": 41.675,
+            "size_uncom": 31627.999999999996,
+            "size_compr": 16670.0,
             "type": "recoSuperClustersToOnerecoHFEMClusterShapesAssociation"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueCharged03",
-            "size_uncom": 137.705,
-            "size_compr": 41.6275,
+            "size_uncom": 55082.00000000001,
+            "size_compr": 16651.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "uncleanedOnlyGsfElectronCores",
-            "size_uncom": 102.082,
-            "size_compr": 41.525,
+            "size_uncom": 40832.799999999996,
+            "size_compr": 16610.0,
             "type": "recoGsfElectronCores"
         },
         {
             "events": 400,
             "label": "multi5x5PreshowerClusterShapemulti5x5PreshowerXClustersShape",
-            "size_uncom": 123.04,
-            "size_compr": 40.285,
+            "size_uncom": 49216.0,
+            "size_compr": 16113.999999999998,
             "type": "recoPreshowerClusterShapes"
         },
         {
             "events": 400,
             "label": "tevMuonsfirstHit",
-            "size_uncom": 81.89,
-            "size_compr": 39.905,
+            "size_uncom": 32756.0,
+            "size_compr": 15962.0,
             "type": "recoTracksToOnerecoTracksAssociation"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueGamma03",
-            "size_uncom": 137.662,
-            "size_compr": 39.885,
+            "size_uncom": 55064.8,
+            "size_compr": 15954.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "tevMuonsdefault",
-            "size_uncom": 81.745,
-            "size_compr": 39.72,
+            "size_uncom": 32698.0,
+            "size_compr": 15888.0,
             "type": "recoTracksToOnerecoTracksAssociation"
         },
         {
             "events": 400,
             "label": "tevMuonspicky",
-            "size_uncom": 81.455,
-            "size_compr": 39.42,
+            "size_uncom": 32582.0,
+            "size_compr": 15768.0,
             "type": "recoTracksToOnerecoTracksAssociation"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueGamma03",
-            "size_uncom": 137.62,
-            "size_compr": 39.1525,
+            "size_uncom": 55048.0,
+            "size_compr": 15661.000000000002,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "tevMuonsdyt",
-            "size_uncom": 81.165,
-            "size_compr": 39.13,
+            "size_uncom": 32466.000000000004,
+            "size_compr": 15652.000000000002,
             "type": "recoTracksToOnerecoTracksAssociation"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueNeutral03",
-            "size_uncom": 137.705,
-            "size_compr": 37.6675,
+            "size_uncom": 55082.00000000001,
+            "size_compr": 15066.999999999998,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueNeutral03",
-            "size_uncom": 137.748,
-            "size_compr": 37.64,
+            "size_uncom": 55099.2,
+            "size_compr": 15056.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "hfRecoEcalCandidate",
-            "size_uncom": 86.9175,
-            "size_compr": 37.18,
+            "size_uncom": 34767.0,
+            "size_compr": 14872.0,
             "type": "recoRecoEcalCandidates"
         },
         {
             "events": 400,
             "label": "ootPhotonCore",
-            "size_uncom": 96.9275,
-            "size_compr": 35.8975,
+            "size_uncom": 38771.0,
+            "size_compr": 14359.0,
             "type": "recoPhotonCores"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueGammaHighThreshold04",
-            "size_uncom": 138.215,
-            "size_compr": 35.8575,
+            "size_uncom": 55286.0,
+            "size_compr": 14343.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueNeutralHighThreshold03",
-            "size_uncom": 138.3,
-            "size_compr": 35.5125,
+            "size_uncom": 55320.00000000001,
+            "size_compr": 14205.000000000002,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueNeutralHighThreshold03",
-            "size_uncom": 138.257,
-            "size_compr": 35.47,
+            "size_uncom": 55302.8,
+            "size_compr": 14188.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueGammaHighThreshold04",
-            "size_uncom": 138.173,
-            "size_compr": 35.275,
+            "size_uncom": 55269.2,
+            "size_compr": 14110.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "reducedHcalRecHitshoreco",
-            "size_uncom": 61.7425,
-            "size_compr": 34.69,
+            "size_uncom": 24697.0,
+            "size_compr": 13876.0,
             "type": "HORecHitsSorted"
         },
         {
             "events": 400,
             "label": "hfEMClusters",
-            "size_uncom": 95.3575,
-            "size_compr": 34.69,
+            "size_uncom": 38143.0,
+            "size_compr": 13876.0,
             "type": "recoCaloClusters"
         },
         {
             "events": 400,
             "label": "onlineMetaDataDigis",
-            "size_uncom": 54.2,
-            "size_compr": 34.6475,
+            "size_uncom": 21680.0,
+            "size_compr": 13859.0,
             "type": "OnlineLuminosityRecord"
         },
         {
             "events": 400,
             "label": "onlineMetaDataDigis",
-            "size_uncom": 122.41,
-            "size_compr": 32.04,
+            "size_uncom": 48964.0,
+            "size_compr": 12816.0,
             "type": "DCSRecord"
         },
         {
             "events": 400,
             "label": "ctppsPixelLocalTracks",
-            "size_uncom": 65.055,
-            "size_compr": 31.56,
+            "size_uncom": 26022.000000000004,
+            "size_compr": 12624.0,
             "type": "CTPPSPixelLocalTrackedmDetSetVector"
         },
         {
             "events": 400,
             "label": "ctppsDiamondRawToDigiTimingDiamond",
-            "size_uncom": 62.85,
-            "size_compr": 30.7125,
+            "size_uncom": 25140.0,
+            "size_compr": 12285.0,
             "type": "CTPPSDiamondDigiedmDetSetVector"
         },
         {
             "events": 400,
             "label": "ctppsDiamondRawToDigiTimingDiamond",
-            "size_uncom": 62.6725,
-            "size_compr": 30.555,
+            "size_uncom": 25069.0,
+            "size_compr": 12222.0,
             "type": "TotemVFATStatusedmDetSetVector"
         },
         {
             "events": 400,
             "label": "muonsmuPFMeanDRIsoValueGammaHighThreshold03",
-            "size_uncom": 138.215,
-            "size_compr": 30.4875,
+            "size_uncom": 55286.0,
+            "size_compr": 12195.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "ctppsDiamondLocalTracks",
-            "size_uncom": 62.5675,
-            "size_compr": 30.45,
+            "size_uncom": 25027.0,
+            "size_compr": 12180.0,
             "type": "CTPPSDiamondLocalTrackedmDetSetVector"
         },
         {
             "events": 400,
             "label": "diamondSampicLocalTracks",
-            "size_uncom": 62.5125,
-            "size_compr": 30.395,
+            "size_uncom": 25005.0,
+            "size_compr": 12158.0,
             "type": "TotemTimingLocalTrackedmDetSetVector"
         },
         {
             "events": 400,
             "label": "totemTimingRawToDigiTotemTiming",
-            "size_uncom": 62.305,
-            "size_compr": 30.1775,
+            "size_uncom": 24922.0,
+            "size_compr": 12071.0,
             "type": "TotemTimingDigiedmDetSetVector"
         },
         {
             "events": 400,
             "label": "scalersRawToDigi",
-            "size_uncom": 76.0275,
-            "size_compr": 30.0775,
+            "size_uncom": 30411.0,
+            "size_compr": 12031.0,
             "type": "DcsStatuss"
         },
         {
             "events": 400,
             "label": "muonsmuPFSumDRIsoValueGammaHighThreshold03",
-            "size_uncom": 138.173,
-            "size_compr": 30.025,
+            "size_uncom": 55269.2,
+            "size_compr": 12010.0,
             "type": "doubleedmValueMap"
         },
         {
             "events": 400,
             "label": "ctppsPixelClusters",
-            "size_uncom": 61.6375,
-            "size_compr": 29.62,
+            "size_uncom": 24655.0,
+            "size_compr": 11848.0,
             "type": "CTPPSPixelClusteredmDetSetVector"
         },
         {
             "events": 400,
             "label": "ctppsPixelRecHits",
-            "size_uncom": 61.9525,
-            "size_compr": 29.58,
+            "size_uncom": 24781.0,
+            "size_compr": 11832.0,
             "type": "CTPPSPixelRecHitedmDetSetVector"
         },
         {
             "events": 400,
             "label": "totemRPLocalTrackFitter",
-            "size_uncom": 61.68,
-            "size_compr": 29.5725,
+            "size_uncom": 24672.0,
+            "size_compr": 11829.0,
             "type": "TotemRPLocalTrackedmDetSetVector"
         },
         {
             "events": 400,
             "label": "ctppsPixelDigis",
-            "size_uncom": 61.075,
-            "size_compr": 29.4575,
+            "size_uncom": 24430.0,
+            "size_compr": 11783.0,
             "type": "CTPPSPixelDataErroredmDetSetVector"
         },
         {
             "events": 400,
             "label": "totemRPUVPatternFinder",
-            "size_uncom": 61.38,
-            "size_compr": 29.2525,
+            "size_uncom": 24552.0,
+            "size_compr": 11701.0,
             "type": "TotemRPUVPatternedmDetSetVector"
         },
         {
             "events": 400,
             "label": "ctppsDiamondRecHits",
-            "size_uncom": 61.3675,
-            "size_compr": 29.25,
+            "size_uncom": 24547.0,
+            "size_compr": 11700.0,
             "type": "CTPPSDiamondRecHitedmDetSetVector"
         },
         {
             "events": 400,
             "label": "totemRPRawToDigiTrackingStrip",
-            "size_uncom": 61.35,
-            "size_compr": 29.2425,
+            "size_uncom": 24540.0,
+            "size_compr": 11697.0,
             "type": "TotemRPDigiedmDetSetVector"
         },
         {
             "events": 400,
             "label": "totemTimingRecHits",
-            "size_uncom": 61.0675,
-            "size_compr": 28.99,
+            "size_uncom": 24427.0,
+            "size_compr": 11596.0,
             "type": "TotemTimingRecHitedmDetSetVector"
         },
         {
             "events": 400,
             "label": "totemRPClusterProducer",
-            "size_uncom": 61.025,
-            "size_compr": 28.9375,
+            "size_uncom": 24410.0,
+            "size_compr": 11575.0,
             "type": "TotemRPClusteredmDetSetVector"
         },
         {
             "events": 400,
             "label": "totemRPRecHitProducer",
-            "size_uncom": 60.725,
-            "size_compr": 28.5975,
+            "size_uncom": 24290.0,
+            "size_compr": 11439.0,
             "type": "TotemRPRecHitedmDetSetVector"
         },
         {
             "events": 400,
             "label": "particleFlowRecHitHBHECleaned",
-            "size_uncom": 65.45,
-            "size_compr": 25.7925,
+            "size_uncom": 26180.0,
+            "size_compr": 10317.0,
             "type": "recoPFRecHits"
         },
         {
             "events": 400,
             "label": "particleFlowRecHitHOCleaned",
-            "size_uncom": 65.205,
-            "size_compr": 25.5675,
+            "size_uncom": 26082.0,
+            "size_compr": 10227.0,
             "type": "recoPFRecHits"
         },
         {
             "events": 400,
             "label": "particleFlowRecHitHFCleaned",
-            "size_uncom": 65.205,
-            "size_compr": 25.5675,
+            "size_uncom": 26082.0,
+            "size_compr": 10227.0,
             "type": "recoPFRecHits"
         },
         {
             "events": 400,
             "label": "particleFlowRecHitPSCleaned",
-            "size_uncom": 65.205,
-            "size_compr": 25.5675,
+            "size_uncom": 26082.0,
+            "size_compr": 10227.0,
             "type": "recoPFRecHits"
         },
         {
             "events": 400,
             "label": "TriggerResults",
-            "size_uncom": 94.635,
-            "size_compr": 24.1075,
+            "size_uncom": 37854.0,
+            "size_compr": 9643.0,
             "type": "edmTriggerResults"
         },
         {
             "events": 400,
             "label": "genParticlesxyz0",
-            "size_uncom": 46.03,
-            "size_compr": 20.985,
+            "size_uncom": 18412.0,
+            "size_compr": 8394.0,
             "type": "floatROOTMathCartesian3DROOTMathDefaultCoordinateSystemTagROOTMathPositionVector3D"
         },
         {
             "events": 400,
             "label": "logErrorHarvester",
-            "size_uncom": 55.2675,
-            "size_compr": 20.45,
+            "size_uncom": 22107.0,
+            "size_compr": 8180.0,
             "type": "edmErrorSummaryEntrys"
         },
         {
             "events": 400,
             "label": "onlineMetaDataDigis",
-            "size_uncom": 35.6825,
-            "size_compr": 19.5325,
+            "size_uncom": 14272.999999999998,
+            "size_compr": 7813.0,
             "type": "CTPPSRecord"
         },
         {
             "events": 400,
             "label": "ctppsDiamondRawToDigiTimingDiamond",
-            "size_uncom": 40.945,
-            "size_compr": 17.67,
+            "size_uncom": 16378.0,
+            "size_compr": 7068.000000000001,
             "type": "TotemFEDInfos"
         },
         {
             "events": 400,
             "label": "scalersRawToDigi",
-            "size_uncom": 40.7225,
-            "size_compr": 17.4975,
+            "size_uncom": 16288.999999999998,
+            "size_compr": 6998.999999999999,
             "type": "L1AcceptBunchCrossings"
         },
         {
             "events": 400,
             "label": "totemRPRawToDigiTrackingStrip",
-            "size_uncom": 40.52,
-            "size_compr": 17.285,
+            "size_uncom": 16208.000000000002,
+            "size_compr": 6914.0,
             "type": "TotemFEDInfos"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppiSoftDropMass",
-            "size_uncom": 69.43,
-            "size_compr": 15.5775,
+            "size_uncom": 27772.000000000004,
+            "size_compr": 6231.0,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "dedxHitInfoprescale",
-            "size_uncom": 91.795,
-            "size_compr": 15.575,
+            "size_uncom": 36718.0,
+            "size_compr": 6230.0,
             "type": "intedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidTMLastStationOptimizedLowPtTight",
-            "size_uncom": 67.9875,
-            "size_compr": 15.0325,
+            "size_uncom": 27195.0,
+            "size_compr": 6013.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidTMLastStationOptimizedLowPtLoose",
-            "size_uncom": 67.9875,
-            "size_compr": 14.9425,
+            "size_uncom": 27195.0,
+            "size_compr": 5977.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidTM2DCompatibilityTight",
-            "size_uncom": 67.6125,
-            "size_compr": 14.6875,
+            "size_uncom": 27045.0,
+            "size_compr": 5875.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidTM2DCompatibilityLoose",
-            "size_uncom": 67.6125,
-            "size_compr": 14.6475,
+            "size_uncom": 27045.0,
+            "size_compr": 5859.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidTMLastStationAngLoose",
-            "size_uncom": 67.575,
-            "size_compr": 14.62,
+            "size_uncom": 27030.0,
+            "size_compr": 5848.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidTMOneStationAngLoose",
-            "size_uncom": 67.5375,
-            "size_compr": 14.6025,
+            "size_uncom": 27014.999999999996,
+            "size_compr": 5841.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidTMLastStationAngTight",
-            "size_uncom": 67.575,
-            "size_compr": 14.56,
+            "size_uncom": 27030.0,
+            "size_compr": 5824.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidTMOneStationAngTight",
-            "size_uncom": 67.5375,
-            "size_compr": 14.5225,
+            "size_uncom": 27014.999999999996,
+            "size_compr": 5809.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidTMOneStationTight",
-            "size_uncom": 67.425,
-            "size_compr": 14.49,
+            "size_uncom": 26970.0,
+            "size_compr": 5796.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidTrackerMuonArbitrated",
-            "size_uncom": 67.575,
-            "size_compr": 14.44,
+            "size_uncom": 27030.0,
+            "size_compr": 5776.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidTMOneStationLoose",
-            "size_uncom": 67.425,
-            "size_compr": 14.37,
+            "size_uncom": 26970.0,
+            "size_compr": 5748.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "fixedGridRhoFastjetCentralChargedPileUp",
-            "size_uncom": 15.25,
-            "size_compr": 13.775,
+            "size_uncom": 6100.0,
+            "size_compr": 5510.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "fixedGridRhoFastjetAllTmp",
-            "size_uncom": 14.76,
-            "size_compr": 13.645,
+            "size_uncom": 5904.0,
+            "size_compr": 5458.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "hltScoutingPFPackerpfMetPhi",
-            "size_uncom": 14.795,
-            "size_compr": 13.57,
+            "size_uncom": 5918.0,
+            "size_compr": 5428.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "fixedGridRhoFastjetAll",
-            "size_uncom": 14.655,
-            "size_compr": 13.53,
+            "size_uncom": 5862.0,
+            "size_compr": 5412.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "muonsmuidTMLastStationLoose",
-            "size_uncom": 67.4625,
-            "size_compr": 13.4675,
+            "size_uncom": 26985.000000000004,
+            "size_compr": 5387.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "fixedGridRhoFastjetCentralNeutral",
-            "size_uncom": 15.04,
-            "size_compr": 13.455,
+            "size_uncom": 6016.0,
+            "size_compr": 5382.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "hltScoutingPFPackerpfMetPt",
-            "size_uncom": 14.76,
-            "size_compr": 13.375,
+            "size_uncom": 5904.0,
+            "size_compr": 5350.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "fixedGridRhoFastjetCentralCalo",
-            "size_uncom": 14.935,
-            "size_compr": 13.37,
+            "size_uncom": 5974.0,
+            "size_compr": 5348.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "muonsmuidTMLastStationTight",
-            "size_uncom": 67.4625,
-            "size_compr": 13.3675,
+            "size_uncom": 26985.000000000004,
+            "size_compr": 5347.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "fixedGridRhoFastjetAllCalo",
-            "size_uncom": 14.795,
-            "size_compr": 13.27,
+            "size_uncom": 5918.0,
+            "size_compr": 5308.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "fixedGridRhoFastjetCentral",
-            "size_uncom": 14.795,
-            "size_compr": 13.2,
+            "size_uncom": 5918.0,
+            "size_compr": 5280.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "muonscosmicsVeto",
-            "size_uncom": 97.135,
-            "size_compr": 13.125,
+            "size_uncom": 38854.0,
+            "size_compr": 5250.0,
             "type": "uintedmValueMap"
         },
         {
             "events": 400,
             "label": "hltScoutingPFPackerrho",
-            "size_uncom": 14.62,
-            "size_compr": 13.025,
+            "size_uncom": 5848.0,
+            "size_compr": 5210.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "muonsmuidGlobalMuonPromptTight",
-            "size_uncom": 67.575,
-            "size_compr": 12.95,
+            "size_uncom": 27030.0,
+            "size_compr": 5180.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidGMStaChiCompatibility",
-            "size_uncom": 67.575,
-            "size_compr": 12.91,
+            "size_uncom": 27030.0,
+            "size_compr": 5164.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidGMTkChiCompatibility",
-            "size_uncom": 67.5375,
-            "size_compr": 12.7725,
+            "size_uncom": 27014.999999999996,
+            "size_compr": 5109.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidRPCMuLoose",
-            "size_uncom": 67.1625,
-            "size_compr": 12.5875,
+            "size_uncom": 26864.999999999996,
+            "size_compr": 5035.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidGMTkKinkTight",
-            "size_uncom": 67.275,
-            "size_compr": 12.56,
+            "size_uncom": 26910.000000000004,
+            "size_compr": 5024.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "eidTight",
-            "size_uncom": 64.695,
-            "size_compr": 11.7425,
+            "size_uncom": 25877.999999999996,
+            "size_compr": 4697.0,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "muonsmuidAllArbitrated",
-            "size_uncom": 67.275,
-            "size_compr": 11.53,
+            "size_uncom": 26910.000000000004,
+            "size_compr": 4612.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "eidLoose",
-            "size_uncom": 64.695,
-            "size_compr": 11.4825,
+            "size_uncom": 25877.999999999996,
+            "size_compr": 4593.0,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "PhotonIDProdGEDPhotonCutBasedIDLooseEM",
-            "size_uncom": 60.48,
-            "size_compr": 11.26,
+            "size_uncom": 24192.0,
+            "size_compr": 4504.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "PhotonIDProdGEDPhotonCutBasedIDLoose",
-            "size_uncom": 60.405,
-            "size_compr": 11.175,
+            "size_uncom": 24162.0,
+            "size_compr": 4470.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "PhotonIDProdGEDPhotonCutBasedIDTight",
-            "size_uncom": 60.405,
-            "size_compr": 11.165,
+            "size_uncom": 24162.0,
+            "size_compr": 4466.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "PhotonIDProdPhotonCutBasedIDLooseEM",
-            "size_uncom": 60.5075,
-            "size_compr": 11.1175,
+            "size_uncom": 24203.0,
+            "size_compr": 4447.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "eidRobustLoose",
-            "size_uncom": 64.92,
-            "size_compr": 11.0975,
+            "size_uncom": 25968.0,
+            "size_compr": 4439.0,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "PhotonIDProdPhotonCutBasedIDLoose",
-            "size_uncom": 60.4325,
-            "size_compr": 11.0225,
+            "size_uncom": 24173.0,
+            "size_compr": 4409.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "PhotonIDProdPhotonCutBasedIDTight",
-            "size_uncom": 60.4325,
-            "size_compr": 11.0125,
+            "size_uncom": 24173.0,
+            "size_compr": 4405.0,
             "type": "booledmValueMap"
         },
         {
             "events": 400,
             "label": "eidRobustHighEnergy",
-            "size_uncom": 65.1075,
-            "size_compr": 10.975,
+            "size_uncom": 26043.0,
+            "size_compr": 4390.0,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "eidRobustTight",
-            "size_uncom": 64.92,
-            "size_compr": 10.7175,
+            "size_uncom": 25968.0,
+            "size_compr": 4287.0,
             "type": "floatedmValueMap"
         },
         {
             "events": 400,
             "label": "hltScoutingMuonPackerdisplacedVtx",
-            "size_uncom": 25.8175,
-            "size_compr": 10.315,
+            "size_uncom": 10327.0,
+            "size_compr": 4126.0,
             "type": "Run3ScoutingVertexs"
         },
         {
             "events": 400,
             "label": "TriggerResults",
-            "size_uncom": 88.505,
-            "size_compr": 9.565,
+            "size_uncom": 35402.0,
+            "size_compr": 3826.0,
             "type": "edmTriggerResults"
         },
         {
             "events": 400,
             "label": "genParticlest0",
-            "size_uncom": 10.295,
-            "size_compr": 9.4875,
+            "size_uncom": 4118.0,
+            "size_compr": 3795.0000000000005,
             "type": "float"
         },
         {
             "events": 400,
             "label": "fixedGridRhoAll",
-            "size_uncom": 14.41,
-            "size_compr": 9.485,
+            "size_uncom": 5764.0,
+            "size_compr": 3794.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "gtDigis",
-            "size_uncom": 79.4475,
-            "size_compr": 8.905,
+            "size_uncom": 31779.000000000004,
+            "size_compr": 3561.9999999999995,
             "type": "L1GlobalTriggerReadoutRecord"
         },
         {
             "events": 400,
             "label": "ctppsPixelDigis",
-            "size_uncom": 41.745,
-            "size_compr": 8.44,
+            "size_uncom": 16698.0,
+            "size_compr": 3376.0,
             "type": "CTPPSPixelDigiedmDetSetVector"
         },
         {
             "events": 400,
             "label": "ak4GenJetsNoNurhos",
-            "size_uncom": 20.625,
-            "size_compr": 7.67,
+            "size_uncom": 8250.0,
+            "size_compr": 3068.0,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak8GenJetsNoNurhos",
-            "size_uncom": 20.625,
-            "size_compr": 7.67,
+            "size_uncom": 8250.0,
+            "size_compr": 3068.0,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak4GenJetssigmas",
-            "size_uncom": 20.555,
-            "size_compr": 7.53,
+            "size_uncom": 8222.0,
+            "size_compr": 3012.0,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak8GenJetssigmas",
-            "size_uncom": 20.555,
-            "size_compr": 7.53,
+            "size_uncom": 8222.0,
+            "size_compr": 3012.0,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak8GenJetsNoNusigmas",
-            "size_uncom": 20.695,
-            "size_compr": 7.46,
+            "size_uncom": 8278.0,
+            "size_compr": 2984.0,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak4GenJetsNoNusigmas",
-            "size_uncom": 20.695,
-            "size_compr": 7.46,
+            "size_uncom": 8278.0,
+            "size_compr": 2984.0,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppiSoftDropsigmas",
-            "size_uncom": 21.01,
-            "size_compr": 7.455,
+            "size_uncom": 8404.0,
+            "size_compr": 2982.0,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak8GenJetsrhos",
-            "size_uncom": 20.485,
-            "size_compr": 7.4,
+            "size_uncom": 8194.0,
+            "size_compr": 2960.0,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak4GenJetsrhos",
-            "size_uncom": 20.485,
-            "size_compr": 7.4,
+            "size_uncom": 8194.0,
+            "size_compr": 2960.0,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppiSoftDroprhos",
-            "size_uncom": 20.94,
-            "size_compr": 7.385,
+            "size_uncom": 8376.0,
+            "size_compr": 2954.0,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppisigmas",
-            "size_uncom": 20.73,
-            "size_compr": 7.175,
+            "size_uncom": 8292.0,
+            "size_compr": 2870.0,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak4PFJetsPuppisigmas",
-            "size_uncom": 20.73,
-            "size_compr": 7.175,
+            "size_uncom": 8292.0,
+            "size_compr": 2870.0,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppirhos",
-            "size_uncom": 20.66,
-            "size_compr": 7.105,
+            "size_uncom": 8264.0,
+            "size_compr": 2842.0,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak4PFJetsCHSsigmas",
-            "size_uncom": 20.66,
-            "size_compr": 7.105,
+            "size_uncom": 8264.0,
+            "size_compr": 2842.0,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak4PFJetsPuppirhos",
-            "size_uncom": 20.66,
-            "size_compr": 7.105,
+            "size_uncom": 8264.0,
+            "size_compr": 2842.0,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak4PFJetsCHSrhos",
-            "size_uncom": 20.59,
-            "size_compr": 7.025,
+            "size_uncom": 8236.0,
+            "size_compr": 2810.0,
             "type": "doubles"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppiSoftDropsigma",
-            "size_uncom": 14.83,
-            "size_compr": 6.255,
+            "size_uncom": 5932.0,
+            "size_compr": 2502.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppiSoftDroprho",
-            "size_uncom": 14.76,
-            "size_compr": 6.185,
+            "size_uncom": 5904.0,
+            "size_compr": 2474.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "addPileupInfobunchSpacing",
-            "size_uncom": 10.59,
-            "size_compr": 6.005,
+            "size_uncom": 4236.0,
+            "size_compr": 2402.0,
             "type": "int"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppisigma",
-            "size_uncom": 14.55,
-            "size_compr": 5.975,
+            "size_uncom": 5820.0,
+            "size_compr": 2390.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4PFJetsPuppisigma",
-            "size_uncom": 14.55,
-            "size_compr": 5.975,
+            "size_uncom": 5820.0,
+            "size_compr": 2390.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak8GenJetsNoNusigma",
-            "size_uncom": 14.515,
-            "size_compr": 5.94,
+            "size_uncom": 5806.0,
+            "size_compr": 2376.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4GenJetsNoNusigma",
-            "size_uncom": 14.515,
-            "size_compr": 5.94,
+            "size_uncom": 5806.0,
+            "size_compr": 2376.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4PFJetsCHSsigma",
-            "size_uncom": 14.48,
-            "size_compr": 5.905,
+            "size_uncom": 5792.0,
+            "size_compr": 2362.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4PFJetsPuppirho",
-            "size_uncom": 14.48,
-            "size_compr": 5.905,
+            "size_uncom": 5792.0,
+            "size_compr": 2362.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak8PFJetsPuppirho",
-            "size_uncom": 14.48,
-            "size_compr": 5.905,
+            "size_uncom": 5792.0,
+            "size_compr": 2362.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4CaloJetssigma",
-            "size_uncom": 14.445,
-            "size_compr": 5.87,
+            "size_uncom": 5778.0,
+            "size_compr": 2348.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4GenJetsNoNurho",
-            "size_uncom": 14.445,
-            "size_compr": 5.87,
+            "size_uncom": 5778.0,
+            "size_compr": 2348.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak8GenJetsNoNurho",
-            "size_uncom": 14.445,
-            "size_compr": 5.87,
+            "size_uncom": 5778.0,
+            "size_compr": 2348.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4PFJetsCHSrho",
-            "size_uncom": 14.41,
-            "size_compr": 5.835,
+            "size_uncom": 5764.0,
+            "size_compr": 2334.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4CaloJetsrho",
-            "size_uncom": 14.375,
-            "size_compr": 5.8,
+            "size_uncom": 5750.0,
+            "size_compr": 2320.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4PFJetssigma",
-            "size_uncom": 14.375,
-            "size_compr": 5.8,
+            "size_uncom": 5750.0,
+            "size_compr": 2320.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4GenJetssigma",
-            "size_uncom": 14.375,
-            "size_compr": 5.8,
+            "size_uncom": 5750.0,
+            "size_compr": 2320.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak8GenJetssigma",
-            "size_uncom": 14.375,
-            "size_compr": 5.8,
+            "size_uncom": 5750.0,
+            "size_compr": 2320.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4GenJetsrho",
-            "size_uncom": 14.305,
-            "size_compr": 5.73,
+            "size_uncom": 5722.0,
+            "size_compr": 2292.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak8GenJetsrho",
-            "size_uncom": 14.305,
-            "size_compr": 5.73,
+            "size_uncom": 5722.0,
+            "size_compr": 2292.0,
             "type": "double"
         },
         {
             "events": 400,
             "label": "ak4PFJetsrho",
-            "size_uncom": 14.305,
-            "size_compr": 5.73,
+            "size_uncom": 5722.0,
+            "size_compr": 2292.0,
             "type": "double"
         }
     ],
@@ -3309,8 +3309,8 @@
     "total": {
         "events": "400",
         "label": "step3_eventsize",
-        "size_uncom": 3114324.627499999,
-        "size_compr": 677977.5155000008,
+        "size_uncom": 1245729851.0000002,
+        "size_compr": 271191006.1999998,
         "type": "job"
     }
 }
